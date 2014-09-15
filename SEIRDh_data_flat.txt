@@ -1,1147 +1,1221 @@
-date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death
-20131202	NEJMoa1404505	GIN	1	Guinea	1			0
-20131202	NEJMoa1404505	GIN	3	Kissidougou 	0			0
-20131202	NEJMoa1404505	GIN	3	Macenta 	0			0
-20131202	NEJMoa1404505	GIN	3	Guéckédou	1			0
-20131209	NEJMoa1404505	GIN	1	Guinea	1			1
-20131209	NEJMoa1404505	GIN	3	Kissidougou 	0			0
-20131209	NEJMoa1404505	GIN	3	Macenta 	0			0
-20131209	NEJMoa1404505	GIN	3	Guéckédou	1			1
-20131216	NEJMoa1404505	GIN	1	Guinea	4			1
-20131216	NEJMoa1404505	GIN	3	Kissidougou 	0			0
-20131216	NEJMoa1404505	GIN	3	Macenta 	0			0
-20131216	NEJMoa1404505	GIN	3	Guéckédou	4			1
-20131223	NEJMoa1404505	GIN	1	Guinea	4			4
-20131223	NEJMoa1404505	GIN	3	Kissidougou 	0			0
-20131223	NEJMoa1404505	GIN	3	Macenta 	0			0
-20131223	NEJMoa1404505	GIN	3	Guéckédou	4			4
-20131230	NEJMoa1404505	GIN	1	Guinea	4			4
-20131230	NEJMoa1404505	GIN	3	Kissidougou 	0			0
-20131230	NEJMoa1404505	GIN	3	Macenta 	0			0
-20131230	NEJMoa1404505	GIN	3	Guéckédou	4			4
-20140106	NEJMoa1404505	GIN	1	Guinea	4			4
-20140106	NEJMoa1404505	GIN	3	Kissidougou 	0			0
-20140106	NEJMoa1404505	GIN	3	Macenta 	0			0
-20140106	NEJMoa1404505	GIN	3	Guéckédou	4			4
-20140113	NEJMoa1404505	GIN	1	Guinea	7			4
-20140113	NEJMoa1404505	GIN	3	Kissidougou 	0			0
-20140113	NEJMoa1404505	GIN	3	Macenta 	0			0
-20140113	NEJMoa1404505	GIN	3	Guéckédou	7			4
-20140120	NEJMoa1404505	GIN	1	Guinea	10			7
-20140120	NEJMoa1404505	GIN	3	Kissidougou 	0			0
-20140120	NEJMoa1404505	GIN	3	Macenta 	0			0
-20140120	NEJMoa1404505	GIN	3	Guéckédou	10			7
-20140127	NEJMoa1404505	GIN	1	Guinea	15			10
-20140127	NEJMoa1404505	GIN	3	Kissidougou 	0			0
-20140127	NEJMoa1404505	GIN	3	Macenta 	0			0
-20140127	NEJMoa1404505	GIN	3	Guéckédou	15			10
-20140203	NEJMoa1404505	GIN	1	Guinea	18			15
-20140203	NEJMoa1404505	GIN	3	Kissidougou 	0			0
-20140203	NEJMoa1404505	GIN	3	Macenta 	0			0
-20140203	NEJMoa1404505	GIN	3	Guéckédou	18			15
-20140210	NEJMoa1404505	GIN	1	Guinea	22			18
-20140210	NEJMoa1404505	GIN	3	Kissidougou 	0			0
-20140210	NEJMoa1404505	GIN	3	Macenta 	2			0
-20140210	NEJMoa1404505	GIN	3	Guéckédou	20			18
-20140217	NEJMoa1404505	GIN	1	Guinea	39			22
-20140217	NEJMoa1404505	GIN	3	Kissidougou 	0			0
-20140217	NEJMoa1404505	GIN	3	Macenta 	5			2
-20140217	NEJMoa1404505	GIN	3	Guéckédou	34			20
-20140224	NEJMoa1404505	GIN	1	Guinea	48			34
-20140224	NEJMoa1404505	GIN	3	Kissidougou 	2			0
-20140224	NEJMoa1404505	GIN	3	Macenta 	7			5
-20140224	NEJMoa1404505	GIN	3	Guéckédou	39			29
-20140303	NEJMoa1404505	GIN	1	Guinea	81			40
-20140303	NEJMoa1404505	GIN	3	Kissidougou 	4			2
-20140303	NEJMoa1404505	GIN	3	Macenta 	14			7
-20140303	NEJMoa1404505	GIN	3	Guéckédou	63			31
-20140310	NEJMoa1404505	GIN	1	Guinea	100			65
-20140310	NEJMoa1404505	GIN	3	Kissidougou 	7			3
-20140310	NEJMoa1404505	GIN	3	Macenta 	19			12
-20140310	NEJMoa1404505	GIN	3	Guéckédou	74			50
-20140317	NEJMoa1404505	GIN	1	Guinea	111			72
-20140317	NEJMoa1404505	GIN	3	Kissidougou 	8			5
-20140317	NEJMoa1404505	GIN	3	Macenta 	23			12
-20140317	NEJMoa1404505	GIN	3	Guéckédou	80			55
-20140410	WHO	LBR	1	Liberia	12			2
-20140410	WHO	LBR	3	Lofa	9			
-20140410	WHO	LBR	3	Monteserrado	1			1
-20140410	WHO	LBR	3	Margibi	1			1
-20140410	WHO	LBR	3	Nimba	1			0
-20140502	WHO	GIN	1	Guinea	226			149
-20140502	WHO	GIN	3	Conakry	53			24
-20140502	WHO	GIN	3	Guéckédou	140			99
-20140502	WHO	GIN	3	Macenta	22			16
-20140502	WHO	GIN	3	Kissidougou	6			5
-20140502	WHO	GIN	3	Dabola	4			4
-20140502	WHO	GIN	3	Djinguiraye	1			1
-20140505	WHO	GIN	1	Guinea	231			155
-20140505	WHO	GIN	3	Conakry	53			24
-20140505	WHO	GIN	3	Guéckédou	145			105
-20140505	WHO	GIN	3	Macenta	22			16
-20140505	WHO	GIN	3	Kissidougou	6			5
-20140505	WHO	GIN	3	Dabola	4			4
-20140505	WHO	GIN	3	Djinguiraye	1			1
-20140507	WHO	GIN	1	Guinea	235			157
-20140507	WHO	GIN	3	Conakry	53			24
-20140507	WHO	GIN	3	Guéckédou	149			107
-20140507	WHO	GIN	3	Macenta	22			16
-20140507	WHO	GIN	3	Kissidougou	6			5
-20140507	WHO	GIN	3	Dabola	4			4
-20140507	WHO	GIN	3	Djinguiraye	1			1
-20140509	WHO	GIN	1	Guinea	237			158
-20140509	WHO	GIN	3	Conakry	53			24
-20140509	WHO	GIN	3	Guéckédou	151			108
-20140509	WHO	GIN	3	Macenta	22			16
-20140509	WHO	GIN	3	Kissidougou	6			5
-20140509	WHO	GIN	3	Dabola	4			4
-20140509	WHO	GIN	3	Djinguiraye	1			1
-20140510	WHO	GIN	1	Guinea	233			157
-20140510	WHO	GIN	3	Conakry	50			24
-20140510	WHO	GIN	3	Guéckédou	149			106
-20140510	WHO	GIN	3	Macenta	23			17
-20140510	WHO	GIN	3	Kissidougou	6			5
-20140510	WHO	GIN	3	Dabola	4			4
-20140510	WHO	GIN	3	Djinguiraye	1			1
-20140515	WHO	GIN	1	Guinea	246			170
-20140515	WHO	GIN	3	Conakry	50			24
-20140515	WHO	GIN	3	Guéckédou	163			119
-20140515	WHO	GIN	3	Macenta	22			17
-20140515	WHO	GIN	3	Kissidougou	6			5
-20140515	WHO	GIN	3	Dabola	4			4
-20140515	WHO	GIN	3	Djinguiraye	1			1
-20140518	WHO	GIN	1	Guinea	251			175
-20140518	WHO	GIN	3	Conakry	50			25
-20140518	WHO	GIN	3	Guéckédou	168			123
-20140518	WHO	GIN	3	Macenta	22			17
-20140518	WHO	GIN	3	Kissidougou	6			5
-20140518	WHO	GIN	3	Dabola	4			4
-20140518	WHO	GIN	3	Djinguiraye	1			1
-20140523	WHO	GIN	1	Guinea	256			173
-20140523	WHO	SLE	1	SierraLeone	0			0
-20140523	WHO	GIN	3	Conakry	50			25
-20140523	WHO	GIN	3	Guéckédou	170			121
-20140523	WHO	GIN	3	Macenta	22			17
-20140523	WHO	GIN	3	Kissidougou	6			5
-20140523	WHO	GIN	3	Dabola	4			4
-20140523	WHO	GIN	3	Djinguiraye	1			1
-20140523	WHO	GIN	3	Télimélé	3			0
-20140527	WHO	GIN	1	Guinea	266			181
-20140527	WHO	SLE	1	SierraLeone	16			5
-20140527	WHO	GIN	3	Conakry	48			26
-20140527	WHO	GIN	3	Guéckédou	176			126
-20140527	WHO	GIN	3	Macenta	31			19
-20140527	WHO	GIN	3	Kissidougou	6			5
-20140527	WHO	GIN	3	Dabola	4			4
-20140527	WHO	GIN	3	Djinguiraye	1			1
-20140529	WHO	SLE	1	SierraLeone	50			6
-20140601	WHO	SLE	1	SierraLeone	79			6
-20140601	WHO	SLE	3	Kailahun	41			6
-20140601	WHO	SLE	3	Kenema	3			0
-20140601	WHO	SLE	3	WesternAreaUrban	1			0
-20140605	WHO	SLE	1	SierraLeone	81			6
-20140606	WHO	SLE	1	SierraLeone	89			7
-20140607	WHO	GIN	1	Guinea	345			225
-20140607	WHO	GIN	3	Conakry	67			29
-20140607	WHO	GIN	3	Guéckédou	194			146
-20140607	WHO	GIN	3	Macenta	41			27
-20140607	WHO	GIN	3	Kissidougou	6			5
-20140607	WHO	GIN	3	Dabola	4			4
-20140607	WHO	GIN	3	Djinguiraye	1			1
-20140607	WHO	GIN	3	Télimélé	25			7
-20140607	WHO	GIN	3	Boffa	7			6
-20140607	WHO	GIN	3	Kouroussa	1			1
-20140615	WHO	SLE	1	SierraLeone	95			46
-20140616	Liberia_MoH_sitRep	LBR	1	Liberia	22	5		16
-20140616	Liberia_MoH_sitRep	LBR	3	Bomi				
-20140616	Liberia_MoH_sitRep	LBR	3	Bong				
-20140616	Liberia_MoH_sitRep	LBR	3	GrandKru				
-20140616	Liberia_MoH_sitRep	LBR	3	Lofa	14	5		8
-20140616	Liberia_MoH_sitRep	LBR	3	Margibi				
-20140616	Liberia_MoH_sitRep	LBR	3	Maryland				
-20140616	Liberia_MoH_sitRep	LBR	3	Monteserrado	8	0		0
-20140616	Liberia_MoH_sitRep	LBR	3	Nimba				
-20140616	Liberia_MoH_sitRep	LBR	3	RiverGee				
-20140616	Liberia_MoH_sitRep	LBR	3	RiverCess				
-20140616	Liberia_MoH_sitRep	LBR	3	Sinoe				
-20140617	WHO	GIN	1	Guinea	390			263
-20140617	WHO	SLE	1	SierraLeone	114	53	13	50
-20140617	Liberia_MoH_sitRep	LBR	1	Liberia	22	5		16
-20140617	WHO	GIN	3	Conakry	70			33
-20140617	WHO	GIN	3	Guéckédou	224			173
-20140617	WHO	GIN	3	Macenta	41			28
-20140617	WHO	GIN	3	Kissidougou	6			5
-20140617	WHO	GIN	3	Dabola	4			4
-20140617	WHO	GIN	3	Djinguiraye	1			1
-20140617	WHO	GIN	3	Télimélé	25			9
-20140617	WHO	GIN	3	Boffa	19			10
-20140617	WHO	GIN	3	Kouroussa	1			1
-20140617	WHO	SLE	3	Kailahun	92			46
-20140617	WHO	SLE	3	Kenema	19			2
-20140617	WHO	SLE	3	PortLoko	2			1
-20140617	WHO	SLE	3	WesternAreaUrban	1			1
-20140617	Liberia_MoH_sitRep	LBR	3	Bomi				
-20140617	Liberia_MoH_sitRep	LBR	3	Bong				
-20140617	Liberia_MoH_sitRep	LBR	3	GrandKru				
-20140617	Liberia_MoH_sitRep	LBR	3	Lofa	14	5		8
-20140617	Liberia_MoH_sitRep	LBR	3	Margibi				
-20140617	Liberia_MoH_sitRep	LBR	3	Maryland				
-20140617	Liberia_MoH_sitRep	LBR	3	Monteserrado	8	0		0
-20140617	Liberia_MoH_sitRep	LBR	3	Nimba				
-20140617	Liberia_MoH_sitRep	LBR	3	RiverGee				
-20140617	Liberia_MoH_sitRep	LBR	3	RiverCess				
-20140617	Liberia_MoH_sitRep	LBR	3	Sinoe				
-20140622	Liberia_MoH_sitRep	LBR	1	Liberia	26	10		16
-20140622	Liberia_MoH_sitRep	LBR	3	Bomi				
-20140622	Liberia_MoH_sitRep	LBR	3	Bong				
-20140622	Liberia_MoH_sitRep	LBR	3	GrandKru				
-20140622	Liberia_MoH_sitRep	LBR	3	Lofa	18	10		8
-20140622	Liberia_MoH_sitRep	LBR	3	Margibi				
-20140622	Liberia_MoH_sitRep	LBR	3	Maryland				
-20140622	Liberia_MoH_sitRep	LBR	3	Monteserrado	10	0		8
-20140622	Liberia_MoH_sitRep	LBR	3	Nimba				
-20140622	Liberia_MoH_sitRep	LBR	3	RiverGee				
-20140622	Liberia_MoH_sitRep	LBR	3	RiverCess				
-20140622	Liberia_MoH_sitRep	LBR	3	Sinoe				
-20140623	WHO	GIN	1	Guinea	389			269
-20140623	WHO	SLE	1	SierraLeone	157			36
-20140623	WHO	GIN	3	Conakry	65			33
-20140623	WHO	GIN	3	Guéckédou	226			177
-20140623	WHO	GIN	3	Macenta	41			28
-20140623	WHO	GIN	3	Kissidougou	6			5
-20140623	WHO	GIN	3	Dabola	4			4
-20140623	WHO	GIN	3	Djinguiraye	1			1
-20140623	WHO	GIN	3	Télimélé	25			9
-20140623	WHO	GIN	3	Boffa	21			12
-20140623	WHO	GIN	3	Kouroussa	1			1
-20140623	WHO	SLE	3	Kailahun	135			32
-20140623	WHO	SLE	3	Kenema	19			2
-20140623	WHO	SLE	3	PortLoko	1			1
-20140623	WHO	SLE	3	WesternAreaUrban	2			1
-20140624		SLE	1	SierraLeone		45	15	
-20140624	Liberia_MoH_sitRep	LBR	1	Liberia	42	15		25
-20140624	Liberia_MoH_sitRep	LBR	3	Bomi				
-20140624	Liberia_MoH_sitRep	LBR	3	Bong				
-20140624	Liberia_MoH_sitRep	LBR	3	GrandKru				
-20140624	Liberia_MoH_sitRep	LBR	3	Lofa	31	15		14
-20140624	Liberia_MoH_sitRep	LBR	3	Margibi				
-20140624	Liberia_MoH_sitRep	LBR	3	Maryland				
-20140624	Liberia_MoH_sitRep	LBR	3	Monteserrado	11	0		11
-20140624	Liberia_MoH_sitRep	LBR	3	Nimba				
-20140624	Liberia_MoH_sitRep	LBR	3	RiverGee				
-20140624	Liberia_MoH_sitRep	LBR	3	RiverCess				
-20140624	Liberia_MoH_sitRep	LBR	3	Sinoe				
-20140625		SLE	1	SierraLeone				
-20140625	Liberia_MoH_sitRep	LBR	1	Liberia	54	25		32
-20140625	Liberia_MoH_sitRep	LBR	3	Bomi				
-20140625	Liberia_MoH_sitRep	LBR	3	Bong				
-20140625	Liberia_MoH_sitRep	LBR	3	GrandKru				
-20140625	Liberia_MoH_sitRep	LBR	3	Lofa	38	20		17
-20140625	Liberia_MoH_sitRep	LBR	3	Margibi				
-20140625	Liberia_MoH_sitRep	LBR	3	Maryland				
-20140625	Liberia_MoH_sitRep	LBR	3	Monteserrado	16	5		15
-20140625	Liberia_MoH_sitRep	LBR	3	Nimba				
-20140625	Liberia_MoH_sitRep	LBR	3	RiverGee				
-20140625	Liberia_MoH_sitRep	LBR	3	RiverCess				
-20140625	Liberia_MoH_sitRep	LBR	3	Sinoe				
-20140627		SLE	1	SierraLeone		48	18	
-20140627	Liberia_MoH_sitRep	LBR	1	Liberia	61	25		37
-20140627	Liberia_MoH_sitRep	LBR	3	Bomi				
-20140627	Liberia_MoH_sitRep	LBR	3	Bong				
-20140627	Liberia_MoH_sitRep	LBR	3	GrandKru				
-20140627	Liberia_MoH_sitRep	LBR	3	Lofa	42	20		19
-20140627	Liberia_MoH_sitRep	LBR	3	Margibi	2	0		0
-20140627	Liberia_MoH_sitRep	LBR	3	Maryland				0
-20140627	Liberia_MoH_sitRep	LBR	3	Monteserrado	17	5		18
-20140627	Liberia_MoH_sitRep	LBR	3	Nimba				
-20140627	Liberia_MoH_sitRep	LBR	3	RiverGee				
-20140627	Liberia_MoH_sitRep	LBR	3	RiverCess				
-20140627	Liberia_MoH_sitRep	LBR	3	Sinoe				
-20140628		SLE	1	SierraLeone		44	22	
-20140628	Liberia_MoH_sitRep	LBR	1	Liberia				48
-20140628	Liberia_MoH_sitRep	LBR	3	Bomi				0
-20140628	Liberia_MoH_sitRep	LBR	3	Bong				0
-20140628	Liberia_MoH_sitRep	LBR	3	GrandKru				0
-20140628	Liberia_MoH_sitRep	LBR	3	Lofa				26
-20140628	Liberia_MoH_sitRep	LBR	3	Margibi				2
-20140628	Liberia_MoH_sitRep	LBR	3	Maryland				0
-20140628	Liberia_MoH_sitRep	LBR	3	Monteserrado				20
-20140628	Liberia_MoH_sitRep	LBR	3	Nimba				0
-20140628	Liberia_MoH_sitRep	LBR	3	RiverGee				0
-20140628	Liberia_MoH_sitRep	LBR	3	RiverCess				0
-20140628	Liberia_MoH_sitRep	LBR	3	Sinoe				0
-20140629		SLE	1	SierraLeone		46	23	
-20140629	Liberia_MoH_sitRep	LBR	1	Liberia	88	25		49
-20140629	Liberia_MoH_sitRep	LBR	3	Bomi		0		0
-20140629	Liberia_MoH_sitRep	LBR	3	Bong		0		0
-20140629	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0
-20140629	Liberia_MoH_sitRep	LBR	3	Lofa	61	19		27
-20140629	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2
-20140629	Liberia_MoH_sitRep	LBR	3	Maryland		0		0
-20140629	Liberia_MoH_sitRep	LBR	3	Monteserrado	24	6		20
-20140629	Liberia_MoH_sitRep	LBR	3	Nimba		0		0
-20140629	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0
-20140629	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0
-20140629	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0
-20140630	WHO	SLE	1	SierraLeone	239	49	23	99
-20140630	WHO	GIN	1	Guinea	413			303
-20140701	Liberia_MoH_sitRep	LBR	1	Liberia	90	25		49
-20140701	Liberia_MoH_sitRep	LBR	3	Bomi		0		0
-20140701	Liberia_MoH_sitRep	LBR	3	Bong		0		0
-20140701	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0
-20140701	Liberia_MoH_sitRep	LBR	3	Lofa	61	19		27
-20140701	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2
-20140701	Liberia_MoH_sitRep	LBR	3	Maryland		0		0
-20140701	Liberia_MoH_sitRep	LBR	3	Monteserrado	26	6		20
-20140701	Liberia_MoH_sitRep	LBR	3	Nimba		0		0
-20140701	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0
-20140701	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0
-20140701	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0
-20140702	WHO	GIN	1	Guinea	412			305
-20140702		SLE	1	SierraLeone	252	58	28	101
-20140702	Liberia_MoH_sitRep	LBR	1	Liberia	100	19		61
-20140702	Liberia_MoH_sitRep	LBR	3	Bomi		0		0
-20140702	Liberia_MoH_sitRep	LBR	3	Bong		0		0
-20140702	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0
-20140702	Liberia_MoH_sitRep	LBR	3	Lofa	64	15		32
-20140702	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2
-20140702	Liberia_MoH_sitRep	LBR	3	Maryland		0		0
-20140702	Liberia_MoH_sitRep	LBR	3	Monteserrado	33	4		27
-20140702	Liberia_MoH_sitRep	LBR	3	Nimba		0		0
-20140702	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0
-20140702	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0
-20140702	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0
-20140703	Liberia_MoH_sitRep	LBR	1	Liberia	104	18		66
-20140703	Liberia_MoH_sitRep	LBR	3	Bomi		0		0
-20140703	Liberia_MoH_sitRep	LBR	3	Bong		0		0
-20140703	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0
-20140703	Liberia_MoH_sitRep	LBR	3	Lofa	67	13		35
-20140703	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2
-20140703	Liberia_MoH_sitRep	LBR	3	Maryland		0		0
-20140703	Liberia_MoH_sitRep	LBR	3	Monteserrado	34	5		29
-20140703	Liberia_MoH_sitRep	LBR	3	Nimba		0		0
-20140703	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0
-20140703	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0
-20140703	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0
-20140706	WHO	GIN	1	Guinea	408			307
-20140706		SLE	1	SierraLeone	305	89	32	127
-20140707		SLE	1	SierraLeone		92	34	
-20140707	Liberia_MoH_sitRep	LBR	1	Liberia	108	18		70
-20140707	Liberia_MoH_sitRep	LBR	3	Bomi		0		0
-20140707	Liberia_MoH_sitRep	LBR	3	Bong		0		0
-20140707	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0
-20140707	Liberia_MoH_sitRep	LBR	3	Lofa	67	13		35
-20140707	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2
-20140707	Liberia_MoH_sitRep	LBR	3	Maryland		0		0
-20140707	Liberia_MoH_sitRep	LBR	3	Monteserrado	38	5		33
-20140707	Liberia_MoH_sitRep	LBR	3	Nimba		0		0
-20140707	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0
-20140707	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0
-20140707	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0
-20140708	WHO	SLE	1	SierraLeone	337			142
-20140708	WHO	GIN	1	Guinea	409			309
-20140708	Liberia_MoH_sitRep	LBR	1	Liberia	130	14		78
-20140708	Liberia_MoH_sitRep	LBR	3	Bomi		0		0
-20140708	Liberia_MoH_sitRep	LBR	3	Bong		0		0
-20140708	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0
-20140708	Liberia_MoH_sitRep	LBR	3	Lofa	86	9		41
-20140708	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2
-20140708	Liberia_MoH_sitRep	LBR	3	Maryland		0		0
-20140708	Liberia_MoH_sitRep	LBR	3	Monteserrado	41	5		35
-20140708	Liberia_MoH_sitRep	LBR	3	Nimba		0		0
-20140708	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0
-20140708	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0
-20140708	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0
-20140709		SLE	1	SierraLeone		93	39	
-20140710		SLE	1	SierraLeone				
-20140710	Liberia_MoH_sitRep	LBR	1	Liberia	133	14		80
-20140710	Liberia_MoH_sitRep	LBR	3	Bomi		0		0
-20140710	Liberia_MoH_sitRep	LBR	3	Bong		0		0
-20140710	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0
-20140710	Liberia_MoH_sitRep	LBR	3	Lofa	86	8		42
-20140710	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2
-20140710	Liberia_MoH_sitRep	LBR	3	Maryland		0		0
-20140710	Liberia_MoH_sitRep	LBR	3	Monteserrado	44	6		36
-20140710	Liberia_MoH_sitRep	LBR	3	Nimba		0		0
-20140710	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0
-20140710	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0
-20140710	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0
-20140711		SLE	1	SierraLeone				
-20140712	WHO	SLE	1	SierraLeone	386		55	194
-20140712	WHO	GIN	1	Guinea	406			304
-20140713		SLE	1	SierraLeone		81	57	
-20140713	Liberia_MoH_sitRep	LBR	1	Liberia	137	10		85
-20140713	Liberia_MoH_sitRep	LBR	3	Bomi	1	0		1
-20140713	Liberia_MoH_sitRep	LBR	3	Bong		0		0
-20140713	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0
-20140713	Liberia_MoH_sitRep	LBR	3	Lofa	87	3		46
-20140713	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2
-20140713	Liberia_MoH_sitRep	LBR	3	Maryland		0		0
-20140713	Liberia_MoH_sitRep	LBR	3	Monteserrado	46	7		36
-20140713	Liberia_MoH_sitRep	LBR	3	Nimba		0		0
-20140713	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0
-20140713	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0
-20140713	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0
-20140714	WHO	SLE	1	SierraLeone	397	82	60	197
-20140714	WHO	GIN	1	Guinea	411			310
-20140715		SLE	1	SierraLeone		85	60	
-20140716		SLE	1	SierraLeone		71	85	
-20140717	WHO	SLE	1	SierraLeone	442	61	89	206
-20140717	WHO	GIN	1	Guinea	410			310
-20140717	Liberia_MoH_sitRep	LBR	1	Liberia	164	20		94
-20140717	Liberia_MoH_sitRep	LBR	3	Bomi	1	0		1
-20140717	Liberia_MoH_sitRep	LBR	3	Bong		0		0
-20140717	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0
-20140717	Liberia_MoH_sitRep	LBR	3	Lofa	104	15		49
-20140717	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2
-20140717	Liberia_MoH_sitRep	LBR	3	Maryland		0		0
-20140717	Liberia_MoH_sitRep	LBR	3	Monteserrado	55	5		42
-20140717	Liberia_MoH_sitRep	LBR	3	Nimba		0		0
-20140717	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0
-20140717	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0
-20140717	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0
-20140718		SLE	1	SierraLeone		65	92	
-20140719		SLE	1	SierraLeone		75	96	
-20140720	WHO	GIN	1	Guinea	415			314
-20140720		SLE	1	SierraLeone	454			219
-20140720	Liberia_MoH_sitRep	LBR	1	Liberia	188	24		108
-20140720	Liberia_MoH_sitRep	LBR	3	Bomi	2	0		2
-20140720	Liberia_MoH_sitRep	LBR	3	Bong	4	0		0
-20140720	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0
-20140720	Liberia_MoH_sitRep	LBR	3	Lofa	113	15		53
-20140720	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2
-20140720	Liberia_MoH_sitRep	LBR	3	Maryland		0		0
-20140720	Liberia_MoH_sitRep	LBR	3	Monteserrado	63	9		51
-20140720	Liberia_MoH_sitRep	LBR	3	Nimba		0		0
-20140720	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0
-20140720	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0
-20140720	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0
-20140723	WHO	SLE	1	SierraLeone	525	65	108	224
-20140723	WHO	GIN	1	Guinea	427			319
-20140724	Liberia_MoH_sitRep	LBR	1	Liberia	216	27		116
-20140724	Liberia_MoH_sitRep	LBR	3	Bomi	2	0		2
-20140724	Liberia_MoH_sitRep	LBR	3	Bong	19	0		2
-20140724	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0
-20140724	Liberia_MoH_sitRep	LBR	3	Lofa	118	13		55
-20140724	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2
-20140724	Liberia_MoH_sitRep	LBR	3	Maryland		0		0
-20140724	Liberia_MoH_sitRep	LBR	3	Monteserrado	70	14		55
-20140724	Liberia_MoH_sitRep	LBR	3	Nimba	4	0		0
-20140724	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0
-20140724	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0
-20140724	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0
-20140725		SLE	1	SierraLeone		73	116	
-20140726	Liberia_MoH_sitRep	LBR	1	Liberia	288	29		136
-20140726	Liberia_MoH_sitRep	LBR	3	Bomi	13	0		2
-20140726	Liberia_MoH_sitRep	LBR	3	Bong	35	0		7
-20140726	Liberia_MoH_sitRep	LBR	3	Gbarpolu		0		0
-20140726	Liberia_MoH_sitRep	LBR	3	GrandBassa		0		0
-20140726	Liberia_MoH_sitRep	LBR	3	GrandCapeMount		0		0
-20140726	Liberia_MoH_sitRep	LBR	3	GrandGedeh		0		1
-20140726	Liberia_MoH_sitRep	LBR	3	Lofa	142	13		66
-20140726	Liberia_MoH_sitRep	LBR	3	Margibi	4	0		2
-20140726	Liberia_MoH_sitRep	LBR	3	Maryland		0		0
-20140726	Liberia_MoH_sitRep	LBR	3	Monteserrado	89	16		58
-20140726	Liberia_MoH_sitRep	LBR	3	Nimba	4	0		0
-20140727	WHO	GIN	1	Guinea	460			339
-20140728		SLE	1	SierraLeone	533	80	121	233
-20140728	Liberia_MoH_sitRep	LBR	1	Liberia	307	31		145
-20140728	Liberia_MoH_sitRep	LBR	3	Bomi	19	0		2
-20140728	Liberia_MoH_sitRep	LBR	3	Bong	39	0		8
-20140728	Liberia_MoH_sitRep	LBR	3	Gbarpolu		0		0
-20140728	Liberia_MoH_sitRep	LBR	3	GrandBassa		0		0
-20140728	Liberia_MoH_sitRep	LBR	3	GrandCapeMount		0		0
-20140728	Liberia_MoH_sitRep	LBR	3	GrandGedeh		0		1
-20140728	Liberia_MoH_sitRep	LBR	3	Lofa	146	9		68
-20140728	Liberia_MoH_sitRep	LBR	3	Margibi	6	0		4
-20140728	Liberia_MoH_sitRep	LBR	3	Maryland		0		0
-20140728	Liberia_MoH_sitRep	LBR	3	Monteserrado	92	22		62
-20140728	Liberia_MoH_sitRep	LBR	3	Nimba	4	0		0
-20140730	WHO	GIN	1	Guinea	472			346
-20140731		SLE	1	SierraLeone	574	73	133	252
-20140731	Liberia_MoH_sitRep	LBR	1	Liberia		40		170
-20140731	Liberia_MoH_sitRep	LBR	3	Bomi				2
-20140731	Liberia_MoH_sitRep	LBR	3	Bong				8
-20140731	Liberia_MoH_sitRep	LBR	3	Gbarpolu				
-20140731	Liberia_MoH_sitRep	LBR	3	GrandBassa				
-20140731	Liberia_MoH_sitRep	LBR	3	GrandCapeMount				
-20140731	Liberia_MoH_sitRep	LBR	3	GrandGedeh				1
-20140731	Liberia_MoH_sitRep	LBR	3	Lofa		23		79
-20140731	Liberia_MoH_sitRep	LBR	3	Margibi				4
-20140731	Liberia_MoH_sitRep	LBR	3	Maryland				
-20140731	Liberia_MoH_sitRep	LBR	3	Monteserrado		17		73
-20140731	Liberia_MoH_sitRep	LBR	3	Nimba				3
-20140801	WHO	SLE	1	SierraLeone	646	70	140	273
-20140801	WHO	GIN	1	Guinea	485			358
-20140802	Liberia_MoH_sitRep	LBR	1	Liberia	426	47		225
-20140802	Liberia_MoH_sitRep	LBR	3	Bomi	23			8
-20140802	Liberia_MoH_sitRep	LBR	3	Bong	42			8
-20140802	Liberia_MoH_sitRep	LBR	3	Gbarpolu				
-20140802	Liberia_MoH_sitRep	LBR	3	GrandBassa				
-20140802	Liberia_MoH_sitRep	LBR	3	GrandCapeMount				1
-20140802	Liberia_MoH_sitRep	LBR	3	GrandGedeh				
-20140802	Liberia_MoH_sitRep	LBR	3	Lofa	228	32		95
-20140802	Liberia_MoH_sitRep	LBR	3	Margibi				4
-20140802	Liberia_MoH_sitRep	LBR	3	Maryland				
-20140802	Liberia_MoH_sitRep	LBR	3	Monteserrado	116	15		105
-20140802	Liberia_MoH_sitRep	LBR	3	Nimba	9			3
-20140802	Liberia_MoH_sitRep	LBR	3	RiverCess				1
-20140804	WHO	SLE	1	SierraLeone	691	95	159	286
-20140804	WHO	GIN	1	Guinea	495			363
-20140804	Liberia_MoH_sitRep	LBR	1	Liberia	471	40		257
-20140804	Liberia_MoH_sitRep	LBR	3	Bomi	23			8
-20140804	Liberia_MoH_sitRep	LBR	3	Bong	53			11
-20140804	Liberia_MoH_sitRep	LBR	3	Gbarpolu				
-20140804	Liberia_MoH_sitRep	LBR	3	GrandBassa				1
-20140804	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	4			2
-20140804	Liberia_MoH_sitRep	LBR	3	GrandGedeh				
-20140804	Liberia_MoH_sitRep	LBR	3	Lofa	239	28		107
-20140804	Liberia_MoH_sitRep	LBR	3	Margibi	9			5
-20140804	Liberia_MoH_sitRep	LBR	3	Maryland				
-20140804	Liberia_MoH_sitRep	LBR	3	Monteserrado	128	12		117
-20140804	Liberia_MoH_sitRep	LBR	3	Nimba	13			5
-20140804	Liberia_MoH_sitRep	LBR	3	RiverCess				1
-20140806	WHO	SLE	1	SierraLeone	717		161	298
-20140806	WHO	GIN	1	Guinea	495			367
-20140806	Liberia_MoH_sitRep	LBR	1	Liberia	508	49		271
-20140806	Liberia_MoH_sitRep	LBR	3	Bomi	29			10
-20140806	Liberia_MoH_sitRep	LBR	3	Bong	59			11
-20140806	Liberia_MoH_sitRep	LBR	3	Gbarpolu				
-20140806	Liberia_MoH_sitRep	LBR	3	GrandBassa				1
-20140806	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	4			2
-20140806	Liberia_MoH_sitRep	LBR	3	GrandGedeh				
-20140806	Liberia_MoH_sitRep	LBR	3	Lofa	255	36		116
-20140806	Liberia_MoH_sitRep	LBR	3	Margibi	9			5
-20140806	Liberia_MoH_sitRep	LBR	3	Maryland				
-20140806	Liberia_MoH_sitRep	LBR	3	Monteserrado	137			120
-20140806	Liberia_MoH_sitRep	LBR	3	Nimba				5
-20140806	Liberia_MoH_sitRep	LBR	3	RiverCess				1
-20140807		SLE	1	SierraLeone			163	
-20140807	Liberia_MoH_sitRep	LBR	1	Liberia	546	61		283
-20140807	Liberia_MoH_sitRep	LBR	3	Bomi	29			10
-20140807	Liberia_MoH_sitRep	LBR	3	Bong	59			11
-20140807	Liberia_MoH_sitRep	LBR	3	Gbarpolu				
-20140807	Liberia_MoH_sitRep	LBR	3	GrandBassa				1
-20140807	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	4			2
-20140807	Liberia_MoH_sitRep	LBR	3	GrandGedeh				
-20140807	Liberia_MoH_sitRep	LBR	3	Lofa	268	36		120
-20140807	Liberia_MoH_sitRep	LBR	3	Margibi	13			5
-20140807	Liberia_MoH_sitRep	LBR	3	Maryland				
-20140807	Liberia_MoH_sitRep	LBR	3	Monteserrado	155	25		126
-20140807	Liberia_MoH_sitRep	LBR	3	Nimba	16			7
-20140807	Liberia_MoH_sitRep	LBR	3	RiverCess				1
-20140808		SLE	1	SierraLeone			175	
-20140809	WHO	SLE	1	SierraLeone	730		175	315
-20140809	WHO	GIN	1	Guinea	506			373
-20140810		SLE	1	SierraLeone			181	
-20140811	WHO	SLE	1	SierraLeone	783		181	334
-20140811	WHO	GIN	1	Guinea	510			377
-20140812	GoSL_MoHS_sitRep_77	SLE	1	SierraLeone	800	95	193	303
-20140812	Liberia_MoH_sitRep	LBR	1	Liberia	579	64		295
-20140812	GoSL_MoHS_sitRep_77	SLE	3	Kailahun	410			185
-20140812	GoSL_MoHS_sitRep_77	SLE	3	Kenema	269			105
-20140812	GoSL_MoHS_sitRep_77	SLE	3	Kono	35			0
-20140812	GoSL_MoHS_sitRep_77	SLE	3	Kambia	1			0
-20140812	GoSL_MoHS_sitRep_77	SLE	3	Koinadugu	0			0
-20140812	GoSL_MoHS_sitRep_77	SLE	3	Bombali	9			1
-20140812	GoSL_MoHS_sitRep_77	SLE	3	Tonkolili	2			0
-20140812	GoSL_MoHS_sitRep_77	SLE	3	PortLoko	25			3
-20140812	GoSL_MoHS_sitRep_77	SLE	3	Pujehun	3			0
-20140812	GoSL_MoHS_sitRep_77	SLE	3	Bo	25			2
-20140812	GoSL_MoHS_sitRep_77	SLE	3	Moyamba	5			3
-20140812	GoSL_MoHS_sitRep_77	SLE	3	Bonthe	1			0
-20140812	GoSL_MoHS_sitRep_77	SLE	3	WesternAreaUrban	14			4
-20140812	GoSL_MoHS_sitRep_77	SLE	3	WesternAreaRural	1			0
-20140812	Liberia_MoH_sitRep	LBR	3	Bomi	31			11
-20140812	Liberia_MoH_sitRep	LBR	3	Bong				11
-20140812	Liberia_MoH_sitRep	LBR	3	Gbarpolu				
-20140812	Liberia_MoH_sitRep	LBR	3	GrandBassa				1
-20140812	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	5			
-20140812	Liberia_MoH_sitRep	LBR	3	GrandGedeh				
-20140812	Liberia_MoH_sitRep	LBR	3	Lofa	294	39		128
-20140812	Liberia_MoH_sitRep	LBR	3	Margibi	13			5
-20140812	Liberia_MoH_sitRep	LBR	3	Maryland				
-20140812	Liberia_MoH_sitRep	LBR	3	Monteserrado		25		128
-20140812	Liberia_MoH_sitRep	LBR	3	Nimba	10			8
-20140812	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1
-20140813	GoSL_MoHS_sitRep_78	SLE	1	SierraLeone	810	86	200	312
-20140813	WHO	GIN	1	Guinea	519			380
-20140813	GoSL_MoHS_sitRep_78	SLE	3	Kailahun	421			191
-20140813	GoSL_MoHS_sitRep_78	SLE	3	Kenema	265			108
-20140813	GoSL_MoHS_sitRep_78	SLE	3	Kono	35			0
-20140813	GoSL_MoHS_sitRep_78	SLE	3	Kambia	1			0
-20140813	GoSL_MoHS_sitRep_78	SLE	3	Koinadugu	0			0
-20140813	GoSL_MoHS_sitRep_78	SLE	3	Bombali	9			1
-20140813	GoSL_MoHS_sitRep_78	SLE	3	Tonkolili	2			0
-20140813	GoSL_MoHS_sitRep_78	SLE	3	PortLoko	25			3
-20140813	GoSL_MoHS_sitRep_78	SLE	3	Pujehun	3			0
-20140813	GoSL_MoHS_sitRep_78	SLE	3	Bo	25			2
-20140813	GoSL_MoHS_sitRep_78	SLE	3	Moyamba	5			3
-20140813	GoSL_MoHS_sitRep_78	SLE	3	Bonthe	1			0
-20140813	GoSL_MoHS_sitRep_78	SLE	3	WesternAreaUrban	17			4
-20140813	GoSL_MoHS_sitRep_78	SLE	3	WesternAreaRural	1			0
-20140814	GoSL_MoHS_sitRep_79	SLE	1	SierraLeone	823	80	201	319
-20140814	GoSL_MoHS_sitRep_79	SLE	3	Kailahun	421			194
-20140814	GoSL_MoHS_sitRep_79	SLE	3	Kenema	273			112
-20140814	GoSL_MoHS_sitRep_79	SLE	3	Kono	35			0
-20140814	GoSL_MoHS_sitRep_79	SLE	3	Kambia	1			0
-20140814	GoSL_MoHS_sitRep_79	SLE	3	Koinadugu	0			0
-20140814	GoSL_MoHS_sitRep_79	SLE	3	Bombali	9			1
-20140814	GoSL_MoHS_sitRep_79	SLE	3	Tonkolili	2			0
-20140814	GoSL_MoHS_sitRep_79	SLE	3	PortLoko	27			3
-20140814	GoSL_MoHS_sitRep_79	SLE	3	Pujehun	3			0
-20140814	GoSL_MoHS_sitRep_79	SLE	3	Bo	25			2
-20140814	GoSL_MoHS_sitRep_79	SLE	3	Moyamba	6			3
-20140814	GoSL_MoHS_sitRep_79	SLE	3	Bonthe	1			0
-20140814	GoSL_MoHS_sitRep_79	SLE	3	WesternAreaUrban	17			4
-20140814	GoSL_MoHS_sitRep_79	SLE	3	WesternAreaRural	3			0
-20140815	GoSL_MoHS_sitRep_80	SLE	1	SierraLeone	836	104	208	326
-20140815	Liberia_MoH_sitRep	LBR	1	Liberia	721	164		365
-20140815	GoSL_MoHS_sitRep_80	SLE	3	Kailahun	421			196
-20140815	GoSL_MoHS_sitRep_80	SLE	3	Kenema	278			117
-20140815	GoSL_MoHS_sitRep_80	SLE	3	Kono	35			0
-20140815	GoSL_MoHS_sitRep_80	SLE	3	Kambia	1			0
-20140815	GoSL_MoHS_sitRep_80	SLE	3	Koinadugu	0			0
-20140815	GoSL_MoHS_sitRep_80	SLE	3	Bombali	9			1
-20140815	GoSL_MoHS_sitRep_80	SLE	3	Tonkolili	2			0
-20140815	GoSL_MoHS_sitRep_80	SLE	3	PortLoko	29			3
-20140815	GoSL_MoHS_sitRep_80	SLE	3	Pujehun	3			0
-20140815	GoSL_MoHS_sitRep_80	SLE	3	Bo	28			2
-20140815	GoSL_MoHS_sitRep_80	SLE	3	Moyamba	6			3
-20140815	GoSL_MoHS_sitRep_80	SLE	3	Bonthe	1			0
-20140815	GoSL_MoHS_sitRep_80	SLE	3	WesternAreaUrban	20			4
-20140815	GoSL_MoHS_sitRep_80	SLE	3	WesternAreaRural	3			0
-20140815	Liberia_MoH_sitRep	LBR	3	Bomi	41			13
-20140815	Liberia_MoH_sitRep	LBR	3	Bong	80			21
-20140815	Liberia_MoH_sitRep	LBR	3	Gbarpolu				
-20140815	Liberia_MoH_sitRep	LBR	3	GrandBassa	14			2
-20140815	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	5			3
-20140815	Liberia_MoH_sitRep	LBR	3	GrandGedeh				
-20140815	Liberia_MoH_sitRep	LBR	3	GrandKru				
-20140815	Liberia_MoH_sitRep	LBR	3	Lofa	369	117		172
-20140815	Liberia_MoH_sitRep	LBR	3	Margibi	13			5
-20140815	Liberia_MoH_sitRep	LBR	3	Maryland				
-20140815	Liberia_MoH_sitRep	LBR	3	Monteserrado	181	47		138
-20140815	Liberia_MoH_sitRep	LBR	3	Nimba	17			10
-20140815	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1
-20140816	GoSL_MoHS_sitRep_81	SLE	1	SierraLeone	848	93	215	336
-20140816	WHO	GIN	1	Guinea	543			394
-20140816	GoSL_MoHS_sitRep_81	SLE	3	Kailahun	430			201
-20140816	GoSL_MoHS_sitRep_81	SLE	3	Kenema	282			122
-20140816	GoSL_MoHS_sitRep_81	SLE	3	Kono	35			0
-20140816	GoSL_MoHS_sitRep_81	SLE	3	Kambia	1			0
-20140816	GoSL_MoHS_sitRep_81	SLE	3	Koinadugu	0			0
-20140816	GoSL_MoHS_sitRep_81	SLE	3	Bombali	9			1
-20140816	GoSL_MoHS_sitRep_81	SLE	3	Tonkolili	2			0
-20140816	GoSL_MoHS_sitRep_81	SLE	3	PortLoko	29			3
-20140816	GoSL_MoHS_sitRep_81	SLE	3	Pujehun	3			0
-20140816	GoSL_MoHS_sitRep_81	SLE	3	Bo	25			2
-20140816	GoSL_MoHS_sitRep_81	SLE	3	Moyamba	6			3
-20140816	GoSL_MoHS_sitRep_81	SLE	3	Bonthe	1			0
-20140816	GoSL_MoHS_sitRep_81	SLE	3	WesternAreaUrban	21			4
-20140816	GoSL_MoHS_sitRep_81	SLE	3	WesternAreaRural	4			0
-20140817	GoSL_MoHS_sitRep_82	SLE	1	SierraLeone	850	87	219	344
-20140817	Liberia_MoH_sitRep	LBR	1	Liberia	826	196		455
-20140817	GoSL_MoHS_sitRep_82	SLE	3	Kailahun	433			206
-20140817	GoSL_MoHS_sitRep_82	SLE	3	Kenema	281			125
-20140817	GoSL_MoHS_sitRep_82	SLE	3	Kono	35			0
-20140817	GoSL_MoHS_sitRep_82	SLE	3	Kambia	1			0
-20140817	GoSL_MoHS_sitRep_82	SLE	3	Koinadugu	0			0
-20140817	GoSL_MoHS_sitRep_82	SLE	3	Bombali	9			1
-20140817	GoSL_MoHS_sitRep_82	SLE	3	Tonkolili	2			0
-20140817	GoSL_MoHS_sitRep_82	SLE	3	PortLoko	29			3
-20140817	GoSL_MoHS_sitRep_82	SLE	3	Pujehun	3			0
-20140817	GoSL_MoHS_sitRep_82	SLE	3	Bo	25			2
-20140817	GoSL_MoHS_sitRep_82	SLE	3	Moyamba	6			3
-20140817	GoSL_MoHS_sitRep_82	SLE	3	Bonthe	1			0
-20140817	GoSL_MoHS_sitRep_82	SLE	3	WesternAreaUrban	21			4
-20140817	GoSL_MoHS_sitRep_82	SLE	3	WesternAreaRural	4			0
-20140817	Liberia_MoH_sitRep	LBR	3	Bomi	41			14
-20140817	Liberia_MoH_sitRep	LBR	3	Bong	87			23
-20140817	Liberia_MoH_sitRep	LBR	3	GrandBassa	15			2
-20140817	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	8			6
-20140817	Liberia_MoH_sitRep	LBR	3	GrandGedeh	18			1
-20140817	Liberia_MoH_sitRep	LBR	3	Lofa				202
-20140817	Liberia_MoH_sitRep	LBR	3	Margibi				10
-20140817	Liberia_MoH_sitRep	LBR	3	Monteserrado		119		185
-20140817	Liberia_MoH_sitRep	LBR	3	Nimba				11
-20140817	Liberia_MoH_sitRep	LBR	3	RiverCess		77		1
-20140818	GoSL_MoHS_sitRep_83	SLE	1	SierraLeone	907	81	220	351
-20140818	WHO	GIN	1	Guinea	579			396
-20140818	Liberia_MoH_sitRep	LBR	1	Liberia	862	207		481
-20140818	GoSL_MoHS_sitRep_83	SLE	3	Kailahun	452			207
-20140818	GoSL_MoHS_sitRep_83	SLE	3	Kenema	302			131
-20140818	GoSL_MoHS_sitRep_83	SLE	3	Kono	35			0
-20140818	GoSL_MoHS_sitRep_83	SLE	3	Kambia	1			0
-20140818	GoSL_MoHS_sitRep_83	SLE	3	Koinadugu	0			0
-20140818	GoSL_MoHS_sitRep_83	SLE	3	Bombali	13			1
-20140818	GoSL_MoHS_sitRep_83	SLE	3	Tonkolili	2			0
-20140818	GoSL_MoHS_sitRep_83	SLE	3	PortLoko	34			3
-20140818	GoSL_MoHS_sitRep_83	SLE	3	Pujehun	3			0
-20140818	GoSL_MoHS_sitRep_83	SLE	3	Bo	26			2
-20140818	GoSL_MoHS_sitRep_83	SLE	3	Moyamba	10			3
-20140818	GoSL_MoHS_sitRep_83	SLE	3	Bonthe	1			0
-20140818	GoSL_MoHS_sitRep_83	SLE	3	WesternAreaUrban	21			4
-20140818	GoSL_MoHS_sitRep_83	SLE	3	WesternAreaRural	7			0
-20140818	Liberia_MoH_sitRep	LBR	3	Bomi	41			14
-20140818	Liberia_MoH_sitRep	LBR	3	Bong	89			25
-20140818	Liberia_MoH_sitRep	LBR	3	GrandBassa	15			2
-20140818	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	8			6
-20140818	Liberia_MoH_sitRep	LBR	3	GrandGedeh				1
-20140818	Liberia_MoH_sitRep	LBR	3	Lofa	419	98		213
-20140818	Liberia_MoH_sitRep	LBR	3	Margibi	30			14
-20140818	Liberia_MoH_sitRep	LBR	3	Monteserrado	233	109		194
-20140818	Liberia_MoH_sitRep	LBR	3	Nimba	25			11
-20140818	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1
-20140819	GoSL_MoHS_sitRep_84	SLE	1	SierraLeone	910	89	225	359
-20140819	GoSL_MoHS_sitRep_84	SLE	3	Kailahun	455			210
-20140819	GoSL_MoHS_sitRep_84	SLE	3	Kenema	302			134
-20140819	GoSL_MoHS_sitRep_84	SLE	3	Kono	35			0
-20140819	GoSL_MoHS_sitRep_84	SLE	3	Kambia	1			0
-20140819	GoSL_MoHS_sitRep_84	SLE	3	Koinadugu	0			0
-20140819	GoSL_MoHS_sitRep_84	SLE	3	Bombali	12			1
-20140819	GoSL_MoHS_sitRep_84	SLE	3	Tonkolili	2			1
-20140819	GoSL_MoHS_sitRep_84	SLE	3	PortLoko	34			3
-20140819	GoSL_MoHS_sitRep_84	SLE	3	Pujehun	4			0
-20140819	GoSL_MoHS_sitRep_84	SLE	3	Bo	27			2
-20140819	GoSL_MoHS_sitRep_84	SLE	3	Moyamba	9			4
-20140819	GoSL_MoHS_sitRep_84	SLE	3	Bonthe	1			0
-20140819	GoSL_MoHS_sitRep_84	SLE	3	WesternAreaUrban	23			4
-20140819	GoSL_MoHS_sitRep_84	SLE	3	WesternAreaRural	5			0
-20140820	GoSL_MoHS_sitRep_85	SLE	1	SierraLeone	902	71	227	361
-20140820	WHO	GIN	1	Guinea	607			406
-20140820	Liberia_MoH_sitRep	LBR	1	Liberia	964	164		565
-20140820	GoSL_MoHS_sitRep_85	SLE	3	Kailahun	456			210
-20140820	GoSL_MoHS_sitRep_85	SLE	3	Kenema	294			136
-20140820	GoSL_MoHS_sitRep_85	SLE	3	Kono	35			0
-20140820	GoSL_MoHS_sitRep_85	SLE	3	Kambia	1			0
-20140820	GoSL_MoHS_sitRep_85	SLE	3	Koinadugu	0			0
-20140820	GoSL_MoHS_sitRep_85	SLE	3	Bombali	12			1
-20140820	GoSL_MoHS_sitRep_85	SLE	3	Tonkolili	2			1
-20140820	GoSL_MoHS_sitRep_85	SLE	3	PortLoko	33			3
-20140820	GoSL_MoHS_sitRep_85	SLE	3	Pujehun	4			0
-20140820	GoSL_MoHS_sitRep_85	SLE	3	Bo	27			2
-20140820	GoSL_MoHS_sitRep_85	SLE	3	Moyamba	9			4
-20140820	GoSL_MoHS_sitRep_85	SLE	3	Bonthe	1			0
-20140820	GoSL_MoHS_sitRep_85	SLE	3	WesternAreaUrban	23			4
-20140820	GoSL_MoHS_sitRep_85	SLE	3	WesternAreaRural	5			0
-20140820	Liberia_MoH_sitRep	LBR	3	Bomi	41			14
-20140820	Liberia_MoH_sitRep	LBR	3	Bong	100			29
-20140820	Liberia_MoH_sitRep	LBR	3	GrandBassa	15			2
-20140820	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	8			6
-20140820	Liberia_MoH_sitRep	LBR	3	GrandGedeh				1
-20140820	Liberia_MoH_sitRep	LBR	3	Lofa	419	67		218
-20140820	Liberia_MoH_sitRep	LBR	3	Margibi	75			63
-20140820	Liberia_MoH_sitRep	LBR	3	Monteserrado	256	97		206
-20140820	Liberia_MoH_sitRep	LBR	3	Nimba	48			25
-20140820	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1
-20140821	GoSL_MoHS_sitRep_86	SLE	1	SierraLeone	913	78	236	371
-20140821	GoSL_MoHS_sitRep_86	SLE	3	Kailahun	457			216
-20140821	GoSL_MoHS_sitRep_86	SLE	3	Kenema	294			139
-20140821	GoSL_MoHS_sitRep_86	SLE	3	Kono	35			1
-20140821	GoSL_MoHS_sitRep_86	SLE	3	Kambia	1			0
-20140821	GoSL_MoHS_sitRep_86	SLE	3	Koinadugu	0			0
-20140821	GoSL_MoHS_sitRep_86	SLE	3	Bombali	13			1
-20140821	GoSL_MoHS_sitRep_86	SLE	3	Tonkolili	8			1
-20140821	GoSL_MoHS_sitRep_86	SLE	3	PortLoko	34			3
-20140821	GoSL_MoHS_sitRep_86	SLE	3	Pujehun	4			0
-20140821	GoSL_MoHS_sitRep_86	SLE	3	Bo	28			2
-20140821	GoSL_MoHS_sitRep_86	SLE	3	Moyamba	9			4
-20140821	GoSL_MoHS_sitRep_86	SLE	3	Bonthe	1			0
-20140821	GoSL_MoHS_sitRep_86	SLE	3	WesternAreaUrban	23			4
-20140821	GoSL_MoHS_sitRep_86	SLE	3	WesternAreaRural	6			0
-20140822	GoSL_MoHS_sitRep_87	SLE	1	SierraLeone	966		236	375
-20140822	GoSL_MoHS_sitRep_87	SLE	3	Kailahun	463			216
-20140822	GoSL_MoHS_sitRep_87	SLE	3	Kenema	304			143
-20140822	GoSL_MoHS_sitRep_87	SLE	3	Kono	35			1
-20140822	GoSL_MoHS_sitRep_87	SLE	3	Kambia	1			0
-20140822	GoSL_MoHS_sitRep_87	SLE	3	Koinadugu	0			0
-20140822	GoSL_MoHS_sitRep_87	SLE	3	Bombali	19			1
-20140822	GoSL_MoHS_sitRep_87	SLE	3	Tonkolili	10			1
-20140822	GoSL_MoHS_sitRep_87	SLE	3	PortLoko	47			3
-20140822	GoSL_MoHS_sitRep_87	SLE	3	Pujehun	5			0
-20140822	GoSL_MoHS_sitRep_87	SLE	3	Bo	34			2
-20140822	GoSL_MoHS_sitRep_87	SLE	3	Moyamba	9			4
-20140822	GoSL_MoHS_sitRep_87	SLE	3	Bonthe	1			0
-20140822	GoSL_MoHS_sitRep_87	SLE	3	WesternAreaUrban	27			4
-20140822	GoSL_MoHS_sitRep_87	SLE	3	WesternAreaRural	11			0
-20140823	GoSL_MoHS_sitRep_88	SLE	1	SierraLeone	994		240	381
-20140823	GoSL_MoHS_sitRep_88	SLE	3	Kailahun	474			219
-20140823	GoSL_MoHS_sitRep_88	SLE	3	Kenema	312			146
-20140823	GoSL_MoHS_sitRep_88	SLE	3	Kono	35			1
-20140823	GoSL_MoHS_sitRep_88	SLE	3	Kambia	1			0
-20140823	GoSL_MoHS_sitRep_88	SLE	3	Koinadugu	0			0
-20140823	GoSL_MoHS_sitRep_88	SLE	3	Bombali	19			1
-20140823	GoSL_MoHS_sitRep_88	SLE	3	Tonkolili	10			1
-20140823	GoSL_MoHS_sitRep_88	SLE	3	PortLoko	56			3
-20140823	GoSL_MoHS_sitRep_88	SLE	3	Pujehun	5			0
-20140823	GoSL_MoHS_sitRep_88	SLE	3	Bo	34			2
-20140823	GoSL_MoHS_sitRep_88	SLE	3	Moyamba	9			4
-20140823	GoSL_MoHS_sitRep_88	SLE	3	Bonthe	1			0
-20140823	GoSL_MoHS_sitRep_88	SLE	3	WesternAreaUrban	27			4
-20140823	GoSL_MoHS_sitRep_88	SLE	3	WesternAreaRural	11			0
-20140824	GoSL_MoHS_sitRep_89	SLE	1	SierraLeone	1025		244	386
-20140824	GoSL_MoHS_sitRep_89	SLE	3	Kailahun	486			219
-20140824	GoSL_MoHS_sitRep_89	SLE	3	Kenema	324			151
-20140824	GoSL_MoHS_sitRep_89	SLE	3	Kono	35			1
-20140824	GoSL_MoHS_sitRep_89	SLE	3	Kambia	1			0
-20140824	GoSL_MoHS_sitRep_89	SLE	3	Koinadugu	0			0
-20140824	GoSL_MoHS_sitRep_89	SLE	3	Bombali	19			1
-20140824	GoSL_MoHS_sitRep_89	SLE	3	Tonkolili	11			1
-20140824	GoSL_MoHS_sitRep_89	SLE	3	PortLoko	56			3
-20140824	GoSL_MoHS_sitRep_89	SLE	3	Pujehun	5			0
-20140824	GoSL_MoHS_sitRep_89	SLE	3	Bo	36			2
-20140824	GoSL_MoHS_sitRep_89	SLE	3	Moyamba	9			4
-20140824	GoSL_MoHS_sitRep_89	SLE	3	Bonthe	1			0
-20140824	GoSL_MoHS_sitRep_89	SLE	3	WesternAreaUrban	30			4
-20140824	GoSL_MoHS_sitRep_89	SLE	3	WesternAreaRural	12			0
-20140825	GoSL_MoHS_sitRep_90	SLE	1	SierraLeone	1050		244	400
-20140825	Liberia_MoH_sitRep	LBR	1	Liberia	1074	82		613
-20140825	GoSL_MoHS_sitRep_90	SLE	3	Kailahun	486			219
-20140825	GoSL_MoHS_sitRep_90	SLE	3	Kenema	331			155
-20140825	GoSL_MoHS_sitRep_90	SLE	3	Kono	35			1
-20140825	GoSL_MoHS_sitRep_90	SLE	3	Kambia	1			0
-20140825	GoSL_MoHS_sitRep_90	SLE	3	Koinadugu	0			0
-20140825	GoSL_MoHS_sitRep_90	SLE	3	Bombali	22			2
-20140825	GoSL_MoHS_sitRep_90	SLE	3	Tonkolili	14			1
-20140825	GoSL_MoHS_sitRep_90	SLE	3	PortLoko	60			4
-20140825	GoSL_MoHS_sitRep_90	SLE	3	Pujehun	7			0
-20140825	GoSL_MoHS_sitRep_90	SLE	3	Bo	36			10
-20140825	GoSL_MoHS_sitRep_90	SLE	3	Moyamba	9			4
-20140825	GoSL_MoHS_sitRep_90	SLE	3	Bonthe	1			0
-20140825	GoSL_MoHS_sitRep_90	SLE	3	WesternAreaUrban	33			4
-20140825	GoSL_MoHS_sitRep_90	SLE	3	WesternAreaRural	15			0
-20140825	Liberia_MoH_sitRep	LBR	3	Bomi	41			14
-20140825	Liberia_MoH_sitRep	LBR	3	Bong	110			34
-20140825	Liberia_MoH_sitRep	LBR	3	GrandBassa	15			2
-20140825	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	8			7
-20140825	Liberia_MoH_sitRep	LBR	3	GrandGedeh				1
-20140825	Liberia_MoH_sitRep	LBR	3	Lofa	466	82		235
-20140825	Liberia_MoH_sitRep	LBR	3	Margibi	86			68
-20140825	Liberia_MoH_sitRep	LBR	3	Monteserrado	288			218
-20140825	Liberia_MoH_sitRep	LBR	3	Nimba	57			33
-20140825	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1
-20140825	Liberia_MoH_sitRep	LBR	3	Sinoe	1			
-20140826	GoSL_MoHS_sitRep_91	SLE	1	SierraLeone	1057		244	411
-20140826	WHO	GIN	1	Guinea	648			430
-20140826	GoSL_MoHS_sitRep_91	SLE	3	Kailahun	486			219
-20140826	GoSL_MoHS_sitRep_91	SLE	3	Kenema	333			161
-20140826	GoSL_MoHS_sitRep_91	SLE	3	Kono	35			1
-20140826	GoSL_MoHS_sitRep_91	SLE	3	Kambia	1			0
-20140826	GoSL_MoHS_sitRep_91	SLE	3	Koinadugu	0			0
-20140826	GoSL_MoHS_sitRep_91	SLE	3	Bombali	22			2
-20140826	GoSL_MoHS_sitRep_91	SLE	3	Tonkolili	14			1
-20140826	GoSL_MoHS_sitRep_91	SLE	3	PortLoko	60			4
-20140826	GoSL_MoHS_sitRep_91	SLE	3	Pujehun	7			0
-20140826	GoSL_MoHS_sitRep_91	SLE	3	Bo	36			15
-20140826	GoSL_MoHS_sitRep_91	SLE	3	Moyamba	9			4
-20140826	GoSL_MoHS_sitRep_91	SLE	3	Bonthe	1			0
-20140826	GoSL_MoHS_sitRep_91	SLE	3	WesternAreaUrban	38			4
-20140826	GoSL_MoHS_sitRep_91	SLE	3	WesternAreaRural	15			0
-20140827	GoSL_MoHS_sitRep_92	SLE	1	SierraLeone	1087			420
-20140827	GoSL_MoHS_sitRep_92	SLE	3	Kailahun	494			219
-20140827	GoSL_MoHS_sitRep_92	SLE	3	Kenema	339			161
-20140827	GoSL_MoHS_sitRep_92	SLE	3	Kono	35			1
-20140827	GoSL_MoHS_sitRep_92	SLE	3	Kambia	1			0
-20140827	GoSL_MoHS_sitRep_92	SLE	3	Koinadugu	0			0
-20140827	GoSL_MoHS_sitRep_92	SLE	3	Bombali	25			6
-20140827	GoSL_MoHS_sitRep_92	SLE	3	Tonkolili	15			2
-20140827	GoSL_MoHS_sitRep_92	SLE	3	PortLoko	60			4
-20140827	GoSL_MoHS_sitRep_92	SLE	3	Pujehun	7			1
-20140827	GoSL_MoHS_sitRep_92	SLE	3	Bo	36			15
-20140827	GoSL_MoHS_sitRep_92	SLE	3	Moyamba	9			4
-20140827	GoSL_MoHS_sitRep_92	SLE	3	Bonthe	1			1
-20140827	GoSL_MoHS_sitRep_92	SLE	3	WesternAreaUrban	41			4
-20140827	GoSL_MoHS_sitRep_92	SLE	3	WesternAreaRural	24			2
-20140828	GoSL_MoHS_sitRep_93	SLE	1	SierraLeone	1117			425
-20140828	Liberia_MoH_sitRep	LBR	1	Liberia	1395	102		771
-20140828	GoSL_MoHS_sitRep_93	SLE	3	Kailahun	499			219
-20140828	GoSL_MoHS_sitRep_93	SLE	3	Kenema	343			166
-20140828	GoSL_MoHS_sitRep_93	SLE	3	Kono	35			1
-20140828	GoSL_MoHS_sitRep_93	SLE	3	Kambia	1			0
-20140828	GoSL_MoHS_sitRep_93	SLE	3	Koinadugu	0			0
-20140828	GoSL_MoHS_sitRep_93	SLE	3	Bombali	37			6
-20140828	GoSL_MoHS_sitRep_93	SLE	3	Tonkolili	15			2
-20140828	GoSL_MoHS_sitRep_93	SLE	3	PortLoko	65			4
-20140828	GoSL_MoHS_sitRep_93	SLE	3	Pujehun	7			1
-20140828	GoSL_MoHS_sitRep_93	SLE	3	Bo	36			15
-20140828	GoSL_MoHS_sitRep_93	SLE	3	Moyamba	9			4
-20140828	GoSL_MoHS_sitRep_93	SLE	3	Bonthe	1			1
-20140828	GoSL_MoHS_sitRep_93	SLE	3	WesternAreaUrban	44			4
-20140828	GoSL_MoHS_sitRep_93	SLE	3	WesternAreaRural	25			2
-20140828	Liberia_MoH_sitRep	LBR	3	Bomi	46			29
-20140828	Liberia_MoH_sitRep	LBR	3	Bong	122			39
-20140828	Liberia_MoH_sitRep	LBR	3	GrandBassa	15			2
-20140828	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	8			7
-20140828	Liberia_MoH_sitRep	LBR	3	GrandGedeh				1
-20140828	Liberia_MoH_sitRep	LBR	3	Lofa	542	61		270
-20140828	Liberia_MoH_sitRep	LBR	3	Margibi	164			85
-20140828	Liberia_MoH_sitRep	LBR	3	Monteserrado	405	41		278
-20140828	Liberia_MoH_sitRep	LBR	3	Nimba	83			54
-20140828	Liberia_MoH_sitRep	LBR	3	RiverGee				5
-20140828	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1
-20140828	Liberia_MoH_sitRep	LBR	3	Sinoe	2			
-20140829	GoSL_MoHS_sitRep_94	SLE	1	SierraLeone	1140			431
-20140829	GoSL_MoHS_sitRep_94	SLE	3	Kailahun	504			219
-20140829	GoSL_MoHS_sitRep_94	SLE	3	Kenema	347			172
-20140829	GoSL_MoHS_sitRep_94	SLE	3	Kono	35			1
-20140829	GoSL_MoHS_sitRep_94	SLE	3	Kambia	1			0
-20140829	GoSL_MoHS_sitRep_94	SLE	3	Koinadugu	5			0
-20140829	GoSL_MoHS_sitRep_94	SLE	3	Bombali	37			6
-20140829	GoSL_MoHS_sitRep_94	SLE	3	Tonkolili	15			2
-20140829	GoSL_MoHS_sitRep_94	SLE	3	PortLoko	65			4
-20140829	GoSL_MoHS_sitRep_94	SLE	3	Pujehun	7			1
-20140829	GoSL_MoHS_sitRep_94	SLE	3	Bo	41			15
-20140829	GoSL_MoHS_sitRep_94	SLE	3	Moyamba	9			4
-20140829	GoSL_MoHS_sitRep_94	SLE	3	Bonthe	1			1
-20140829	GoSL_MoHS_sitRep_94	SLE	3	WesternAreaUrban	47			4
-20140829	GoSL_MoHS_sitRep_94	SLE	3	WesternAreaRural	26			2
-20140830	GoSL_MoHS_sitRep_95	SLE	1	SierraLeone	1190			435
-20140830	GoSL_MoHS_sitRep_95	SLE	3	Kailahun	508			219
-20140830	GoSL_MoHS_sitRep_95	SLE	3	Kenema	361			176
-20140830	GoSL_MoHS_sitRep_95	SLE	3	Kono	35			1
-20140830	GoSL_MoHS_sitRep_95	SLE	3	Kambia	1			0
-20140830	GoSL_MoHS_sitRep_95	SLE	3	Koinadugu	5			0
-20140830	GoSL_MoHS_sitRep_95	SLE	3	Bombali	41			6
-20140830	GoSL_MoHS_sitRep_95	SLE	3	Tonkolili	17			2
-20140830	GoSL_MoHS_sitRep_95	SLE	3	PortLoko	74			4
-20140830	GoSL_MoHS_sitRep_95	SLE	3	Pujehun	7			1
-20140830	GoSL_MoHS_sitRep_95	SLE	3	Bo	47			15
-20140830	GoSL_MoHS_sitRep_95	SLE	3	Moyamba	9			4
-20140830	GoSL_MoHS_sitRep_95	SLE	3	Bonthe	1			1
-20140830	GoSL_MoHS_sitRep_95	SLE	3	WesternAreaUrban	55			4
-20140830	GoSL_MoHS_sitRep_95	SLE	3	WesternAreaRural	29			2
-20140831	GoSL_MoHS_sitRep_96	SLE	1	SierraLeone	1216		244	436
-20140831	WHO	GIN	1	Guinea	771			494
-20140831	GoSL_MoHS_sitRep_96	SLE	3	Kailahun	516			219
-20140831	GoSL_MoHS_sitRep_96	SLE	3	Kenema	367			177
-20140831	GoSL_MoHS_sitRep_96	SLE	3	Kono	38			1
-20140831	GoSL_MoHS_sitRep_96	SLE	3	Kambia	1			0
-20140831	GoSL_MoHS_sitRep_96	SLE	3	Koinadugu	1			0
-20140831	GoSL_MoHS_sitRep_96	SLE	3	Bombali	46			6
-20140831	GoSL_MoHS_sitRep_96	SLE	3	Tonkolili	17			2
-20140831	GoSL_MoHS_sitRep_96	SLE	3	PortLoko	74			4
-20140831	GoSL_MoHS_sitRep_96	SLE	3	Pujehun	7			1
-20140831	GoSL_MoHS_sitRep_96	SLE	3	Bo	52			15
-20140831	GoSL_MoHS_sitRep_96	SLE	3	Moyamba	9			4
-20140831	GoSL_MoHS_sitRep_96	SLE	3	Bonthe	1			1
-20140831	GoSL_MoHS_sitRep_96	SLE	3	WesternAreaUrban	57			4
-20140831	GoSL_MoHS_sitRep_96	SLE	3	WesternAreaRural	30			2
-20140901	GoSL_MoHS_sitRep_97	SLE	1	SierraLeone	1226		248	444
-20140901	Liberia_MoH_sitRep	LBR	1	Liberia	1582	264		885
-20140901	GoSL_MoHS_sitRep_97	SLE	3	Kailahun	517			219
-20140901	GoSL_MoHS_sitRep_97	SLE	3	Kenema	367			182
-20140901	GoSL_MoHS_sitRep_97	SLE	3	Kono	39			4
-20140901	GoSL_MoHS_sitRep_97	SLE	3	Kambia	1			0
-20140901	GoSL_MoHS_sitRep_97	SLE	3	Koinadugu	0			0
-20140901	GoSL_MoHS_sitRep_97	SLE	3	Bombali	46			7
-20140901	GoSL_MoHS_sitRep_97	SLE	3	Tonkolili	17			2
-20140901	GoSL_MoHS_sitRep_97	SLE	3	PortLoko	74			4
-20140901	GoSL_MoHS_sitRep_97	SLE	3	Pujehun	8			1
-20140901	GoSL_MoHS_sitRep_97	SLE	3	Bo	53			16
-20140901	GoSL_MoHS_sitRep_97	SLE	3	Moyamba	9			4
-20140901	GoSL_MoHS_sitRep_97	SLE	3	Bonthe	1			1
-20140901	GoSL_MoHS_sitRep_97	SLE	3	WesternAreaUrban	60			4
-20140901	GoSL_MoHS_sitRep_97	SLE	3	WesternAreaRural	34			2
-20140901	Liberia_MoH_sitRep	LBR	3	Bomi	52			33
-20140901	Liberia_MoH_sitRep	LBR	3	Bong	132			41
-20140901	Liberia_MoH_sitRep	LBR	3	Gbarpolu				
-20140901	Liberia_MoH_sitRep	LBR	3	GrandBassa	40			12
-20140901	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	9			7
-20140901	Liberia_MoH_sitRep	LBR	3	GrandGedeh				2
-20140901	Liberia_MoH_sitRep	LBR	3	Lofa	580	69		293
-20140901	Liberia_MoH_sitRep	LBR	3	Margibi	186			97
-20140901	Liberia_MoH_sitRep	LBR	3	Monteserrado	467	195		335
-20140901	Liberia_MoH_sitRep	LBR	3	Nimba	104			59
-20140901	Liberia_MoH_sitRep	LBR	3	RiverGee				5
-20140901	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1
-20140901	Liberia_MoH_sitRep	LBR	3	Sinoe	2			
-20140902	GoSL_MoHS_sitRep_98	SLE	1	SierraLeone	1261		251	447
-20140902	Liberia_MoH_sitRep	LBR	1	Liberia	1763	286		1004
-20140902	GoSL_MoHS_sitRep_98	SLE	3	Kailahun	528			219
-20140902	GoSL_MoHS_sitRep_98	SLE	3	Kenema	379			185
-20140902	GoSL_MoHS_sitRep_98	SLE	3	Kono	39			3
-20140902	GoSL_MoHS_sitRep_98	SLE	3	Kambia	1			0
-20140902	GoSL_MoHS_sitRep_98	SLE	3	Koinadugu	0			0
-20140902	GoSL_MoHS_sitRep_98	SLE	3	Bombali	46			6
-20140902	GoSL_MoHS_sitRep_98	SLE	3	Tonkolili	18			2
-20140902	GoSL_MoHS_sitRep_98	SLE	3	PortLoko	79			4
-20140902	GoSL_MoHS_sitRep_98	SLE	3	Pujehun	8			1
-20140902	GoSL_MoHS_sitRep_98	SLE	3	Bo	54			16
-20140902	GoSL_MoHS_sitRep_98	SLE	3	Moyamba	9			4
-20140902	GoSL_MoHS_sitRep_98	SLE	3	Bonthe	1			1
-20140902	GoSL_MoHS_sitRep_98	SLE	3	WesternAreaUrban	64			4
-20140902	GoSL_MoHS_sitRep_98	SLE	3	WesternAreaRural	35			2
-20140902	Liberia_MoH_sitRep	LBR	3	Bomi	63			34
-20140902	Liberia_MoH_sitRep	LBR	3	Bong	141			41
-20140902	Liberia_MoH_sitRep	LBR	3	Gbarpolu				
-20140902	Liberia_MoH_sitRep	LBR	3	GrandBassa	40			12
-20140902	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	10			8
-20140902	Liberia_MoH_sitRep	LBR	3	GrandGedeh				
-20140902	Liberia_MoH_sitRep	LBR	3	Lofa	618	66		315
-20140902	Liberia_MoH_sitRep	LBR	3	Margibi	231			106
-20140902	Liberia_MoH_sitRep	LBR	3	Monteserrado	541	220		408
-20140902	Liberia_MoH_sitRep	LBR	3	Nimba	107			75
-20140902	Liberia_MoH_sitRep	LBR	3	RiverGee				5
-20140902	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1
-20140902	Liberia_MoH_sitRep	LBR	3	Sinoe	2			
-20140903	GoSL_MoHS_sitRep_99	SLE	1	SierraLeone	1292	139	260	452
-20140903	Liberia_MoH_sitRep	LBR	1	Liberia	1839	276		1051
-20140903	GoSL_MoHS_sitRep_99	SLE	3	Kailahun	542			220
-20140903	GoSL_MoHS_sitRep_99	SLE	3	Kenema	384			189
-20140903	GoSL_MoHS_sitRep_99	SLE	3	Kono	43			3
-20140903	GoSL_MoHS_sitRep_99	SLE	3	Kambia	1			0
-20140903	GoSL_MoHS_sitRep_99	SLE	3	Koinadugu	0			0
-20140903	GoSL_MoHS_sitRep_99	SLE	3	Bombali	46			6
-20140903	GoSL_MoHS_sitRep_99	SLE	3	Tonkolili	20			2
-20140903	GoSL_MoHS_sitRep_99	SLE	3	PortLoko	80			4
-20140903	GoSL_MoHS_sitRep_99	SLE	3	Pujehun	9			1
-20140903	GoSL_MoHS_sitRep_99	SLE	3	Bo	54			16
-20140903	GoSL_MoHS_sitRep_99	SLE	3	Moyamba	9			4
-20140903	GoSL_MoHS_sitRep_99	SLE	3	Bonthe	1			1
-20140903	GoSL_MoHS_sitRep_99	SLE	3	WesternAreaUrban	67			4
-20140903	GoSL_MoHS_sitRep_99	SLE	3	WesternAreaRural	36			2
-20140903	Liberia_MoH_sitRep	LBR	3	Bomi	63			34
-20140903	Liberia_MoH_sitRep	LBR	3	Bong	147			41
-20140903	Liberia_MoH_sitRep	LBR	3	Gbarpolu				
-20140903	Liberia_MoH_sitRep	LBR	3	GrandBassa	46			19
-20140903	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	10			9
-20140903	Liberia_MoH_sitRep	LBR	3	GrandGedeh				2
-20140903	Liberia_MoH_sitRep	LBR	3	Lofa	628	70		320
-20140903	Liberia_MoH_sitRep	LBR	3	Margibi	245			111
-20140903	Liberia_MoH_sitRep	LBR	3	Monteserrado	576	206		437
-20140903	Liberia_MoH_sitRep	LBR	3	Nimba	108			72
-20140903	Liberia_MoH_sitRep	LBR	3	RiverGee				5
-20140903	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1
-20140903	Liberia_MoH_sitRep	LBR	3	Sinoe	2			
-20140904	Liberia_MoH_sitRep	LBR	1	Liberia	1863	279		1078
-20140904	Liberia_MoH_sitRep	LBR	3	Bomi	64			34
-20140904	Liberia_MoH_sitRep	LBR	3	Bong	150			43
-20140904	Liberia_MoH_sitRep	LBR	3	Gbarpolu				
-20140904	Liberia_MoH_sitRep	LBR	3	GrandBassa	46			19
-20140904	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	11			10
-20140904	Liberia_MoH_sitRep	LBR	3	GrandGedeh				2
-20140904	Liberia_MoH_sitRep	LBR	3	Lofa	634	62		327
-20140904	Liberia_MoH_sitRep	LBR	3	Margibi	245			111
-20140904	Liberia_MoH_sitRep	LBR	3	Monteserrado	584	217		451
-20140904	Liberia_MoH_sitRep	LBR	3	Nimba	111			75
-20140904	Liberia_MoH_sitRep	LBR	3	RiverGee				5
-20140904	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1
-20140904	Liberia_MoH_sitRep	LBR	3	Sinoe	2			
-20140905	GoSL_MoHS_sitRep_101	SLE	1	SierraLeone	1361	120	269	461
-20140905	Liberia_MoH_sitRep	LBR	1	Liberia	1915	274		1114
-20140905	GoSL_MoHS_sitRep_101	SLE	3	Kailahun	552			220
-20140905	GoSL_MoHS_sitRep_101	SLE	3	Kenema	394			194
-20140905	GoSL_MoHS_sitRep_101	SLE	3	Kono	44			3
-20140905	GoSL_MoHS_sitRep_101	SLE	3	Kambia	1			0
-20140905	GoSL_MoHS_sitRep_101	SLE	3	Koinadugu	0			0
-20140905	GoSL_MoHS_sitRep_101	SLE	3	Bombali	54			6
-20140905	GoSL_MoHS_sitRep_101	SLE	3	Tonkolili	20			2
-20140905	GoSL_MoHS_sitRep_101	SLE	3	PortLoko	93			5
-20140905	GoSL_MoHS_sitRep_101	SLE	3	Pujehun	9			1
-20140905	GoSL_MoHS_sitRep_101	SLE	3	Bo	67			16
-20140905	GoSL_MoHS_sitRep_101	SLE	3	Moyamba	13			6
-20140905	GoSL_MoHS_sitRep_101	SLE	3	Bonthe	1			1
-20140905	GoSL_MoHS_sitRep_101	SLE	3	WesternAreaUrban	72			5
-20140905	GoSL_MoHS_sitRep_101	SLE	3	WesternAreaRural	41			2
-20140905	Liberia_MoH_sitRep	LBR	3	Bomi	66	0		35
-20140905	Liberia_MoH_sitRep	LBR	3	Bong	150	0		43
-20140905	Liberia_MoH_sitRep	LBR	3	Gbarpolu		0		0
-20140905	Liberia_MoH_sitRep	LBR	3	GrandBassa	46	0		19
-20140905	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	12	0		11
-20140905	Liberia_MoH_sitRep	LBR	3	GrandGedeh		0		2
-20140905	Liberia_MoH_sitRep	LBR	3	Lofa	659	69		334
-20140905	Liberia_MoH_sitRep	LBR	3	Margibi	254	0		114
-20140905	Liberia_MoH_sitRep	LBR	3	Monteserrado	595	205		473
-20140905	Liberia_MoH_sitRep	LBR	3	Nimba	117	0		77
-20140905	Liberia_MoH_sitRep	LBR	3	RiverGee		0		5
-20140905	Liberia_MoH_sitRep	LBR	3	RiverCess	1	0		1
-20140905	Liberia_MoH_sitRep	LBR	3	Sinoe	2	0		0
-20140906	GoSL_MoHS_sitRep_102	SLE	1	SierraLeone	1409	129	271	474
-20140906	Liberia_MoH_sitRep	LBR	1	Liberia	1968	270		1169
-20140906	GoSL_MoHS_sitRep_102	SLE	3	Kailahun	552			220
-20140906	GoSL_MoHS_sitRep_102	SLE	3	Kenema	401			194
-20140906	GoSL_MoHS_sitRep_102	SLE	3	Kono	47			3
-20140906	GoSL_MoHS_sitRep_102	SLE	3	Kambia	1			0
-20140906	GoSL_MoHS_sitRep_102	SLE	3	Koinadugu	0			0
-20140906	GoSL_MoHS_sitRep_102	SLE	3	Bombali	69			6
-20140906	GoSL_MoHS_sitRep_102	SLE	3	Tonkolili	22			2
-20140906	GoSL_MoHS_sitRep_102	SLE	3	PortLoko	104			18
-20140906	GoSL_MoHS_sitRep_102	SLE	3	Pujehun	9			1
-20140906	GoSL_MoHS_sitRep_102	SLE	3	Bo	70			16
-20140906	GoSL_MoHS_sitRep_102	SLE	3	Moyamba	15			6
-20140906	GoSL_MoHS_sitRep_102	SLE	3	Bonthe	1			1
-20140906	GoSL_MoHS_sitRep_102	SLE	3	WesternAreaUrban	76			5
-20140906	GoSL_MoHS_sitRep_102	SLE	3	WesternAreaRural	42			2
-20140906	Liberia_MoH_sitRep	LBR	3	Bomi	67	0		41
-20140906	Liberia_MoH_sitRep	LBR	3	Bong	152	0		44
-20140906	Liberia_MoH_sitRep	LBR	3	Gbarpolu		0		0
-20140906	Liberia_MoH_sitRep	LBR	3	GrandBassa	46	0		19
-20140906	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	12	0		11
-20140906	Liberia_MoH_sitRep	LBR	3	GrandGedeh		0		2
-20140906	Liberia_MoH_sitRep	LBR	3	Lofa	667	62		341
-20140906	Liberia_MoH_sitRep	LBR	3	Margibi	275	0		120
-20140906	Liberia_MoH_sitRep	LBR	3	Monteserrado	612	208		503
-20140906	Liberia_MoH_sitRep	LBR	3	Nimba	121	0		82
-20140906	Liberia_MoH_sitRep	LBR	3	RiverGee		0		5
-20140906	Liberia_MoH_sitRep	LBR	3	RiverCess	1	0		1
-20140906	Liberia_MoH_sitRep	LBR	3	Sinoe	2	0		0
-20140907	GoSL_MoHS_sitRep_103	SLE	1	SierraLeone	1424			476
-20140907	Liberia_MoH_sitRep	LBR	1	Liberia	2038	274		1213
-20140907	GoSL_MoHS_sitRep_103	SLE	3	Kailahun	552			220
-20140907	GoSL_MoHS_sitRep_103	SLE	3	Kenema	407			196
-20140907	GoSL_MoHS_sitRep_103	SLE	3	Kono	47			3
-20140907	GoSL_MoHS_sitRep_103	SLE	3	Kambia	1			0
-20140907	GoSL_MoHS_sitRep_103	SLE	3	Koinadugu	0			0
-20140907	GoSL_MoHS_sitRep_103	SLE	3	Bombali	69			6
-20140907	GoSL_MoHS_sitRep_103	SLE	3	Tonkolili	22			2
-20140907	GoSL_MoHS_sitRep_103	SLE	3	PortLoko	104			18
-20140907	GoSL_MoHS_sitRep_103	SLE	3	Pujehun	12			1
-20140907	GoSL_MoHS_sitRep_103	SLE	3	Bo	73			16
-20140907	GoSL_MoHS_sitRep_103	SLE	3	Moyamba	15			6
-20140907	GoSL_MoHS_sitRep_103	SLE	3	Bonthe	1			1
-20140907	GoSL_MoHS_sitRep_103	SLE	3	WesternAreaUrban	79			5
-20140907	GoSL_MoHS_sitRep_103	SLE	3	WesternAreaRural	42			2
-20140907	Liberia_MoH_sitRep	LBR	3	Bomi	67	0		41
-20140907	Liberia_MoH_sitRep	LBR	3	Bong	157	0		46
-20140907	Liberia_MoH_sitRep	LBR	3	Gbarpolu		0		0
-20140907	Liberia_MoH_sitRep	LBR	3	GrandBassa	46	0		19
-20140907	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	13	0		12
-20140907	Liberia_MoH_sitRep	LBR	3	GrandGedeh		0		2
-20140907	Liberia_MoH_sitRep	LBR	3	Lofa	673	58		348
-20140907	Liberia_MoH_sitRep	LBR	3	Margibi	313	0		135
-20140907	Liberia_MoH_sitRep	LBR	3	Monteserrado	632	216		522
-20140907	Liberia_MoH_sitRep	LBR	3	Nimba	121	0		82
-20140907	Liberia_MoH_sitRep	LBR	3	RiverGee		0		5
-20140907	Liberia_MoH_sitRep	LBR	3	RiverCess	1	0		1
-20140907	Liberia_MoH_sitRep	LBR	3	Sinoe	2	0		0
-20140908	GoSL_MoHS_sitRep_104	SLE	1	SierraLeone	1443	123	275	481
-20140908	GoSL_MoHS_sitRep_104	SLE	3	Kailahun	558			220
-20140908	GoSL_MoHS_sitRep_104	SLE	3	Kenema	409			201
-20140908	GoSL_MoHS_sitRep_104	SLE	3	Kono	47			3
-20140908	GoSL_MoHS_sitRep_104	SLE	3	Kambia	1			0
-20140908	GoSL_MoHS_sitRep_104	SLE	3	Koinadugu	0			0
-20140908	GoSL_MoHS_sitRep_104	SLE	3	Bombali	69			6
-20140908	GoSL_MoHS_sitRep_104	SLE	3	Tonkolili	22			2
-20140908	GoSL_MoHS_sitRep_104	SLE	3	PortLoko	107			18
-20140908	GoSL_MoHS_sitRep_104	SLE	3	Pujehun	12			1
-20140908	GoSL_MoHS_sitRep_104	SLE	3	Bo	73			16
-20140908	GoSL_MoHS_sitRep_104	SLE	3	Moyamba	16			6
-20140908	GoSL_MoHS_sitRep_104	SLE	3	Bonthe	1			1
-20140908	GoSL_MoHS_sitRep_104	SLE	3	WesternAreaUrban	84			5
-20140908	GoSL_MoHS_sitRep_104	SLE	3	WesternAreaRural	44			2
-20140909	GoSL_MoHS_sitRep_105	SLE	1	SierraLeone	1478	125	284	484
-20140909	GoSL_MoHS_sitRep_105	SLE	3	Kailahun	558			221
-20140909	GoSL_MoHS_sitRep_105	SLE	3	Kenema	415			203
-20140909	GoSL_MoHS_sitRep_105	SLE	3	Kono	51			3
-20140909	GoSL_MoHS_sitRep_105	SLE	3	Kambia	1			0
-20140909	GoSL_MoHS_sitRep_105	SLE	3	Koinadugu	0			0
-20140909	GoSL_MoHS_sitRep_105	SLE	3	Bombali	75			6
-20140909	GoSL_MoHS_sitRep_105	SLE	3	Tonkolili	26			2
-20140909	GoSL_MoHS_sitRep_105	SLE	3	PortLoko	111			18
-20140909	GoSL_MoHS_sitRep_105	SLE	3	Pujehun	11			1
-20140909	GoSL_MoHS_sitRep_105	SLE	3	Bo	73			16
-20140909	GoSL_MoHS_sitRep_105	SLE	3	Moyamba	16			6
-20140909	GoSL_MoHS_sitRep_105	SLE	3	Bonthe	1			1
-20140909	GoSL_MoHS_sitRep_105	SLE	3	WesternAreaUrban	92			5
-20140909	GoSL_MoHS_sitRep_105	SLE	3	WesternAreaRural	48			2
+date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
+20131202	NEJMoa1404505	GIN	1	Guinea	1			0	0
+20131202	NEJMoa1404505	GIN	3	Kissidougou 	0			0	0
+20131202	NEJMoa1404505	GIN	3	Macenta 	0			0	0
+20131202	NEJMoa1404505	GIN	3	Guéckédou	1			0	0
+20131209	NEJMoa1404505	GIN	1	Guinea	1			1	0
+20131209	NEJMoa1404505	GIN	3	Kissidougou 	0			0	0
+20131209	NEJMoa1404505	GIN	3	Macenta 	0			0	0
+20131209	NEJMoa1404505	GIN	3	Guéckédou	1			1	0
+20131216	NEJMoa1404505	GIN	1	Guinea	4			1	0
+20131216	NEJMoa1404505	GIN	3	Kissidougou 	0			0	0
+20131216	NEJMoa1404505	GIN	3	Macenta 	0			0	0
+20131216	NEJMoa1404505	GIN	3	Guéckédou	4			1	0
+20131223	NEJMoa1404505	GIN	1	Guinea	4			4	0
+20131223	NEJMoa1404505	GIN	3	Kissidougou 	0			0	0
+20131223	NEJMoa1404505	GIN	3	Macenta 	0			0	0
+20131223	NEJMoa1404505	GIN	3	Guéckédou	4			4	0
+20131230	NEJMoa1404505	GIN	1	Guinea	4			4	0
+20131230	NEJMoa1404505	GIN	3	Kissidougou 	0			0	0
+20131230	NEJMoa1404505	GIN	3	Macenta 	0			0	0
+20131230	NEJMoa1404505	GIN	3	Guéckédou	4			4	0
+20140106	NEJMoa1404505	GIN	1	Guinea	4			4	0
+20140106	NEJMoa1404505	GIN	3	Kissidougou 	0			0	0
+20140106	NEJMoa1404505	GIN	3	Macenta 	0			0	0
+20140106	NEJMoa1404505	GIN	3	Guéckédou	4			4	0
+20140113	NEJMoa1404505	GIN	1	Guinea	7			4	0
+20140113	NEJMoa1404505	GIN	3	Kissidougou 	0			0	0
+20140113	NEJMoa1404505	GIN	3	Macenta 	0			0	0
+20140113	NEJMoa1404505	GIN	3	Guéckédou	7			4	0
+20140120	NEJMoa1404505	GIN	1	Guinea	10			7	0
+20140120	NEJMoa1404505	GIN	3	Kissidougou 	0			0	0
+20140120	NEJMoa1404505	GIN	3	Macenta 	0			0	0
+20140120	NEJMoa1404505	GIN	3	Guéckédou	10			7	0
+20140127	NEJMoa1404505	GIN	1	Guinea	15			10	0
+20140127	NEJMoa1404505	GIN	3	Kissidougou 	0			0	0
+20140127	NEJMoa1404505	GIN	3	Macenta 	0			0	0
+20140127	NEJMoa1404505	GIN	3	Guéckédou	15			10	0
+20140203	NEJMoa1404505	GIN	1	Guinea	18			15	0
+20140203	NEJMoa1404505	GIN	3	Kissidougou 	0			0	0
+20140203	NEJMoa1404505	GIN	3	Macenta 	0			0	0
+20140203	NEJMoa1404505	GIN	3	Guéckédou	18			15	0
+20140210	NEJMoa1404505	GIN	1	Guinea	22			18	0
+20140210	NEJMoa1404505	GIN	3	Kissidougou 	0			0	0
+20140210	NEJMoa1404505	GIN	3	Macenta 	2			0	0
+20140210	NEJMoa1404505	GIN	3	Guéckédou	20			18	0
+20140217	NEJMoa1404505	GIN	1	Guinea	39			22	0
+20140217	NEJMoa1404505	GIN	3	Kissidougou 	0			0	0
+20140217	NEJMoa1404505	GIN	3	Macenta 	5			2	0
+20140217	NEJMoa1404505	GIN	3	Guéckédou	34			20	0
+20140224	NEJMoa1404505	GIN	1	Guinea	48			34	0
+20140224	NEJMoa1404505	GIN	3	Kissidougou 	2			0	0
+20140224	NEJMoa1404505	GIN	3	Macenta 	7			5	0
+20140224	NEJMoa1404505	GIN	3	Guéckédou	39			29	0
+20140303	NEJMoa1404505	GIN	1	Guinea	81			40	0
+20140303	NEJMoa1404505	GIN	3	Kissidougou 	4			2	0
+20140303	NEJMoa1404505	GIN	3	Macenta 	14			7	0
+20140303	NEJMoa1404505	GIN	3	Guéckédou	63			31	0
+20140310	NEJMoa1404505	GIN	1	Guinea	100			65	0
+20140310	NEJMoa1404505	GIN	3	Kissidougou 	7			3	0
+20140310	NEJMoa1404505	GIN	3	Macenta 	19			12	0
+20140310	NEJMoa1404505	GIN	3	Guéckédou	74			50	0
+20140317	NEJMoa1404505	GIN	1	Guinea	111			72	0
+20140317	NEJMoa1404505	GIN	3	Kissidougou 	8			5	0
+20140317	NEJMoa1404505	GIN	3	Macenta 	23			12	0
+20140317	NEJMoa1404505	GIN	3	Guéckédou	80			55	0
+20140410	WHO	LBR	1	Liberia	12			2	0
+20140410	WHO	LBR	3	Lofa	9				0
+20140410	WHO	LBR	3	Montserrado	1			1	0
+20140410	WHO	LBR	3	Margibi	1			1	0
+20140410	WHO	LBR	3	Nimba	1			0	0
+20140502	WHO	GIN	1	Guinea	226			149	0
+20140502	WHO	GIN	3	Conakry	53			24	0
+20140502	WHO	GIN	3	Guéckédou	140			99	0
+20140502	WHO	GIN	3	Macenta	22			16	0
+20140502	WHO	GIN	3	Kissidougou	6			5	0
+20140502	WHO	GIN	3	Dabola	4			4	0
+20140502	WHO	GIN	3	Djinguiraye	1			1	0
+20140505	WHO	GIN	1	Guinea	231			155	0
+20140505	WHO	GIN	3	Conakry	53			24	0
+20140505	WHO	GIN	3	Guéckédou	145			105	0
+20140505	WHO	GIN	3	Macenta	22			16	0
+20140505	WHO	GIN	3	Kissidougou	6			5	0
+20140505	WHO	GIN	3	Dabola	4			4	0
+20140505	WHO	GIN	3	Djinguiraye	1			1	0
+20140507	WHO	GIN	1	Guinea	235			157	0
+20140507	WHO	GIN	3	Conakry	53			24	0
+20140507	WHO	GIN	3	Guéckédou	149			107	0
+20140507	WHO	GIN	3	Macenta	22			16	0
+20140507	WHO	GIN	3	Kissidougou	6			5	0
+20140507	WHO	GIN	3	Dabola	4			4	0
+20140507	WHO	GIN	3	Djinguiraye	1			1	0
+20140509	WHO	GIN	1	Guinea	237			158	0
+20140509	WHO	GIN	3	Conakry	53			24	0
+20140509	WHO	GIN	3	Guéckédou	151			108	0
+20140509	WHO	GIN	3	Macenta	22			16	0
+20140509	WHO	GIN	3	Kissidougou	6			5	0
+20140509	WHO	GIN	3	Dabola	4			4	0
+20140509	WHO	GIN	3	Djinguiraye	1			1	0
+20140510	WHO	GIN	1	Guinea	233			157	0
+20140510	WHO	GIN	3	Conakry	50			24	0
+20140510	WHO	GIN	3	Guéckédou	149			106	0
+20140510	WHO	GIN	3	Macenta	23			17	0
+20140510	WHO	GIN	3	Kissidougou	6			5	0
+20140510	WHO	GIN	3	Dabola	4			4	0
+20140510	WHO	GIN	3	Djinguiraye	1			1	0
+20140515	WHO	GIN	1	Guinea	246			170	0
+20140515	WHO	GIN	3	Conakry	50			24	0
+20140515	WHO	GIN	3	Guéckédou	163			119	0
+20140515	WHO	GIN	3	Macenta	22			17	0
+20140515	WHO	GIN	3	Kissidougou	6			5	0
+20140515	WHO	GIN	3	Dabola	4			4	0
+20140515	WHO	GIN	3	Djinguiraye	1			1	0
+20140518	WHO	GIN	1	Guinea	251			175	0
+20140518	WHO	GIN	3	Conakry	50			25	0
+20140518	WHO	GIN	3	Guéckédou	168			123	0
+20140518	WHO	GIN	3	Macenta	22			17	0
+20140518	WHO	GIN	3	Kissidougou	6			5	0
+20140518	WHO	GIN	3	Dabola	4			4	0
+20140518	WHO	GIN	3	Djinguiraye	1			1	0
+20140523	WHO	GIN	1	Guinea	256			173	0
+20140523	WHO	SLE	1	SierraLeone	0			0	0
+20140523	WHO	GIN	3	Conakry	50			25	0
+20140523	WHO	GIN	3	Guéckédou	170			121	0
+20140523	WHO	GIN	3	Macenta	22			17	0
+20140523	WHO	GIN	3	Kissidougou	6			5	0
+20140523	WHO	GIN	3	Dabola	4			4	0
+20140523	WHO	GIN	3	Djinguiraye	1			1	0
+20140523	WHO	GIN	3	Télimélé	3			0	0
+20140527	WHO	GIN	1	Guinea	266			181	0
+20140527	WHO	SLE	1	SierraLeone	16			5	0
+20140527	WHO	GIN	3	Conakry	48			26	0
+20140527	WHO	GIN	3	Guéckédou	176			126	0
+20140527	WHO	GIN	3	Macenta	31			19	0
+20140527	WHO	GIN	3	Kissidougou	6			5	0
+20140527	WHO	GIN	3	Dabola	4			4	0
+20140527	WHO	GIN	3	Djinguiraye	1			1	0
+20140529	WHO	SLE	1	SierraLeone	50			6	0
+20140601	WHO	SLE	1	SierraLeone	79			6	0
+20140601	WHO	SLE	3	Kailahun	41			6	0
+20140601	WHO	SLE	3	Kenema	3			0	0
+20140601	WHO	SLE	3	WesternAreaUrban	1			0	0
+20140605	WHO	SLE	1	SierraLeone	81			6	0
+20140606	WHO	SLE	1	SierraLeone	89			7	0
+20140607	WHO	GIN	1	Guinea	345			225	0
+20140607	WHO	GIN	3	Conakry	67			29	0
+20140607	WHO	GIN	3	Guéckédou	194			146	0
+20140607	WHO	GIN	3	Macenta	41			27	0
+20140607	WHO	GIN	3	Kissidougou	6			5	0
+20140607	WHO	GIN	3	Dabola	4			4	0
+20140607	WHO	GIN	3	Djinguiraye	1			1	0
+20140607	WHO	GIN	3	Télimélé	25			7	0
+20140607	WHO	GIN	3	Boffa	7			6	0
+20140607	WHO	GIN	3	Kouroussa	1			1	0
+20140615	WHO	SLE	1	SierraLeone	95			46	0
+20140616	Liberia_MoH_sitRep	LBR	1	Liberia	22	5		16	0
+20140616	Liberia_MoH_sitRep	LBR	3	Bomi					0
+20140616	Liberia_MoH_sitRep	LBR	3	Bong					0
+20140616	Liberia_MoH_sitRep	LBR	3	GrandKru					0
+20140616	Liberia_MoH_sitRep	LBR	3	Lofa	14	5		8	0
+20140616	Liberia_MoH_sitRep	LBR	3	Margibi					0
+20140616	Liberia_MoH_sitRep	LBR	3	Maryland					0
+20140616	Liberia_MoH_sitRep	LBR	3	Monteserrado	8	0		0	0
+20140616	Liberia_MoH_sitRep	LBR	3	Nimba					0
+20140616	Liberia_MoH_sitRep	LBR	3	RiverGee					0
+20140616	Liberia_MoH_sitRep	LBR	3	RiverCess					0
+20140616	Liberia_MoH_sitRep	LBR	3	Sinoe					0
+20140617	WHO	GIN	1	Guinea	390			263	0
+20140617	WHO	SLE	1	SierraLeone	114	53	13	50	0
+20140617	Liberia_MoH_sitRep	LBR	1	Liberia	22	5		16	0
+20140617	WHO	GIN	3	Conakry	70			33	0
+20140617	WHO	GIN	3	Guéckédou	224			173	0
+20140617	WHO	GIN	3	Macenta	41			28	0
+20140617	WHO	GIN	3	Kissidougou	6			5	0
+20140617	WHO	GIN	3	Dabola	4			4	0
+20140617	WHO	GIN	3	Djinguiraye	1			1	0
+20140617	WHO	GIN	3	Télimélé	25			9	0
+20140617	WHO	GIN	3	Boffa	19			10	0
+20140617	WHO	GIN	3	Kouroussa	1			1	0
+20140617	WHO	SLE	3	Kailahun	92			46	0
+20140617	WHO	SLE	3	Kenema	19			2	0
+20140617	WHO	SLE	3	PortLoko	2			1	0
+20140617	WHO	SLE	3	WesternAreaUrban	1			1	0
+20140617	Liberia_MoH_sitRep	LBR	3	Bomi					0
+20140617	Liberia_MoH_sitRep	LBR	3	Bong					0
+20140617	Liberia_MoH_sitRep	LBR	3	GrandKru					0
+20140617	Liberia_MoH_sitRep	LBR	3	Lofa	14	5		8	0
+20140617	Liberia_MoH_sitRep	LBR	3	Margibi					0
+20140617	Liberia_MoH_sitRep	LBR	3	Maryland					0
+20140617	Liberia_MoH_sitRep	LBR	3	Monteserrado	8	0		0	0
+20140617	Liberia_MoH_sitRep	LBR	3	Nimba					0
+20140617	Liberia_MoH_sitRep	LBR	3	RiverGee					0
+20140617	Liberia_MoH_sitRep	LBR	3	RiverCess					0
+20140617	Liberia_MoH_sitRep	LBR	3	Sinoe					0
+20140622	Liberia_MoH_sitRep	LBR	1	Liberia	26	10		16	0
+20140622	Liberia_MoH_sitRep	LBR	3	Bomi					0
+20140622	Liberia_MoH_sitRep	LBR	3	Bong					0
+20140622	Liberia_MoH_sitRep	LBR	3	GrandKru					0
+20140622	Liberia_MoH_sitRep	LBR	3	Lofa	18	10		8	0
+20140622	Liberia_MoH_sitRep	LBR	3	Margibi					0
+20140622	Liberia_MoH_sitRep	LBR	3	Maryland					0
+20140622	Liberia_MoH_sitRep	LBR	3	Monteserrado	10	0		8	0
+20140622	Liberia_MoH_sitRep	LBR	3	Nimba					0
+20140622	Liberia_MoH_sitRep	LBR	3	RiverGee					0
+20140622	Liberia_MoH_sitRep	LBR	3	RiverCess					0
+20140622	Liberia_MoH_sitRep	LBR	3	Sinoe					0
+20140623	WHO	GIN	1	Guinea	389			269	0
+20140623	WHO	SLE	1	SierraLeone	157			36	0
+20140623	WHO	GIN	3	Conakry	65			33	0
+20140623	WHO	GIN	3	Guéckédou	226			177	0
+20140623	WHO	GIN	3	Macenta	41			28	0
+20140623	WHO	GIN	3	Kissidougou	6			5	0
+20140623	WHO	GIN	3	Dabola	4			4	0
+20140623	WHO	GIN	3	Djinguiraye	1			1	0
+20140623	WHO	GIN	3	Télimélé	25			9	0
+20140623	WHO	GIN	3	Boffa	21			12	0
+20140623	WHO	GIN	3	Kouroussa	1			1	0
+20140623	WHO	SLE	3	Kailahun	135			32	0
+20140623	WHO	SLE	3	Kenema	19			2	0
+20140623	WHO	SLE	3	PortLoko	1			1	0
+20140623	WHO	SLE	3	WesternAreaUrban	2			1	0
+20140624		SLE	1	SierraLeone		45	15		0
+20140624	Liberia_MoH_sitRep	LBR	1	Liberia	42	15		25	0
+20140624	Liberia_MoH_sitRep	LBR	3	Bomi					0
+20140624	Liberia_MoH_sitRep	LBR	3	Bong					0
+20140624	Liberia_MoH_sitRep	LBR	3	GrandKru					0
+20140624	Liberia_MoH_sitRep	LBR	3	Lofa	31	15		14	0
+20140624	Liberia_MoH_sitRep	LBR	3	Margibi					0
+20140624	Liberia_MoH_sitRep	LBR	3	Maryland					0
+20140624	Liberia_MoH_sitRep	LBR	3	Monteserrado	11	0		11	0
+20140624	Liberia_MoH_sitRep	LBR	3	Nimba					0
+20140624	Liberia_MoH_sitRep	LBR	3	RiverGee					0
+20140624	Liberia_MoH_sitRep	LBR	3	RiverCess					0
+20140624	Liberia_MoH_sitRep	LBR	3	Sinoe					0
+20140625		SLE	1	SierraLeone					0
+20140625	Liberia_MoH_sitRep	LBR	1	Liberia	54	25		32	0
+20140625	Liberia_MoH_sitRep	LBR	3	Bomi					0
+20140625	Liberia_MoH_sitRep	LBR	3	Bong					0
+20140625	Liberia_MoH_sitRep	LBR	3	GrandKru					0
+20140625	Liberia_MoH_sitRep	LBR	3	Lofa	38	20		17	0
+20140625	Liberia_MoH_sitRep	LBR	3	Margibi					0
+20140625	Liberia_MoH_sitRep	LBR	3	Maryland					0
+20140625	Liberia_MoH_sitRep	LBR	3	Monteserrado	16	5		15	0
+20140625	Liberia_MoH_sitRep	LBR	3	Nimba					0
+20140625	Liberia_MoH_sitRep	LBR	3	RiverGee					0
+20140625	Liberia_MoH_sitRep	LBR	3	RiverCess					0
+20140625	Liberia_MoH_sitRep	LBR	3	Sinoe					0
+20140627		SLE	1	SierraLeone		48	18		0
+20140627	Liberia_MoH_sitRep	LBR	1	Liberia	61	25		37	0
+20140627	Liberia_MoH_sitRep	LBR	3	Bomi					0
+20140627	Liberia_MoH_sitRep	LBR	3	Bong					0
+20140627	Liberia_MoH_sitRep	LBR	3	GrandKru					0
+20140627	Liberia_MoH_sitRep	LBR	3	Lofa	42	20		19	0
+20140627	Liberia_MoH_sitRep	LBR	3	Margibi	2	0		0	0
+20140627	Liberia_MoH_sitRep	LBR	3	Maryland				0	0
+20140627	Liberia_MoH_sitRep	LBR	3	Monteserrado	17	5		18	0
+20140627	Liberia_MoH_sitRep	LBR	3	Nimba					0
+20140627	Liberia_MoH_sitRep	LBR	3	RiverGee					0
+20140627	Liberia_MoH_sitRep	LBR	3	RiverCess					0
+20140627	Liberia_MoH_sitRep	LBR	3	Sinoe					0
+20140628		SLE	1	SierraLeone		44	22		0
+20140628	Liberia_MoH_sitRep	LBR	1	Liberia				48	0
+20140628	Liberia_MoH_sitRep	LBR	3	Bomi				0	0
+20140628	Liberia_MoH_sitRep	LBR	3	Bong				0	0
+20140628	Liberia_MoH_sitRep	LBR	3	GrandKru				0	0
+20140628	Liberia_MoH_sitRep	LBR	3	Lofa				26	0
+20140628	Liberia_MoH_sitRep	LBR	3	Margibi				2	0
+20140628	Liberia_MoH_sitRep	LBR	3	Maryland				0	0
+20140628	Liberia_MoH_sitRep	LBR	3	Monteserrado				20	0
+20140628	Liberia_MoH_sitRep	LBR	3	Nimba				0	0
+20140628	Liberia_MoH_sitRep	LBR	3	RiverGee				0	0
+20140628	Liberia_MoH_sitRep	LBR	3	RiverCess				0	0
+20140628	Liberia_MoH_sitRep	LBR	3	Sinoe				0	0
+20140629		SLE	1	SierraLeone		46	23		0
+20140629	Liberia_MoH_sitRep	LBR	1	Liberia	88	25		49	0
+20140629	Liberia_MoH_sitRep	LBR	3	Bomi		0		0	0
+20140629	Liberia_MoH_sitRep	LBR	3	Bong		0		0	0
+20140629	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0	0
+20140629	Liberia_MoH_sitRep	LBR	3	Lofa	61	19		27	0
+20140629	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2	0
+20140629	Liberia_MoH_sitRep	LBR	3	Maryland		0		0	0
+20140629	Liberia_MoH_sitRep	LBR	3	Monteserrado	24	6		20	0
+20140629	Liberia_MoH_sitRep	LBR	3	Nimba		0		0	0
+20140629	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0	0
+20140629	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0	0
+20140629	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0	0
+20140630	WHO	SLE	1	SierraLeone	239	49	23	99	0
+20140630	WHO	GIN	1	Guinea	413			303	0
+20140701	Liberia_MoH_sitRep	LBR	1	Liberia	90	25		49	0
+20140701	Liberia_MoH_sitRep	LBR	3	Bomi		0		0	0
+20140701	Liberia_MoH_sitRep	LBR	3	Bong		0		0	0
+20140701	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0	0
+20140701	Liberia_MoH_sitRep	LBR	3	Lofa	61	19		27	0
+20140701	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2	0
+20140701	Liberia_MoH_sitRep	LBR	3	Maryland		0		0	0
+20140701	Liberia_MoH_sitRep	LBR	3	Monteserrado	26	6		20	0
+20140701	Liberia_MoH_sitRep	LBR	3	Nimba		0		0	0
+20140701	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0	0
+20140701	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0	0
+20140701	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0	0
+20140702	WHO	GIN	1	Guinea	412			305	0
+20140702		SLE	1	SierraLeone	252	58	28	101	0
+20140702	Liberia_MoH_sitRep	LBR	1	Liberia	100	19		61	0
+20140702	Liberia_MoH_sitRep	LBR	3	Bomi		0		0	0
+20140702	Liberia_MoH_sitRep	LBR	3	Bong		0		0	0
+20140702	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0	0
+20140702	Liberia_MoH_sitRep	LBR	3	Lofa	64	15		32	0
+20140702	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2	0
+20140702	Liberia_MoH_sitRep	LBR	3	Maryland		0		0	0
+20140702	Liberia_MoH_sitRep	LBR	3	Monteserrado	33	4		27	0
+20140702	Liberia_MoH_sitRep	LBR	3	Nimba		0		0	0
+20140702	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0	0
+20140702	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0	0
+20140702	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0	0
+20140703	Liberia_MoH_sitRep	LBR	1	Liberia	104	18		66	0
+20140703	Liberia_MoH_sitRep	LBR	3	Bomi		0		0	0
+20140703	Liberia_MoH_sitRep	LBR	3	Bong		0		0	0
+20140703	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0	0
+20140703	Liberia_MoH_sitRep	LBR	3	Lofa	67	13		35	0
+20140703	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2	0
+20140703	Liberia_MoH_sitRep	LBR	3	Maryland		0		0	0
+20140703	Liberia_MoH_sitRep	LBR	3	Monteserrado	34	5		29	0
+20140703	Liberia_MoH_sitRep	LBR	3	Nimba		0		0	0
+20140703	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0	0
+20140703	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0	0
+20140703	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0	0
+20140706	WHO	GIN	1	Guinea	408			307	0
+20140706		SLE	1	SierraLeone	305	89	32	127	0
+20140707		SLE	1	SierraLeone		92	34		0
+20140707	Liberia_MoH_sitRep	LBR	1	Liberia	108	18		70	0
+20140707	Liberia_MoH_sitRep	LBR	3	Bomi		0		0	0
+20140707	Liberia_MoH_sitRep	LBR	3	Bong		0		0	0
+20140707	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0	0
+20140707	Liberia_MoH_sitRep	LBR	3	Lofa	67	13		35	0
+20140707	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2	0
+20140707	Liberia_MoH_sitRep	LBR	3	Maryland		0		0	0
+20140707	Liberia_MoH_sitRep	LBR	3	Monteserrado	38	5		33	0
+20140707	Liberia_MoH_sitRep	LBR	3	Nimba		0		0	0
+20140707	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0	0
+20140707	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0	0
+20140707	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0	0
+20140708	WHO	SLE	1	SierraLeone	337			142	0
+20140708	WHO	GIN	1	Guinea	409			309	0
+20140708	Liberia_MoH_sitRep	LBR	1	Liberia	130	14		78	0
+20140708	Liberia_MoH_sitRep	LBR	3	Bomi		0		0	0
+20140708	Liberia_MoH_sitRep	LBR	3	Bong		0		0	0
+20140708	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0	0
+20140708	Liberia_MoH_sitRep	LBR	3	Lofa	86	9		41	0
+20140708	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2	0
+20140708	Liberia_MoH_sitRep	LBR	3	Maryland		0		0	0
+20140708	Liberia_MoH_sitRep	LBR	3	Monteserrado	41	5		35	0
+20140708	Liberia_MoH_sitRep	LBR	3	Nimba		0		0	0
+20140708	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0	0
+20140708	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0	0
+20140708	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0	0
+20140709		SLE	1	SierraLeone		93	39		0
+20140710		SLE	1	SierraLeone					0
+20140710	Liberia_MoH_sitRep	LBR	1	Liberia	133	14		80	0
+20140710	Liberia_MoH_sitRep	LBR	3	Bomi		0		0	0
+20140710	Liberia_MoH_sitRep	LBR	3	Bong		0		0	0
+20140710	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0	0
+20140710	Liberia_MoH_sitRep	LBR	3	Lofa	86	8		42	0
+20140710	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2	0
+20140710	Liberia_MoH_sitRep	LBR	3	Maryland		0		0	0
+20140710	Liberia_MoH_sitRep	LBR	3	Monteserrado	44	6		36	0
+20140710	Liberia_MoH_sitRep	LBR	3	Nimba		0		0	0
+20140710	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0	0
+20140710	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0	0
+20140710	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0	0
+20140711		SLE	1	SierraLeone					0
+20140712	WHO	SLE	1	SierraLeone	386		55	194	0
+20140712	WHO	GIN	1	Guinea	406			304	0
+20140713		SLE	1	SierraLeone		81	57		0
+20140713	Liberia_MoH_sitRep	LBR	1	Liberia	137	10		85	0
+20140713	Liberia_MoH_sitRep	LBR	3	Bomi	1	0		1	0
+20140713	Liberia_MoH_sitRep	LBR	3	Bong		0		0	0
+20140713	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0	0
+20140713	Liberia_MoH_sitRep	LBR	3	Lofa	87	3		46	0
+20140713	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2	0
+20140713	Liberia_MoH_sitRep	LBR	3	Maryland		0		0	0
+20140713	Liberia_MoH_sitRep	LBR	3	Monteserrado	46	7		36	0
+20140713	Liberia_MoH_sitRep	LBR	3	Nimba		0		0	0
+20140713	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0	0
+20140713	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0	0
+20140713	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0	0
+20140714	WHO	SLE	1	SierraLeone	397	82	60	197	0
+20140714	WHO	GIN	1	Guinea	411			310	0
+20140715		SLE	1	SierraLeone		85	60		0
+20140716		SLE	1	SierraLeone		71	85		0
+20140717	WHO	SLE	1	SierraLeone	442	61	89	206	0
+20140717	WHO	GIN	1	Guinea	410			310	0
+20140717	Liberia_MoH_sitRep	LBR	1	Liberia	164	20		94	0
+20140717	Liberia_MoH_sitRep	LBR	3	Bomi	1	0		1	0
+20140717	Liberia_MoH_sitRep	LBR	3	Bong		0		0	0
+20140717	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0	0
+20140717	Liberia_MoH_sitRep	LBR	3	Lofa	104	15		49	0
+20140717	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2	0
+20140717	Liberia_MoH_sitRep	LBR	3	Maryland		0		0	0
+20140717	Liberia_MoH_sitRep	LBR	3	Monteserrado	55	5		42	0
+20140717	Liberia_MoH_sitRep	LBR	3	Nimba		0		0	0
+20140717	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0	0
+20140717	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0	0
+20140717	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0	0
+20140718		SLE	1	SierraLeone		65	92		0
+20140719		SLE	1	SierraLeone		75	96		0
+20140720	WHO	GIN	1	Guinea	415			314	0
+20140720		SLE	1	SierraLeone	454			219	0
+20140720	Liberia_MoH_sitRep	LBR	1	Liberia	188	24		108	0
+20140720	Liberia_MoH_sitRep	LBR	3	Bomi	2	0		2	0
+20140720	Liberia_MoH_sitRep	LBR	3	Bong	4	0		0	0
+20140720	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0	0
+20140720	Liberia_MoH_sitRep	LBR	3	Lofa	113	15		53	0
+20140720	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2	0
+20140720	Liberia_MoH_sitRep	LBR	3	Maryland		0		0	0
+20140720	Liberia_MoH_sitRep	LBR	3	Monteserrado	63	9		51	0
+20140720	Liberia_MoH_sitRep	LBR	3	Nimba		0		0	0
+20140720	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0	0
+20140720	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0	0
+20140720	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0	0
+20140723	WHO	SLE	1	SierraLeone	525	65	108	224	0
+20140723	WHO	GIN	1	Guinea	427			319	0
+20140724	Liberia_MoH_sitRep	LBR	1	Liberia	216	27		116	0
+20140724	Liberia_MoH_sitRep	LBR	3	Bomi	2	0		2	0
+20140724	Liberia_MoH_sitRep	LBR	3	Bong	19	0		2	0
+20140724	Liberia_MoH_sitRep	LBR	3	GrandKru		0		0	0
+20140724	Liberia_MoH_sitRep	LBR	3	Lofa	118	13		55	0
+20140724	Liberia_MoH_sitRep	LBR	3	Margibi	3	0		2	0
+20140724	Liberia_MoH_sitRep	LBR	3	Maryland		0		0	0
+20140724	Liberia_MoH_sitRep	LBR	3	Monteserrado	70	14		55	0
+20140724	Liberia_MoH_sitRep	LBR	3	Nimba	4	0		0	0
+20140724	Liberia_MoH_sitRep	LBR	3	RiverGee		0		0	0
+20140724	Liberia_MoH_sitRep	LBR	3	RiverCess		0		0	0
+20140724	Liberia_MoH_sitRep	LBR	3	Sinoe		0		0	0
+20140725		SLE	1	SierraLeone		73	116		0
+20140726	Liberia_MoH_sitRep	LBR	1	Liberia	288	29		136	0
+20140726	Liberia_MoH_sitRep	LBR	3	Bomi	13	0		2	0
+20140726	Liberia_MoH_sitRep	LBR	3	Bong	35	0		7	0
+20140726	Liberia_MoH_sitRep	LBR	3	Gbarpolu		0		0	0
+20140726	Liberia_MoH_sitRep	LBR	3	GrandBassa		0		0	0
+20140726	Liberia_MoH_sitRep	LBR	3	GrandCapeMount		0		0	0
+20140726	Liberia_MoH_sitRep	LBR	3	GrandGedeh		0		1	0
+20140726	Liberia_MoH_sitRep	LBR	3	Lofa	142	13		66	0
+20140726	Liberia_MoH_sitRep	LBR	3	Margibi	4	0		2	0
+20140726	Liberia_MoH_sitRep	LBR	3	Maryland		0		0	0
+20140726	Liberia_MoH_sitRep	LBR	3	Monteserrado	89	16		58	0
+20140726	Liberia_MoH_sitRep	LBR	3	Nimba	4	0		0	0
+20140727	WHO	GIN	1	Guinea	460			339	0
+20140728		SLE	1	SierraLeone	533	80	121	233	0
+20140728	Liberia_MoH_sitRep	LBR	1	Liberia	307	31		145	0
+20140728	Liberia_MoH_sitRep	LBR	3	Bomi	19	0		2	0
+20140728	Liberia_MoH_sitRep	LBR	3	Bong	39	0		8	0
+20140728	Liberia_MoH_sitRep	LBR	3	Gbarpolu		0		0	0
+20140728	Liberia_MoH_sitRep	LBR	3	GrandBassa		0		0	0
+20140728	Liberia_MoH_sitRep	LBR	3	GrandCapeMount		0		0	0
+20140728	Liberia_MoH_sitRep	LBR	3	GrandGedeh		0		1	0
+20140728	Liberia_MoH_sitRep	LBR	3	Lofa	146	9		68	0
+20140728	Liberia_MoH_sitRep	LBR	3	Margibi	6	0		4	0
+20140728	Liberia_MoH_sitRep	LBR	3	Maryland		0		0	0
+20140728	Liberia_MoH_sitRep	LBR	3	Monteserrado	92	22		62	0
+20140728	Liberia_MoH_sitRep	LBR	3	Nimba	4	0		0	0
+20140730	WHO	GIN	1	Guinea	472			346	0
+20140731		SLE	1	SierraLeone	574	73	133	252	0
+20140731	Liberia_MoH_sitRep	LBR	1	Liberia		40		170	0
+20140731	Liberia_MoH_sitRep	LBR	3	Bomi				2	0
+20140731	Liberia_MoH_sitRep	LBR	3	Bong				8	0
+20140731	Liberia_MoH_sitRep	LBR	3	Gbarpolu					0
+20140731	Liberia_MoH_sitRep	LBR	3	GrandBassa					0
+20140731	Liberia_MoH_sitRep	LBR	3	GrandCapeMount					0
+20140731	Liberia_MoH_sitRep	LBR	3	GrandGedeh				1	0
+20140731	Liberia_MoH_sitRep	LBR	3	Lofa		23		79	0
+20140731	Liberia_MoH_sitRep	LBR	3	Margibi				4	0
+20140731	Liberia_MoH_sitRep	LBR	3	Maryland					0
+20140731	Liberia_MoH_sitRep	LBR	3	Monteserrado		17		73	0
+20140731	Liberia_MoH_sitRep	LBR	3	Nimba				3	0
+20140801	WHO	SLE	1	SierraLeone	646	70	140	273	0
+20140801	WHO	GIN	1	Guinea	485			358	0
+20140802	Liberia_MoH_sitRep	LBR	1	Liberia	426	47		225	0
+20140802	Liberia_MoH_sitRep	LBR	3	Bomi	23			8	0
+20140802	Liberia_MoH_sitRep	LBR	3	Bong	42			8	0
+20140802	Liberia_MoH_sitRep	LBR	3	Gbarpolu					0
+20140802	Liberia_MoH_sitRep	LBR	3	GrandBassa					0
+20140802	Liberia_MoH_sitRep	LBR	3	GrandCapeMount				1	0
+20140802	Liberia_MoH_sitRep	LBR	3	GrandGedeh					0
+20140802	Liberia_MoH_sitRep	LBR	3	Lofa	228	32		95	0
+20140802	Liberia_MoH_sitRep	LBR	3	Margibi				4	0
+20140802	Liberia_MoH_sitRep	LBR	3	Maryland					0
+20140802	Liberia_MoH_sitRep	LBR	3	Monteserrado	116	15		105	0
+20140802	Liberia_MoH_sitRep	LBR	3	Nimba	9			3	0
+20140802	Liberia_MoH_sitRep	LBR	3	RiverCess				1	0
+20140804	WHO	SLE	1	SierraLeone	691	95	159	286	0
+20140804	WHO	GIN	1	Guinea	495			363	0
+20140804	Liberia_MoH_sitRep	LBR	1	Liberia	471	40		257	0
+20140804	Liberia_MoH_sitRep	LBR	3	Bomi	23			8	0
+20140804	Liberia_MoH_sitRep	LBR	3	Bong	53			11	0
+20140804	Liberia_MoH_sitRep	LBR	3	Gbarpolu					0
+20140804	Liberia_MoH_sitRep	LBR	3	GrandBassa				1	0
+20140804	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	4			2	0
+20140804	Liberia_MoH_sitRep	LBR	3	GrandGedeh					0
+20140804	Liberia_MoH_sitRep	LBR	3	Lofa	239	28		107	0
+20140804	Liberia_MoH_sitRep	LBR	3	Margibi	9			5	0
+20140804	Liberia_MoH_sitRep	LBR	3	Maryland					0
+20140804	Liberia_MoH_sitRep	LBR	3	Monteserrado	128	12		117	0
+20140804	Liberia_MoH_sitRep	LBR	3	Nimba	13			5	0
+20140804	Liberia_MoH_sitRep	LBR	3	RiverCess				1	0
+20140806	WHO	SLE	1	SierraLeone	717		161	298	0
+20140806	WHO	GIN	1	Guinea	495			367	0
+20140806	Liberia_MoH_sitRep	LBR	1	Liberia	508	49		271	0
+20140806	Liberia_MoH_sitRep	LBR	3	Bomi	29			10	0
+20140806	Liberia_MoH_sitRep	LBR	3	Bong	59			11	0
+20140806	Liberia_MoH_sitRep	LBR	3	Gbarpolu					0
+20140806	Liberia_MoH_sitRep	LBR	3	GrandBassa				1	0
+20140806	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	4			2	0
+20140806	Liberia_MoH_sitRep	LBR	3	GrandGedeh					0
+20140806	Liberia_MoH_sitRep	LBR	3	Lofa	255	36		116	0
+20140806	Liberia_MoH_sitRep	LBR	3	Margibi	9			5	0
+20140806	Liberia_MoH_sitRep	LBR	3	Maryland	137	13			0
+20140806	Liberia_MoH_sitRep	LBR	3	Monteserrado	13			120	0
+20140806	Liberia_MoH_sitRep	LBR	3	Nimba				5	0
+20140806	Liberia_MoH_sitRep	LBR	3	RiverCess				1	0
+20140807		SLE	1	SierraLeone			163		0
+20140807	Liberia_MoH_sitRep	LBR	1	Liberia	546	61		283	0
+20140807	Liberia_MoH_sitRep	LBR	3	Bomi	29			10	0
+20140807	Liberia_MoH_sitRep	LBR	3	Bong	59			11	0
+20140807	Liberia_MoH_sitRep	LBR	3	Gbarpolu					0
+20140807	Liberia_MoH_sitRep	LBR	3	GrandBassa				1	0
+20140807	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	4			2	0
+20140807	Liberia_MoH_sitRep	LBR	3	GrandGedeh					0
+20140807	Liberia_MoH_sitRep	LBR	3	Lofa	268	36		120	0
+20140807	Liberia_MoH_sitRep	LBR	3	Margibi	13			5	0
+20140807	Liberia_MoH_sitRep	LBR	3	Maryland					0
+20140807	Liberia_MoH_sitRep	LBR	3	Monteserrado	155	25		126	0
+20140807	Liberia_MoH_sitRep	LBR	3	Nimba	16			7	0
+20140807	Liberia_MoH_sitRep	LBR	3	RiverCess				1	0
+20140808		SLE	1	SierraLeone			175		0
+20140809	WHO	SLE	1	SierraLeone	730		175	315	0
+20140809	WHO	GIN	1	Guinea	506			373	0
+20140810		SLE	1	SierraLeone			181		0
+20140811	WHO	SLE	1	SierraLeone	783		181	334	0
+20140811	WHO	GIN	1	Guinea	510			377	0
+20140812	GoSL_MoHS_sitRep_77	SLE	1	SierraLeone	800	95	193	303	0
+20140812	Liberia_MoH_sitRep	LBR	1	Liberia	579	64		295	0
+20140812	GoSL_MoHS_sitRep_77	SLE	3	Kailahun	410			185	0
+20140812	GoSL_MoHS_sitRep_77	SLE	3	Kenema	269			105	0
+20140812	GoSL_MoHS_sitRep_77	SLE	3	Kono	35			0	0
+20140812	GoSL_MoHS_sitRep_77	SLE	3	Kambia	1			0	0
+20140812	GoSL_MoHS_sitRep_77	SLE	3	Koinadugu	0			0	0
+20140812	GoSL_MoHS_sitRep_77	SLE	3	Bombali	9			1	0
+20140812	GoSL_MoHS_sitRep_77	SLE	3	Tonkolili	2			0	0
+20140812	GoSL_MoHS_sitRep_77	SLE	3	PortLoko	25			3	0
+20140812	GoSL_MoHS_sitRep_77	SLE	3	Pujehun	3			0	0
+20140812	GoSL_MoHS_sitRep_77	SLE	3	Bo	25			2	0
+20140812	GoSL_MoHS_sitRep_77	SLE	3	Moyamba	5			3	0
+20140812	GoSL_MoHS_sitRep_77	SLE	3	Bonthe	1			0	0
+20140812	GoSL_MoHS_sitRep_77	SLE	3	WesternAreaUrban	14			4	0
+20140812	GoSL_MoHS_sitRep_77	SLE	3	WesternAreaRural	1			0	0
+20140812	Liberia_MoH_sitRep	LBR	3	Bomi	31			11	0
+20140812	Liberia_MoH_sitRep	LBR	3	Bong				11	0
+20140812	Liberia_MoH_sitRep	LBR	3	Gbarpolu					0
+20140812	Liberia_MoH_sitRep	LBR	3	GrandBassa				1	0
+20140812	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	5				0
+20140812	Liberia_MoH_sitRep	LBR	3	GrandGedeh					0
+20140812	Liberia_MoH_sitRep	LBR	3	Lofa	294	39		128	0
+20140812	Liberia_MoH_sitRep	LBR	3	Margibi	13			5	0
+20140812	Liberia_MoH_sitRep	LBR	3	Maryland					0
+20140812	Liberia_MoH_sitRep	LBR	3	Monteserrado	114	25		128	0
+20140812	Liberia_MoH_sitRep	LBR	3	Nimba	10			8	0
+20140812	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1	0
+20140813	GoSL_MoHS_sitRep_78	SLE	1	SierraLeone	810	86	200	312	0
+20140813	WHO	GIN	1	Guinea	519			380	0
+20140813	GoSL_MoHS_sitRep_78	SLE	3	Kailahun	421			191	0
+20140813	GoSL_MoHS_sitRep_78	SLE	3	Kenema	265			108	0
+20140813	GoSL_MoHS_sitRep_78	SLE	3	Kono	35			0	0
+20140813	GoSL_MoHS_sitRep_78	SLE	3	Kambia	1			0	0
+20140813	GoSL_MoHS_sitRep_78	SLE	3	Koinadugu	0			0	0
+20140813	GoSL_MoHS_sitRep_78	SLE	3	Bombali	9			1	0
+20140813	GoSL_MoHS_sitRep_78	SLE	3	Tonkolili	2			0	0
+20140813	GoSL_MoHS_sitRep_78	SLE	3	PortLoko	25			3	0
+20140813	GoSL_MoHS_sitRep_78	SLE	3	Pujehun	3			0	0
+20140813	GoSL_MoHS_sitRep_78	SLE	3	Bo	25			2	0
+20140813	GoSL_MoHS_sitRep_78	SLE	3	Moyamba	5			3	0
+20140813	GoSL_MoHS_sitRep_78	SLE	3	Bonthe	1			0	0
+20140813	GoSL_MoHS_sitRep_78	SLE	3	WesternAreaUrban	17			4	0
+20140813	GoSL_MoHS_sitRep_78	SLE	3	WesternAreaRural	1			0	0
+20140814	GoSL_MoHS_sitRep_79	SLE	1	SierraLeone	823	80	201	319	0
+20140814	GoSL_MoHS_sitRep_79	SLE	3	Kailahun	421			194	0
+20140814	GoSL_MoHS_sitRep_79	SLE	3	Kenema	273			112	0
+20140814	GoSL_MoHS_sitRep_79	SLE	3	Kono	35			0	0
+20140814	GoSL_MoHS_sitRep_79	SLE	3	Kambia	1			0	0
+20140814	GoSL_MoHS_sitRep_79	SLE	3	Koinadugu	0			0	0
+20140814	GoSL_MoHS_sitRep_79	SLE	3	Bombali	9			1	0
+20140814	GoSL_MoHS_sitRep_79	SLE	3	Tonkolili	2			0	0
+20140814	GoSL_MoHS_sitRep_79	SLE	3	PortLoko	27			3	0
+20140814	GoSL_MoHS_sitRep_79	SLE	3	Pujehun	3			0	0
+20140814	GoSL_MoHS_sitRep_79	SLE	3	Bo	25			2	0
+20140814	GoSL_MoHS_sitRep_79	SLE	3	Moyamba	6			3	0
+20140814	GoSL_MoHS_sitRep_79	SLE	3	Bonthe	1			0	0
+20140814	GoSL_MoHS_sitRep_79	SLE	3	WesternAreaUrban	17			4	0
+20140814	GoSL_MoHS_sitRep_79	SLE	3	WesternAreaRural	3			0	0
+20140815	GoSL_MoHS_sitRep_80	SLE	1	SierraLeone	836	104	208	326	0
+20140815	Liberia_MoH_sitRep	LBR	1	Liberia	721	164		365	0
+20140815	GoSL_MoHS_sitRep_80	SLE	3	Kailahun	421			196	0
+20140815	GoSL_MoHS_sitRep_80	SLE	3	Kenema	278			117	0
+20140815	GoSL_MoHS_sitRep_80	SLE	3	Kono	35			0	0
+20140815	GoSL_MoHS_sitRep_80	SLE	3	Kambia	1			0	0
+20140815	GoSL_MoHS_sitRep_80	SLE	3	Koinadugu	0			0	0
+20140815	GoSL_MoHS_sitRep_80	SLE	3	Bombali	9			1	0
+20140815	GoSL_MoHS_sitRep_80	SLE	3	Tonkolili	2			0	0
+20140815	GoSL_MoHS_sitRep_80	SLE	3	PortLoko	29			3	0
+20140815	GoSL_MoHS_sitRep_80	SLE	3	Pujehun	3			0	0
+20140815	GoSL_MoHS_sitRep_80	SLE	3	Bo	28			2	0
+20140815	GoSL_MoHS_sitRep_80	SLE	3	Moyamba	6			3	0
+20140815	GoSL_MoHS_sitRep_80	SLE	3	Bonthe	1			0	0
+20140815	GoSL_MoHS_sitRep_80	SLE	3	WesternAreaUrban	20			4	0
+20140815	GoSL_MoHS_sitRep_80	SLE	3	WesternAreaRural	3			0	0
+20140815	Liberia_MoH_sitRep	LBR	3	Bomi	41			13	0
+20140815	Liberia_MoH_sitRep	LBR	3	Bong	80			21	0
+20140815	Liberia_MoH_sitRep	LBR	3	Gbarpolu					0
+20140815	Liberia_MoH_sitRep	LBR	3	GrandBassa	14			2	0
+20140815	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	5			3	0
+20140815	Liberia_MoH_sitRep	LBR	3	GrandGedeh					0
+20140815	Liberia_MoH_sitRep	LBR	3	GrandKru					0
+20140815	Liberia_MoH_sitRep	LBR	3	Lofa	369	117		172	0
+20140815	Liberia_MoH_sitRep	LBR	3	Margibi	13			5	0
+20140815	Liberia_MoH_sitRep	LBR	3	Maryland					0
+20140815	Liberia_MoH_sitRep	LBR	3	Monteserrado	181	47		138	0
+20140815	Liberia_MoH_sitRep	LBR	3	Nimba	17			10	0
+20140815	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1	0
+20140816	GoSL_MoHS_sitRep_81	SLE	1	SierraLeone	848	93	215	336	0
+20140816	WHO	GIN	1	Guinea	543			394	0
+20140816	GoSL_MoHS_sitRep_81	SLE	3	Kailahun	430			201	0
+20140816	GoSL_MoHS_sitRep_81	SLE	3	Kenema	282			122	0
+20140816	GoSL_MoHS_sitRep_81	SLE	3	Kono	35			0	0
+20140816	GoSL_MoHS_sitRep_81	SLE	3	Kambia	1			0	0
+20140816	GoSL_MoHS_sitRep_81	SLE	3	Koinadugu	0			0	0
+20140816	GoSL_MoHS_sitRep_81	SLE	3	Bombali	9			1	0
+20140816	GoSL_MoHS_sitRep_81	SLE	3	Tonkolili	2			0	0
+20140816	GoSL_MoHS_sitRep_81	SLE	3	PortLoko	29			3	0
+20140816	GoSL_MoHS_sitRep_81	SLE	3	Pujehun	3			0	0
+20140816	GoSL_MoHS_sitRep_81	SLE	3	Bo	25			2	0
+20140816	GoSL_MoHS_sitRep_81	SLE	3	Moyamba	6			3	0
+20140816	GoSL_MoHS_sitRep_81	SLE	3	Bonthe	1			0	0
+20140816	GoSL_MoHS_sitRep_81	SLE	3	WesternAreaUrban	21			4	0
+20140816	GoSL_MoHS_sitRep_81	SLE	3	WesternAreaRural	4			0	0
+20140817	GoSL_MoHS_sitRep_82	SLE	1	SierraLeone	850	87	219	344	0
+20140817	Liberia_MoH_sitRep	LBR	1	Liberia	826	196		455	0
+20140817	GoSL_MoHS_sitRep_82	SLE	3	Kailahun	433			206	0
+20140817	GoSL_MoHS_sitRep_82	SLE	3	Kenema	281			125	0
+20140817	GoSL_MoHS_sitRep_82	SLE	3	Kono	35			0	0
+20140817	GoSL_MoHS_sitRep_82	SLE	3	Kambia	1			0	0
+20140817	GoSL_MoHS_sitRep_82	SLE	3	Koinadugu	0			0	0
+20140817	GoSL_MoHS_sitRep_82	SLE	3	Bombali	9			1	0
+20140817	GoSL_MoHS_sitRep_82	SLE	3	Tonkolili	2			0	0
+20140817	GoSL_MoHS_sitRep_82	SLE	3	PortLoko	29			3	0
+20140817	GoSL_MoHS_sitRep_82	SLE	3	Pujehun	3			0	0
+20140817	GoSL_MoHS_sitRep_82	SLE	3	Bo	25			2	0
+20140817	GoSL_MoHS_sitRep_82	SLE	3	Moyamba	6			3	0
+20140817	GoSL_MoHS_sitRep_82	SLE	3	Bonthe	1			0	0
+20140817	GoSL_MoHS_sitRep_82	SLE	3	WesternAreaUrban	21			4	0
+20140817	GoSL_MoHS_sitRep_82	SLE	3	WesternAreaRural	4			0	0
+20140817	Liberia_MoH_sitRep	LBR	3	Bomi	41			14	0
+20140817	Liberia_MoH_sitRep	LBR	3	Bong	87			23	0
+20140817	Liberia_MoH_sitRep	LBR	3	GrandBassa	15			2	0
+20140817	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	8			6	0
+20140817	Liberia_MoH_sitRep	LBR	3	GrandGedeh	18			1	0
+20140817	Liberia_MoH_sitRep	LBR	3	Lofa				202	0
+20140817	Liberia_MoH_sitRep	LBR	3	Margibi				10	0
+20140817	Liberia_MoH_sitRep	LBR	3	Monteserrado		119		185	0
+20140817	Liberia_MoH_sitRep	LBR	3	Nimba				11	0
+20140817	Liberia_MoH_sitRep	LBR	3	RiverCess		77		1	0
+20140818	GoSL_MoHS_sitRep_83	SLE	1	SierraLeone	907	81	220	351	0
+20140818	WHO	GIN	1	Guinea	579			396	0
+20140818	Liberia_MoH_sitRep	LBR	1	Liberia	862	207		481	0
+20140818	GoSL_MoHS_sitRep_83	SLE	3	Kailahun	452			207	0
+20140818	GoSL_MoHS_sitRep_83	SLE	3	Kenema	302			131	0
+20140818	GoSL_MoHS_sitRep_83	SLE	3	Kono	35			0	0
+20140818	GoSL_MoHS_sitRep_83	SLE	3	Kambia	1			0	0
+20140818	GoSL_MoHS_sitRep_83	SLE	3	Koinadugu	0			0	0
+20140818	GoSL_MoHS_sitRep_83	SLE	3	Bombali	13			1	0
+20140818	GoSL_MoHS_sitRep_83	SLE	3	Tonkolili	2			0	0
+20140818	GoSL_MoHS_sitRep_83	SLE	3	PortLoko	34			3	0
+20140818	GoSL_MoHS_sitRep_83	SLE	3	Pujehun	3			0	0
+20140818	GoSL_MoHS_sitRep_83	SLE	3	Bo	26			2	0
+20140818	GoSL_MoHS_sitRep_83	SLE	3	Moyamba	10			3	0
+20140818	GoSL_MoHS_sitRep_83	SLE	3	Bonthe	1			0	0
+20140818	GoSL_MoHS_sitRep_83	SLE	3	WesternAreaUrban	21			4	0
+20140818	GoSL_MoHS_sitRep_83	SLE	3	WesternAreaRural	7			0	0
+20140818	Liberia_MoH_sitRep	LBR	3	Bomi	41			14	0
+20140818	Liberia_MoH_sitRep	LBR	3	Bong	89			25	0
+20140818	Liberia_MoH_sitRep	LBR	3	GrandBassa	15			2	0
+20140818	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	8			6	0
+20140818	Liberia_MoH_sitRep	LBR	3	GrandGedeh				1	0
+20140818	Liberia_MoH_sitRep	LBR	3	Lofa	419	98		213	0
+20140818	Liberia_MoH_sitRep	LBR	3	Margibi	30			14	0
+20140818	Liberia_MoH_sitRep	LBR	3	Monteserrado	233	109		194	0
+20140818	Liberia_MoH_sitRep	LBR	3	Nimba	25			11	0
+20140818	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1	0
+20140819	GoSL_MoHS_sitRep_84	SLE	1	SierraLeone	910	89	225	359	0
+20140819	GoSL_MoHS_sitRep_84	SLE	3	Kailahun	455			210	0
+20140819	GoSL_MoHS_sitRep_84	SLE	3	Kenema	302			134	0
+20140819	GoSL_MoHS_sitRep_84	SLE	3	Kono	35			0	0
+20140819	GoSL_MoHS_sitRep_84	SLE	3	Kambia	1			0	0
+20140819	GoSL_MoHS_sitRep_84	SLE	3	Koinadugu	0			0	0
+20140819	GoSL_MoHS_sitRep_84	SLE	3	Bombali	12			1	0
+20140819	GoSL_MoHS_sitRep_84	SLE	3	Tonkolili	2			1	0
+20140819	GoSL_MoHS_sitRep_84	SLE	3	PortLoko	34			3	0
+20140819	GoSL_MoHS_sitRep_84	SLE	3	Pujehun	4			0	0
+20140819	GoSL_MoHS_sitRep_84	SLE	3	Bo	27			2	0
+20140819	GoSL_MoHS_sitRep_84	SLE	3	Moyamba	9			4	0
+20140819	GoSL_MoHS_sitRep_84	SLE	3	Bonthe	1			0	0
+20140819	GoSL_MoHS_sitRep_84	SLE	3	WesternAreaUrban	23			4	0
+20140819	GoSL_MoHS_sitRep_84	SLE	3	WesternAreaRural	5			0	0
+20140820	GoSL_MoHS_sitRep_85	SLE	1	SierraLeone	902	71	227	361	0
+20140820	WHO	GIN	1	Guinea	607			406	0
+20140820	Liberia_MoH_sitRep	LBR	1	Liberia	964	164		565	0
+20140820	GoSL_MoHS_sitRep_85	SLE	3	Kailahun	456			210	0
+20140820	GoSL_MoHS_sitRep_85	SLE	3	Kenema	294			136	0
+20140820	GoSL_MoHS_sitRep_85	SLE	3	Kono	35			0	0
+20140820	GoSL_MoHS_sitRep_85	SLE	3	Kambia	1			0	0
+20140820	GoSL_MoHS_sitRep_85	SLE	3	Koinadugu	0			0	0
+20140820	GoSL_MoHS_sitRep_85	SLE	3	Bombali	12			1	0
+20140820	GoSL_MoHS_sitRep_85	SLE	3	Tonkolili	2			1	0
+20140820	GoSL_MoHS_sitRep_85	SLE	3	PortLoko	33			3	0
+20140820	GoSL_MoHS_sitRep_85	SLE	3	Pujehun	4			0	0
+20140820	GoSL_MoHS_sitRep_85	SLE	3	Bo	27			2	0
+20140820	GoSL_MoHS_sitRep_85	SLE	3	Moyamba	9			4	0
+20140820	GoSL_MoHS_sitRep_85	SLE	3	Bonthe	1			0	0
+20140820	GoSL_MoHS_sitRep_85	SLE	3	WesternAreaUrban	23			4	0
+20140820	GoSL_MoHS_sitRep_85	SLE	3	WesternAreaRural	5			0	0
+20140820	Liberia_MoH_sitRep	LBR	3	Bomi	41			14	0
+20140820	Liberia_MoH_sitRep	LBR	3	Bong	100			29	0
+20140820	Liberia_MoH_sitRep	LBR	3	GrandBassa	15			2	0
+20140820	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	8			6	0
+20140820	Liberia_MoH_sitRep	LBR	3	GrandGedeh				1	0
+20140820	Liberia_MoH_sitRep	LBR	3	Lofa	419	67		218	0
+20140820	Liberia_MoH_sitRep	LBR	3	Margibi	75			63	0
+20140820	Liberia_MoH_sitRep	LBR	3	Monteserrado	256	97		206	0
+20140820	Liberia_MoH_sitRep	LBR	3	Nimba	48			25	0
+20140820	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1	0
+20140821	GoSL_MoHS_sitRep_86	SLE	1	SierraLeone	913	78	236	371	0
+20140821	GoSL_MoHS_sitRep_86	SLE	3	Kailahun	457			216	0
+20140821	GoSL_MoHS_sitRep_86	SLE	3	Kenema	294			139	0
+20140821	GoSL_MoHS_sitRep_86	SLE	3	Kono	35			1	0
+20140821	GoSL_MoHS_sitRep_86	SLE	3	Kambia	1			0	0
+20140821	GoSL_MoHS_sitRep_86	SLE	3	Koinadugu	0			0	0
+20140821	GoSL_MoHS_sitRep_86	SLE	3	Bombali	13			1	0
+20140821	GoSL_MoHS_sitRep_86	SLE	3	Tonkolili	8			1	0
+20140821	GoSL_MoHS_sitRep_86	SLE	3	PortLoko	34			3	0
+20140821	GoSL_MoHS_sitRep_86	SLE	3	Pujehun	4			0	0
+20140821	GoSL_MoHS_sitRep_86	SLE	3	Bo	28			2	0
+20140821	GoSL_MoHS_sitRep_86	SLE	3	Moyamba	9			4	0
+20140821	GoSL_MoHS_sitRep_86	SLE	3	Bonthe	1			0	0
+20140821	GoSL_MoHS_sitRep_86	SLE	3	WesternAreaUrban	23			4	0
+20140821	GoSL_MoHS_sitRep_86	SLE	3	WesternAreaRural	6			0	0
+20140822	GoSL_MoHS_sitRep_87	SLE	1	SierraLeone	966		236	375	0
+20140822	GoSL_MoHS_sitRep_87	SLE	3	Kailahun	463			216	0
+20140822	GoSL_MoHS_sitRep_87	SLE	3	Kenema	304			143	0
+20140822	GoSL_MoHS_sitRep_87	SLE	3	Kono	35			1	0
+20140822	GoSL_MoHS_sitRep_87	SLE	3	Kambia	1			0	0
+20140822	GoSL_MoHS_sitRep_87	SLE	3	Koinadugu	0			0	0
+20140822	GoSL_MoHS_sitRep_87	SLE	3	Bombali	19			1	0
+20140822	GoSL_MoHS_sitRep_87	SLE	3	Tonkolili	10			1	0
+20140822	GoSL_MoHS_sitRep_87	SLE	3	PortLoko	47			3	0
+20140822	GoSL_MoHS_sitRep_87	SLE	3	Pujehun	5			0	0
+20140822	GoSL_MoHS_sitRep_87	SLE	3	Bo	34			2	0
+20140822	GoSL_MoHS_sitRep_87	SLE	3	Moyamba	9			4	0
+20140822	GoSL_MoHS_sitRep_87	SLE	3	Bonthe	1			0	0
+20140822	GoSL_MoHS_sitRep_87	SLE	3	WesternAreaUrban	27			4	0
+20140822	GoSL_MoHS_sitRep_87	SLE	3	WesternAreaRural	11			0	0
+20140823	GoSL_MoHS_sitRep_88	SLE	1	SierraLeone	994		240	381	0
+20140823	GoSL_MoHS_sitRep_88	SLE	3	Kailahun	474			219	0
+20140823	GoSL_MoHS_sitRep_88	SLE	3	Kenema	312			146	0
+20140823	GoSL_MoHS_sitRep_88	SLE	3	Kono	35			1	0
+20140823	GoSL_MoHS_sitRep_88	SLE	3	Kambia	1			0	0
+20140823	GoSL_MoHS_sitRep_88	SLE	3	Koinadugu	0			0	0
+20140823	GoSL_MoHS_sitRep_88	SLE	3	Bombali	19			1	0
+20140823	GoSL_MoHS_sitRep_88	SLE	3	Tonkolili	10			1	0
+20140823	GoSL_MoHS_sitRep_88	SLE	3	PortLoko	56			3	0
+20140823	GoSL_MoHS_sitRep_88	SLE	3	Pujehun	5			0	0
+20140823	GoSL_MoHS_sitRep_88	SLE	3	Bo	34			2	0
+20140823	GoSL_MoHS_sitRep_88	SLE	3	Moyamba	9			4	0
+20140823	GoSL_MoHS_sitRep_88	SLE	3	Bonthe	1			0	0
+20140823	GoSL_MoHS_sitRep_88	SLE	3	WesternAreaUrban	27			4	0
+20140823	GoSL_MoHS_sitRep_88	SLE	3	WesternAreaRural	11			0	0
+20140824	GoSL_MoHS_sitRep_89	SLE	1	SierraLeone	1025		244	386	0
+20140824	GoSL_MoHS_sitRep_89	SLE	3	Kailahun	486			219	0
+20140824	GoSL_MoHS_sitRep_89	SLE	3	Kenema	324			151	0
+20140824	GoSL_MoHS_sitRep_89	SLE	3	Kono	35			1	0
+20140824	GoSL_MoHS_sitRep_89	SLE	3	Kambia	1			0	0
+20140824	GoSL_MoHS_sitRep_89	SLE	3	Koinadugu	0			0	0
+20140824	GoSL_MoHS_sitRep_89	SLE	3	Bombali	19			1	0
+20140824	GoSL_MoHS_sitRep_89	SLE	3	Tonkolili	11			1	0
+20140824	GoSL_MoHS_sitRep_89	SLE	3	PortLoko	56			3	0
+20140824	GoSL_MoHS_sitRep_89	SLE	3	Pujehun	5			0	0
+20140824	GoSL_MoHS_sitRep_89	SLE	3	Bo	36			2	0
+20140824	GoSL_MoHS_sitRep_89	SLE	3	Moyamba	9			4	0
+20140824	GoSL_MoHS_sitRep_89	SLE	3	Bonthe	1			0	0
+20140824	GoSL_MoHS_sitRep_89	SLE	3	WesternAreaUrban	30			4	0
+20140824	GoSL_MoHS_sitRep_89	SLE	3	WesternAreaRural	12			0	0
+20140825	GoSL_MoHS_sitRep_90	SLE	1	SierraLeone	1050		244	400	0
+20140825	Liberia_MoH_sitRep	LBR	1	Liberia	1074	82		613	0
+20140825	GoSL_MoHS_sitRep_90	SLE	3	Kailahun	486			219	0
+20140825	GoSL_MoHS_sitRep_90	SLE	3	Kenema	331			155	0
+20140825	GoSL_MoHS_sitRep_90	SLE	3	Kono	35			1	0
+20140825	GoSL_MoHS_sitRep_90	SLE	3	Kambia	1			0	0
+20140825	GoSL_MoHS_sitRep_90	SLE	3	Koinadugu	0			0	0
+20140825	GoSL_MoHS_sitRep_90	SLE	3	Bombali	22			2	0
+20140825	GoSL_MoHS_sitRep_90	SLE	3	Tonkolili	14			1	0
+20140825	GoSL_MoHS_sitRep_90	SLE	3	PortLoko	60			4	0
+20140825	GoSL_MoHS_sitRep_90	SLE	3	Pujehun	7			0	0
+20140825	GoSL_MoHS_sitRep_90	SLE	3	Bo	36			10	0
+20140825	GoSL_MoHS_sitRep_90	SLE	3	Moyamba	9			4	0
+20140825	GoSL_MoHS_sitRep_90	SLE	3	Bonthe	1			0	0
+20140825	GoSL_MoHS_sitRep_90	SLE	3	WesternAreaUrban	33			4	0
+20140825	GoSL_MoHS_sitRep_90	SLE	3	WesternAreaRural	15			0	0
+20140825	Liberia_MoH_sitRep	LBR	3	Bomi	41			14	0
+20140825	Liberia_MoH_sitRep	LBR	3	Bong	110			34	0
+20140825	Liberia_MoH_sitRep	LBR	3	GrandBassa	15			2	0
+20140825	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	8			7	0
+20140825	Liberia_MoH_sitRep	LBR	3	GrandGedeh				1	0
+20140825	Liberia_MoH_sitRep	LBR	3	Lofa	466	82		235	0
+20140825	Liberia_MoH_sitRep	LBR	3	Margibi	86			68	0
+20140825	Liberia_MoH_sitRep	LBR	3	Monteserrado	288			218	0
+20140825	Liberia_MoH_sitRep	LBR	3	Nimba	57			33	0
+20140825	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1	0
+20140825	Liberia_MoH_sitRep	LBR	3	Sinoe	1				0
+20140826	GoSL_MoHS_sitRep_91	SLE	1	SierraLeone	1057		244	411	0
+20140826	WHO	GIN	1	Guinea	648			430	0
+20140826	GoSL_MoHS_sitRep_91	SLE	3	Kailahun	486			219	0
+20140826	GoSL_MoHS_sitRep_91	SLE	3	Kenema	333			161	0
+20140826	GoSL_MoHS_sitRep_91	SLE	3	Kono	35			1	0
+20140826	GoSL_MoHS_sitRep_91	SLE	3	Kambia	1			0	0
+20140826	GoSL_MoHS_sitRep_91	SLE	3	Koinadugu	0			0	0
+20140826	GoSL_MoHS_sitRep_91	SLE	3	Bombali	22			2	0
+20140826	GoSL_MoHS_sitRep_91	SLE	3	Tonkolili	14			1	0
+20140826	GoSL_MoHS_sitRep_91	SLE	3	PortLoko	60			4	0
+20140826	GoSL_MoHS_sitRep_91	SLE	3	Pujehun	7			0	0
+20140826	GoSL_MoHS_sitRep_91	SLE	3	Bo	36			15	0
+20140826	GoSL_MoHS_sitRep_91	SLE	3	Moyamba	9			4	0
+20140826	GoSL_MoHS_sitRep_91	SLE	3	Bonthe	1			0	0
+20140826	GoSL_MoHS_sitRep_91	SLE	3	WesternAreaUrban	38			4	0
+20140826	GoSL_MoHS_sitRep_91	SLE	3	WesternAreaRural	15			0	0
+20140827	GoSL_MoHS_sitRep_92	SLE	1	SierraLeone	1087			420	0
+20140827	GoSL_MoHS_sitRep_92	SLE	3	Kailahun	494			219	0
+20140827	GoSL_MoHS_sitRep_92	SLE	3	Kenema	339			161	0
+20140827	GoSL_MoHS_sitRep_92	SLE	3	Kono	35			1	0
+20140827	GoSL_MoHS_sitRep_92	SLE	3	Kambia	1			0	0
+20140827	GoSL_MoHS_sitRep_92	SLE	3	Koinadugu	0			0	0
+20140827	GoSL_MoHS_sitRep_92	SLE	3	Bombali	25			6	0
+20140827	GoSL_MoHS_sitRep_92	SLE	3	Tonkolili	15			2	0
+20140827	GoSL_MoHS_sitRep_92	SLE	3	PortLoko	60			4	0
+20140827	GoSL_MoHS_sitRep_92	SLE	3	Pujehun	7			1	0
+20140827	GoSL_MoHS_sitRep_92	SLE	3	Bo	36			15	0
+20140827	GoSL_MoHS_sitRep_92	SLE	3	Moyamba	9			4	0
+20140827	GoSL_MoHS_sitRep_92	SLE	3	Bonthe	1			1	0
+20140827	GoSL_MoHS_sitRep_92	SLE	3	WesternAreaUrban	41			4	0
+20140827	GoSL_MoHS_sitRep_92	SLE	3	WesternAreaRural	24			2	0
+20140828	GoSL_MoHS_sitRep_93	SLE	1	SierraLeone	1117			425	0
+20140828	Liberia_MoH_sitRep	LBR	1	Liberia	1395	102		771	0
+20140828	GoSL_MoHS_sitRep_93	SLE	3	Kailahun	499			219	0
+20140828	GoSL_MoHS_sitRep_93	SLE	3	Kenema	343			166	0
+20140828	GoSL_MoHS_sitRep_93	SLE	3	Kono	35			1	0
+20140828	GoSL_MoHS_sitRep_93	SLE	3	Kambia	1			0	0
+20140828	GoSL_MoHS_sitRep_93	SLE	3	Koinadugu	0			0	0
+20140828	GoSL_MoHS_sitRep_93	SLE	3	Bombali	37			6	0
+20140828	GoSL_MoHS_sitRep_93	SLE	3	Tonkolili	15			2	0
+20140828	GoSL_MoHS_sitRep_93	SLE	3	PortLoko	65			4	0
+20140828	GoSL_MoHS_sitRep_93	SLE	3	Pujehun	7			1	0
+20140828	GoSL_MoHS_sitRep_93	SLE	3	Bo	36			15	0
+20140828	GoSL_MoHS_sitRep_93	SLE	3	Moyamba	9			4	0
+20140828	GoSL_MoHS_sitRep_93	SLE	3	Bonthe	1			1	0
+20140828	GoSL_MoHS_sitRep_93	SLE	3	WesternAreaUrban	44			4	0
+20140828	GoSL_MoHS_sitRep_93	SLE	3	WesternAreaRural	25			2	0
+20140828	Liberia_MoH_sitRep	LBR	3	Bomi	46			29	0
+20140828	Liberia_MoH_sitRep	LBR	3	Bong	122			39	0
+20140828	Liberia_MoH_sitRep	LBR	3	GrandBassa	15			2	0
+20140828	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	8			7	0
+20140828	Liberia_MoH_sitRep	LBR	3	GrandGedeh				1	0
+20140828	Liberia_MoH_sitRep	LBR	3	Lofa	542	61		270	0
+20140828	Liberia_MoH_sitRep	LBR	3	Margibi	164			85	0
+20140828	Liberia_MoH_sitRep	LBR	3	Monteserrado	405	41		278	0
+20140828	Liberia_MoH_sitRep	LBR	3	Nimba	83			54	0
+20140828	Liberia_MoH_sitRep	LBR	3	RiverGee				5	0
+20140828	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1	0
+20140828	Liberia_MoH_sitRep	LBR	3	Sinoe	2				0
+20140829	GoSL_MoHS_sitRep_94	SLE	1	SierraLeone	1140			431	0
+20140829	GoSL_MoHS_sitRep_94	SLE	3	Kailahun	504			219	0
+20140829	GoSL_MoHS_sitRep_94	SLE	3	Kenema	347			172	0
+20140829	GoSL_MoHS_sitRep_94	SLE	3	Kono	35			1	0
+20140829	GoSL_MoHS_sitRep_94	SLE	3	Kambia	1			0	0
+20140829	GoSL_MoHS_sitRep_94	SLE	3	Koinadugu	5			0	0
+20140829	GoSL_MoHS_sitRep_94	SLE	3	Bombali	37			6	0
+20140829	GoSL_MoHS_sitRep_94	SLE	3	Tonkolili	15			2	0
+20140829	GoSL_MoHS_sitRep_94	SLE	3	PortLoko	65			4	0
+20140829	GoSL_MoHS_sitRep_94	SLE	3	Pujehun	7			1	0
+20140829	GoSL_MoHS_sitRep_94	SLE	3	Bo	41			15	0
+20140829	GoSL_MoHS_sitRep_94	SLE	3	Moyamba	9			4	0
+20140829	GoSL_MoHS_sitRep_94	SLE	3	Bonthe	1			1	0
+20140829	GoSL_MoHS_sitRep_94	SLE	3	WesternAreaUrban	47			4	0
+20140829	GoSL_MoHS_sitRep_94	SLE	3	WesternAreaRural	26			2	0
+20140830	GoSL_MoHS_sitRep_95	SLE	1	SierraLeone	1190			435	0
+20140830	GoSL_MoHS_sitRep_95	SLE	3	Kailahun	508			219	0
+20140830	GoSL_MoHS_sitRep_95	SLE	3	Kenema	361			176	0
+20140830	GoSL_MoHS_sitRep_95	SLE	3	Kono	35			1	0
+20140830	GoSL_MoHS_sitRep_95	SLE	3	Kambia	1			0	0
+20140830	GoSL_MoHS_sitRep_95	SLE	3	Koinadugu	5			0	0
+20140830	GoSL_MoHS_sitRep_95	SLE	3	Bombali	41			6	0
+20140830	GoSL_MoHS_sitRep_95	SLE	3	Tonkolili	17			2	0
+20140830	GoSL_MoHS_sitRep_95	SLE	3	PortLoko	74			4	0
+20140830	GoSL_MoHS_sitRep_95	SLE	3	Pujehun	7			1	0
+20140830	GoSL_MoHS_sitRep_95	SLE	3	Bo	47			15	0
+20140830	GoSL_MoHS_sitRep_95	SLE	3	Moyamba	9			4	0
+20140830	GoSL_MoHS_sitRep_95	SLE	3	Bonthe	1			1	0
+20140830	GoSL_MoHS_sitRep_95	SLE	3	WesternAreaUrban	55			4	0
+20140830	GoSL_MoHS_sitRep_95	SLE	3	WesternAreaRural	29			2	0
+20140831	GoSL_MoHS_sitRep_96	SLE	1	SierraLeone	1216		244	436	0
+20140831	WHO	GIN	1	Guinea	771			494	0
+20140831	GoSL_MoHS_sitRep_96	SLE	3	Kailahun	516			219	0
+20140831	GoSL_MoHS_sitRep_96	SLE	3	Kenema	367			177	0
+20140831	GoSL_MoHS_sitRep_96	SLE	3	Kono	38			1	0
+20140831	GoSL_MoHS_sitRep_96	SLE	3	Kambia	1			0	0
+20140831	GoSL_MoHS_sitRep_96	SLE	3	Koinadugu	1			0	0
+20140831	GoSL_MoHS_sitRep_96	SLE	3	Bombali	46			6	0
+20140831	GoSL_MoHS_sitRep_96	SLE	3	Tonkolili	17			2	0
+20140831	GoSL_MoHS_sitRep_96	SLE	3	PortLoko	74			4	0
+20140831	GoSL_MoHS_sitRep_96	SLE	3	Pujehun	7			1	0
+20140831	GoSL_MoHS_sitRep_96	SLE	3	Bo	52			15	0
+20140831	GoSL_MoHS_sitRep_96	SLE	3	Moyamba	9			4	0
+20140831	GoSL_MoHS_sitRep_96	SLE	3	Bonthe	1			1	0
+20140831	GoSL_MoHS_sitRep_96	SLE	3	WesternAreaUrban	57			4	0
+20140831	GoSL_MoHS_sitRep_96	SLE	3	WesternAreaRural	30			2	0
+20140901	GoSL_MoHS_sitRep_97	SLE	1	SierraLeone	1226		248	444	0
+20140901	Liberia_MoH_sitRep	LBR	1	Liberia	1582	264		885	0
+20140901	GoSL_MoHS_sitRep_97	SLE	3	Kailahun	517			219	0
+20140901	GoSL_MoHS_sitRep_97	SLE	3	Kenema	367			182	0
+20140901	GoSL_MoHS_sitRep_97	SLE	3	Kono	39			4	0
+20140901	GoSL_MoHS_sitRep_97	SLE	3	Kambia	1			0	0
+20140901	GoSL_MoHS_sitRep_97	SLE	3	Koinadugu	0			0	0
+20140901	GoSL_MoHS_sitRep_97	SLE	3	Bombali	46			7	0
+20140901	GoSL_MoHS_sitRep_97	SLE	3	Tonkolili	17			2	0
+20140901	GoSL_MoHS_sitRep_97	SLE	3	PortLoko	74			4	0
+20140901	GoSL_MoHS_sitRep_97	SLE	3	Pujehun	8			1	0
+20140901	GoSL_MoHS_sitRep_97	SLE	3	Bo	53			16	0
+20140901	GoSL_MoHS_sitRep_97	SLE	3	Moyamba	9			4	0
+20140901	GoSL_MoHS_sitRep_97	SLE	3	Bonthe	1			1	0
+20140901	GoSL_MoHS_sitRep_97	SLE	3	WesternAreaUrban	60			4	0
+20140901	GoSL_MoHS_sitRep_97	SLE	3	WesternAreaRural	34			2	0
+20140901	Liberia_MoH_sitRep	LBR	3	Bomi	52			33	0
+20140901	Liberia_MoH_sitRep	LBR	3	Bong	132			41	0
+20140901	Liberia_MoH_sitRep	LBR	3	Gbarpolu					0
+20140901	Liberia_MoH_sitRep	LBR	3	GrandBassa	40			12	0
+20140901	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	9			7	0
+20140901	Liberia_MoH_sitRep	LBR	3	GrandGedeh				2	0
+20140901	Liberia_MoH_sitRep	LBR	3	Lofa	580	69		293	0
+20140901	Liberia_MoH_sitRep	LBR	3	Margibi	186			97	0
+20140901	Liberia_MoH_sitRep	LBR	3	Monteserrado	467	195		335	0
+20140901	Liberia_MoH_sitRep	LBR	3	Nimba	104			59	0
+20140901	Liberia_MoH_sitRep	LBR	3	RiverGee				5	0
+20140901	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1	0
+20140901	Liberia_MoH_sitRep	LBR	3	Sinoe	2				0
+20140902	GoSL_MoHS_sitRep_98	SLE	1	SierraLeone	1261		251	447	0
+20140902	Liberia_MoH_sitRep	LBR	1	Liberia	1763	286		1004	0
+20140902	GoSL_MoHS_sitRep_98	SLE	3	Kailahun	528			219	0
+20140902	GoSL_MoHS_sitRep_98	SLE	3	Kenema	379			185	0
+20140902	GoSL_MoHS_sitRep_98	SLE	3	Kono	39			3	0
+20140902	GoSL_MoHS_sitRep_98	SLE	3	Kambia	1			0	0
+20140902	GoSL_MoHS_sitRep_98	SLE	3	Koinadugu	0			0	0
+20140902	GoSL_MoHS_sitRep_98	SLE	3	Bombali	46			6	0
+20140902	GoSL_MoHS_sitRep_98	SLE	3	Tonkolili	18			2	0
+20140902	GoSL_MoHS_sitRep_98	SLE	3	PortLoko	79			4	0
+20140902	GoSL_MoHS_sitRep_98	SLE	3	Pujehun	8			1	0
+20140902	GoSL_MoHS_sitRep_98	SLE	3	Bo	54			16	0
+20140902	GoSL_MoHS_sitRep_98	SLE	3	Moyamba	9			4	0
+20140902	GoSL_MoHS_sitRep_98	SLE	3	Bonthe	1			1	0
+20140902	GoSL_MoHS_sitRep_98	SLE	3	WesternAreaUrban	64			4	0
+20140902	GoSL_MoHS_sitRep_98	SLE	3	WesternAreaRural	35			2	0
+20140902	Liberia_MoH_sitRep	LBR	3	Bomi	63			34	0
+20140902	Liberia_MoH_sitRep	LBR	3	Bong	141			41	0
+20140902	Liberia_MoH_sitRep	LBR	3	Gbarpolu					0
+20140902	Liberia_MoH_sitRep	LBR	3	GrandBassa	40			12	0
+20140902	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	10			8	0
+20140902	Liberia_MoH_sitRep	LBR	3	GrandGedeh					0
+20140902	Liberia_MoH_sitRep	LBR	3	Lofa	618	66		315	0
+20140902	Liberia_MoH_sitRep	LBR	3	Margibi	231			106	0
+20140902	Liberia_MoH_sitRep	LBR	3	Monteserrado	541	220		408	0
+20140902	Liberia_MoH_sitRep	LBR	3	Nimba	107			75	0
+20140902	Liberia_MoH_sitRep	LBR	3	RiverGee				5	0
+20140902	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1	0
+20140902	Liberia_MoH_sitRep	LBR	3	Sinoe	2				0
+20140903	GoSL_MoHS_sitRep_99	SLE	1	SierraLeone	1292	139	260	452	0
+20140903	Liberia_MoH_sitRep	LBR	1	Liberia	1839	276		1051	0
+20140903	GoSL_MoHS_sitRep_99	SLE	3	Kailahun	542			220	0
+20140903	GoSL_MoHS_sitRep_99	SLE	3	Kenema	384			189	0
+20140903	GoSL_MoHS_sitRep_99	SLE	3	Kono	43			3	0
+20140903	GoSL_MoHS_sitRep_99	SLE	3	Kambia	1			0	0
+20140903	GoSL_MoHS_sitRep_99	SLE	3	Koinadugu	0			0	0
+20140903	GoSL_MoHS_sitRep_99	SLE	3	Bombali	46			6	0
+20140903	GoSL_MoHS_sitRep_99	SLE	3	Tonkolili	20			2	0
+20140903	GoSL_MoHS_sitRep_99	SLE	3	PortLoko	80			4	0
+20140903	GoSL_MoHS_sitRep_99	SLE	3	Pujehun	9			1	0
+20140903	GoSL_MoHS_sitRep_99	SLE	3	Bo	54			16	0
+20140903	GoSL_MoHS_sitRep_99	SLE	3	Moyamba	9			4	0
+20140903	GoSL_MoHS_sitRep_99	SLE	3	Bonthe	1			1	0
+20140903	GoSL_MoHS_sitRep_99	SLE	3	WesternAreaUrban	67			4	0
+20140903	GoSL_MoHS_sitRep_99	SLE	3	WesternAreaRural	36			2	0
+20140903	Liberia_MoH_sitRep	LBR	3	Bomi	63			34	0
+20140903	Liberia_MoH_sitRep	LBR	3	Bong	147			41	0
+20140903	Liberia_MoH_sitRep	LBR	3	Gbarpolu					0
+20140903	Liberia_MoH_sitRep	LBR	3	GrandBassa	46			19	0
+20140903	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	10			9	0
+20140903	Liberia_MoH_sitRep	LBR	3	GrandGedeh				2	0
+20140903	Liberia_MoH_sitRep	LBR	3	Lofa	628	70		320	0
+20140903	Liberia_MoH_sitRep	LBR	3	Margibi	245			111	0
+20140903	Liberia_MoH_sitRep	LBR	3	Monteserrado	576	206		437	0
+20140903	Liberia_MoH_sitRep	LBR	3	Nimba	108			72	0
+20140903	Liberia_MoH_sitRep	LBR	3	RiverGee				5	0
+20140903	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1	0
+20140903	Liberia_MoH_sitRep	LBR	3	Sinoe	2				0
+20140904	Liberia_MoH_sitRep	LBR	1	Liberia	1863	279		1078	0
+20140904	Liberia_MoH_sitRep	LBR	3	Bomi	64			34	0
+20140904	Liberia_MoH_sitRep	LBR	3	Bong	150			43	0
+20140904	Liberia_MoH_sitRep	LBR	3	Gbarpolu					0
+20140904	Liberia_MoH_sitRep	LBR	3	GrandBassa	46			19	0
+20140904	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	11			10	0
+20140904	Liberia_MoH_sitRep	LBR	3	GrandGedeh				2	0
+20140904	Liberia_MoH_sitRep	LBR	3	Lofa	634	62		327	0
+20140904	Liberia_MoH_sitRep	LBR	3	Margibi	245			111	0
+20140904	Liberia_MoH_sitRep	LBR	3	Monteserrado	584	217		451	0
+20140904	Liberia_MoH_sitRep	LBR	3	Nimba	111			75	0
+20140904	Liberia_MoH_sitRep	LBR	3	RiverGee				5	0
+20140904	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1	0
+20140904	Liberia_MoH_sitRep	LBR	3	Sinoe	2				0
+20140905	GoSL_MoHS_sitRep_101	SLE	1	SierraLeone	1361	120	269	461	0
+20140905	Liberia_MoH_sitRep	LBR	1	Liberia	1915	274		1114	0
+20140905	GoSL_MoHS_sitRep_101	SLE	3	Kailahun	552			220	0
+20140905	GoSL_MoHS_sitRep_101	SLE	3	Kenema	394			194	0
+20140905	GoSL_MoHS_sitRep_101	SLE	3	Kono	44			3	0
+20140905	GoSL_MoHS_sitRep_101	SLE	3	Kambia	1			0	0
+20140905	GoSL_MoHS_sitRep_101	SLE	3	Koinadugu	0			0	0
+20140905	GoSL_MoHS_sitRep_101	SLE	3	Bombali	54			6	0
+20140905	GoSL_MoHS_sitRep_101	SLE	3	Tonkolili	20			2	0
+20140905	GoSL_MoHS_sitRep_101	SLE	3	PortLoko	93			5	0
+20140905	GoSL_MoHS_sitRep_101	SLE	3	Pujehun	9			1	0
+20140905	GoSL_MoHS_sitRep_101	SLE	3	Bo	67			16	0
+20140905	GoSL_MoHS_sitRep_101	SLE	3	Moyamba	13			6	0
+20140905	GoSL_MoHS_sitRep_101	SLE	3	Bonthe	1			1	0
+20140905	GoSL_MoHS_sitRep_101	SLE	3	WesternAreaUrban	72			5	0
+20140905	GoSL_MoHS_sitRep_101	SLE	3	WesternAreaRural	41			2	0
+20140905	Liberia_MoH_sitRep	LBR	3	Bomi	66	0		35	0
+20140905	Liberia_MoH_sitRep	LBR	3	Bong	150	0		43	0
+20140905	Liberia_MoH_sitRep	LBR	3	Gbarpolu		0		0	0
+20140905	Liberia_MoH_sitRep	LBR	3	GrandBassa	46	0		19	0
+20140905	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	12	0		11	0
+20140905	Liberia_MoH_sitRep	LBR	3	GrandGedeh		0		2	0
+20140905	Liberia_MoH_sitRep	LBR	3	Lofa	659	69		334	0
+20140905	Liberia_MoH_sitRep	LBR	3	Margibi	254	0		114	0
+20140905	Liberia_MoH_sitRep	LBR	3	Monteserrado	595	205		473	0
+20140905	Liberia_MoH_sitRep	LBR	3	Nimba	117	0		77	0
+20140905	Liberia_MoH_sitRep	LBR	3	RiverGee		0		5	0
+20140905	Liberia_MoH_sitRep	LBR	3	RiverCess	1	0		1	0
+20140905	Liberia_MoH_sitRep	LBR	3	Sinoe	2	0		0	0
+20140906	GoSL_MoHS_sitRep_102	SLE	1	SierraLeone	1409	129	271	474	0
+20140906	Liberia_MoH_sitRep	LBR	1	Liberia	1968	270		1169	0
+20140906	GoSL_MoHS_sitRep_102	SLE	3	Kailahun	552			220	0
+20140906	GoSL_MoHS_sitRep_102	SLE	3	Kenema	401			194	0
+20140906	GoSL_MoHS_sitRep_102	SLE	3	Kono	47			3	0
+20140906	GoSL_MoHS_sitRep_102	SLE	3	Kambia	1			0	0
+20140906	GoSL_MoHS_sitRep_102	SLE	3	Koinadugu	0			0	0
+20140906	GoSL_MoHS_sitRep_102	SLE	3	Bombali	69			6	0
+20140906	GoSL_MoHS_sitRep_102	SLE	3	Tonkolili	22			2	0
+20140906	GoSL_MoHS_sitRep_102	SLE	3	PortLoko	104			18	0
+20140906	GoSL_MoHS_sitRep_102	SLE	3	Pujehun	9			1	0
+20140906	GoSL_MoHS_sitRep_102	SLE	3	Bo	70			16	0
+20140906	GoSL_MoHS_sitRep_102	SLE	3	Moyamba	15			6	0
+20140906	GoSL_MoHS_sitRep_102	SLE	3	Bonthe	1			1	0
+20140906	GoSL_MoHS_sitRep_102	SLE	3	WesternAreaUrban	76			5	0
+20140906	GoSL_MoHS_sitRep_102	SLE	3	WesternAreaRural	42			2	0
+20140906	Liberia_MoH_sitRep	LBR	3	Bomi	67	0		41	0
+20140906	Liberia_MoH_sitRep	LBR	3	Bong	152	0		44	0
+20140906	Liberia_MoH_sitRep	LBR	3	Gbarpolu		0		0	0
+20140906	Liberia_MoH_sitRep	LBR	3	GrandBassa	46	0		19	0
+20140906	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	12	0		11	0
+20140906	Liberia_MoH_sitRep	LBR	3	GrandGedeh		0		2	0
+20140906	Liberia_MoH_sitRep	LBR	3	Lofa	667	62		341	0
+20140906	Liberia_MoH_sitRep	LBR	3	Margibi	275	0		120	0
+20140906	Liberia_MoH_sitRep	LBR	3	Monteserrado	612	208		503	0
+20140906	Liberia_MoH_sitRep	LBR	3	Nimba	121	0		82	0
+20140906	Liberia_MoH_sitRep	LBR	3	RiverGee		0		5	0
+20140906	Liberia_MoH_sitRep	LBR	3	RiverCess	1	0		1	0
+20140906	Liberia_MoH_sitRep	LBR	3	Sinoe	2	0		0	0
+20140907	GoSL_MoHS_sitRep_103	SLE	1	SierraLeone	1424			476	0
+20140907	Liberia_MoH_sitRep	LBR	1	Liberia	2038	274		1213	0
+20140907	GoSL_MoHS_sitRep_103	SLE	3	Kailahun	552			220	0
+20140907	GoSL_MoHS_sitRep_103	SLE	3	Kenema	407			196	0
+20140907	GoSL_MoHS_sitRep_103	SLE	3	Kono	47			3	0
+20140907	GoSL_MoHS_sitRep_103	SLE	3	Kambia	1			0	0
+20140907	GoSL_MoHS_sitRep_103	SLE	3	Koinadugu	0			0	0
+20140907	GoSL_MoHS_sitRep_103	SLE	3	Bombali	69			6	0
+20140907	GoSL_MoHS_sitRep_103	SLE	3	Tonkolili	22			2	0
+20140907	GoSL_MoHS_sitRep_103	SLE	3	PortLoko	104			18	0
+20140907	GoSL_MoHS_sitRep_103	SLE	3	Pujehun	12			1	0
+20140907	GoSL_MoHS_sitRep_103	SLE	3	Bo	73			16	0
+20140907	GoSL_MoHS_sitRep_103	SLE	3	Moyamba	15			6	0
+20140907	GoSL_MoHS_sitRep_103	SLE	3	Bonthe	1			1	0
+20140907	GoSL_MoHS_sitRep_103	SLE	3	WesternAreaUrban	79			5	0
+20140907	GoSL_MoHS_sitRep_103	SLE	3	WesternAreaRural	42			2	0
+20140907	Liberia_MoH_sitRep	LBR	3	Bomi	67	0		41	0
+20140907	Liberia_MoH_sitRep	LBR	3	Bong	157	0		46	0
+20140907	Liberia_MoH_sitRep	LBR	3	Gbarpolu		0		0	0
+20140907	Liberia_MoH_sitRep	LBR	3	GrandBassa	46	0		19	0
+20140907	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	13	0		12	0
+20140907	Liberia_MoH_sitRep	LBR	3	GrandGedeh		0		2	0
+20140907	Liberia_MoH_sitRep	LBR	3	Lofa	673	58		348	0
+20140907	Liberia_MoH_sitRep	LBR	3	Margibi	313	0		135	0
+20140907	Liberia_MoH_sitRep	LBR	3	Monteserrado	632	216		522	0
+20140907	Liberia_MoH_sitRep	LBR	3	Nimba	121	0		82	0
+20140907	Liberia_MoH_sitRep	LBR	3	RiverGee		0		5	0
+20140907	Liberia_MoH_sitRep	LBR	3	RiverCess	1	0		1	0
+20140907	Liberia_MoH_sitRep	LBR	3	Sinoe	2	0		0	0
+20140908	GoSL_MoHS_sitRep_104	SLE	1	SierraLeone	1443	123	275	481	0
+20140908	GoSL_MoHS_sitRep_104	SLE	3	Kailahun	558			220	0
+20140908	GoSL_MoHS_sitRep_104	SLE	3	Kenema	409			201	0
+20140908	GoSL_MoHS_sitRep_104	SLE	3	Kono	47			3	0
+20140908	GoSL_MoHS_sitRep_104	SLE	3	Kambia	1			0	0
+20140908	GoSL_MoHS_sitRep_104	SLE	3	Koinadugu	0			0	0
+20140908	GoSL_MoHS_sitRep_104	SLE	3	Bombali	69			6	0
+20140908	GoSL_MoHS_sitRep_104	SLE	3	Tonkolili	22			2	0
+20140908	GoSL_MoHS_sitRep_104	SLE	3	PortLoko	107			18	0
+20140908	GoSL_MoHS_sitRep_104	SLE	3	Pujehun	12			1	0
+20140908	GoSL_MoHS_sitRep_104	SLE	3	Bo	73			16	0
+20140908	GoSL_MoHS_sitRep_104	SLE	3	Moyamba	16			6	0
+20140908	GoSL_MoHS_sitRep_104	SLE	3	Bonthe	1			1	0
+20140908	GoSL_MoHS_sitRep_104	SLE	3	WesternAreaUrban	84			5	0
+20140908	GoSL_MoHS_sitRep_104	SLE	3	WesternAreaRural	44			2	0
+20140909	GoSL_MoHS_sitRep_105	SLE	1	SierraLeone	1478	125	284	484	0
+20140909	GoSL_MoHS_sitRep_105	SLE	3	Kailahun	558			221	0
+20140909	GoSL_MoHS_sitRep_105	SLE	3	Kenema	415			203	0
+20140909	GoSL_MoHS_sitRep_105	SLE	3	Kono	51			3	0
+20140909	GoSL_MoHS_sitRep_105	SLE	3	Kambia	1			0	0
+20140909	GoSL_MoHS_sitRep_105	SLE	3	Koinadugu	0			0	0
+20140909	GoSL_MoHS_sitRep_105	SLE	3	Bombali	75			6	0
+20140909	GoSL_MoHS_sitRep_105	SLE	3	Tonkolili	26			2	0
+20140909	GoSL_MoHS_sitRep_105	SLE	3	PortLoko	111			18	0
+20140909	GoSL_MoHS_sitRep_105	SLE	3	Pujehun	11			1	0
+20140909	GoSL_MoHS_sitRep_105	SLE	3	Bo	73			16	0
+20140909	GoSL_MoHS_sitRep_105	SLE	3	Moyamba	16			6	0
+20140909	GoSL_MoHS_sitRep_105	SLE	3	Bonthe	1			1	0
+20140909	GoSL_MoHS_sitRep_105	SLE	3	WesternAreaUrban	92			5	0
+20140909	GoSL_MoHS_sitRep_105	SLE	3	WesternAreaRural	48			2	0
+20140910	GoSL_MoHS_sitRep_106	SLE	1	SierraLeone	1509	115	292	493	0
+20140910	GoSL_MoHS_sitRep_106	SLE	3	Kailahun	558			224	0
+20140910	GoSL_MoHS_sitRep_106	SLE	3	Kenema	419			210	0
+20140910	GoSL_MoHS_sitRep_106	SLE	3	Kono	51			3	0
+20140910	GoSL_MoHS_sitRep_106	SLE	3	Kambia	2			0	0
+20140910	GoSL_MoHS_sitRep_106	SLE	3	Koinadugu	0			0	0
+20140910	GoSL_MoHS_sitRep_106	SLE	3	Bombali	75			6	0
+20140910	GoSL_MoHS_sitRep_106	SLE	3	Tonkolili	27			2	0
+20140910	GoSL_MoHS_sitRep_106	SLE	3	PortLoko	125			18	0
+20140910	GoSL_MoHS_sitRep_106	SLE	3	Pujehun	11			1	0
+20140910	GoSL_MoHS_sitRep_106	SLE	3	Bo	75			16	0
+20140910	GoSL_MoHS_sitRep_106	SLE	3	Moyamba	16			6	0
+20140910	GoSL_MoHS_sitRep_106	SLE	3	Bonthe	1			1	0
+20140910	GoSL_MoHS_sitRep_106	SLE	3	WesternAreaUrban	97			5	0
+20140910	GoSL_MoHS_sitRep_106	SLE	3	WesternAreaRural	52			2	0
+20140911	GoSL_MoHS_sitRep_107	SLE	1	SierraLeone	1551	123	309	498	0
+20140911	GoSL_MoHS_sitRep_107	SLE	3	Kailahun	558			224	0
+20140911	GoSL_MoHS_sitRep_107	SLE	3	Kenema	420			213	0
+20140911	GoSL_MoHS_sitRep_107	SLE	3	Kono	55			3	0
+20140911	GoSL_MoHS_sitRep_107	SLE	3	Kambia	3			1	0
+20140911	GoSL_MoHS_sitRep_107	SLE	3	Koinadugu	0			0	0
+20140911	GoSL_MoHS_sitRep_107	SLE	3	Bombali	75			6	0
+20140911	GoSL_MoHS_sitRep_107	SLE	3	Tonkolili	31			2	0
+20140911	GoSL_MoHS_sitRep_107	SLE	3	PortLoko	138			18	0
+20140911	GoSL_MoHS_sitRep_107	SLE	3	Pujehun	11			1	0
+20140911	GoSL_MoHS_sitRep_107	SLE	3	Bo	84			16	0
+20140911	GoSL_MoHS_sitRep_107	SLE	3	Moyamba	20			6	0
+20140911	GoSL_MoHS_sitRep_107	SLE	3	Bonthe	1			1	0
+20140911	GoSL_MoHS_sitRep_107	SLE	3	WesternAreaUrban	103			5	0
+20140911	GoSL_MoHS_sitRep_107	SLE	3	WesternAreaRural	52			2	0
+20140908	Liberia_MoH_sitRep	LBR	3	Bomi	74	0		41	0
+20140908	Liberia_MoH_sitRep	LBR	3	Bong	173	0		46	0
+20140908	Liberia_MoH_sitRep	LBR	3	Gbarpolu	1	0		0	0
+20140908	Liberia_MoH_sitRep	LBR	3	GrandBassa	46	0		19	0
+20140908	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	14	0		12	0
+20140908	Liberia_MoH_sitRep	LBR	3	GrandGedeh	3	0		2	0
+20140908	Liberia_MoH_sitRep	LBR	3	Lofa	681	58		348	0
+20140908	Liberia_MoH_sitRep	LBR	3	Margibi	338	0		135	0
+20140908	Liberia_MoH_sitRep	LBR	3	Monteserrado	707	216		522	0
+20140908	Liberia_MoH_sitRep	LBR	3	Nimba	129	0		82	0
+20140908	Liberia_MoH_sitRep	LBR	3	RiverGee	9	0		5	0
+20140908	Liberia_MoH_sitRep	LBR	3	RiverCess	1	0		1	0
+20140908	Liberia_MoH_sitRep	LBR	3	Sinoe	2	0		0	0
+20140908	Liberia_MoH_sitRep	LBR	1	Liberia	2184			1213	0
+20140910	Liberia_MoH_sitRep	LBR	3	Bomi	77			49	0
+20140910	Liberia_MoH_sitRep	LBR	3	Bong	179			49	0
+20140910	Liberia_MoH_sitRep	LBR	3	Gbarpolu	1			0	0
+20140910	Liberia_MoH_sitRep	LBR	3	GrandBassa	46			19	0
+20140910	Liberia_MoH_sitRep	LBR	3	GrandCapeMount	16			14	0
+20140910	Liberia_MoH_sitRep	LBR	3	GrandGedeh	3			2	0
+20140910	Liberia_MoH_sitRep	LBR	3	Lofa	692			368	0
+20140910	Liberia_MoH_sitRep	LBR	3	Margibi	391			162	0
+20140910	Liberia_MoH_sitRep	LBR	3	Maryland	6			4	0
+20140910	Liberia_MoH_sitRep	LBR	3	Monteserrado	849			532	0
+20140910	Liberia_MoH_sitRep	LBR	3	Nimba	134			90	0
+20140910	Liberia_MoH_sitRep	LBR	3	RiverGee	9			5	0
+20140910	Liberia_MoH_sitRep	LBR	3	RiverCess	1			1	0
+20140910	Liberia_MoH_sitRep	LBR	3	Sinoe	3			1	0
+20140910	Liberia_MoH_sitRep	LBR	1	Liberia	2407			1296	0
+20140912	GoSL_MoHS_sitRep_108	SLE	1	SierraLeone	1586	132	313	507	0
+20140912	GoSL_MoHS_sitRep_108	SLE	3	Kailahun	558			224	0
+20140912	GoSL_MoHS_sitRep_108	SLE	3	Kenema	422			221	0
+20140912	GoSL_MoHS_sitRep_108	SLE	3	Kono	55			3	0
+20140912	GoSL_MoHS_sitRep_108	SLE	3	Kambia	3			1	0
+20140912	GoSL_MoHS_sitRep_108	SLE	3	Koinadugu	0			0	0
+20140912	GoSL_MoHS_sitRep_108	SLE	3	Bombali	84			6	0
+20140912	GoSL_MoHS_sitRep_108	SLE	3	Tonkolili	32			2	0
+20140912	GoSL_MoHS_sitRep_108	SLE	3	PortLoko	148			18	0
+20140912	GoSL_MoHS_sitRep_108	SLE	3	Pujehun	11			1	0
+20140912	GoSL_MoHS_sitRep_108	SLE	3	Bo	87			16	0
+20140912	GoSL_MoHS_sitRep_108	SLE	3	Moyamba	20			6	0
+20140912	GoSL_MoHS_sitRep_108	SLE	3	Bonthe	1			1	0
+20140912	GoSL_MoHS_sitRep_108	SLE	3	WesternAreaUrban	110			5	0
+20140912	GoSL_MoHS_sitRep_108	SLE	3	WesternAreaRural	54			2	0
