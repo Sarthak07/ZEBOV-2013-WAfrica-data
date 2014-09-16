@@ -1219,3 +1219,33 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140912	GoSL_MoHS_sitRep_108	SLE	3	Bonthe	1			1	0
 20140912	GoSL_MoHS_sitRep_108	SLE	3	WesternAreaUrban	110			5	0
 20140912	GoSL_MoHS_sitRep_108	SLE	3	WesternAreaRural	54			2	0
+20140913	GoSL_MoHS_sitRep_109	SLE	1	SierraLeone	1603	122	314	511	0
+20140913	GoSL_MoHS_sitRep_109	SLE	3	Kailahun	578			225	0
+20140913	GoSL_MoHS_sitRep_109	SLE	3	Kenema	425			225	0
+20140913	GoSL_MoHS_sitRep_109	SLE	3	Kono	55			3	0
+20140913	GoSL_MoHS_sitRep_109	SLE	3	Kambia	3			1	0
+20140913	GoSL_MoHS_sitRep_109	SLE	3	Koinadugu	0			0	0
+20140913	GoSL_MoHS_sitRep_109	SLE	3	Bombali	86			6	0
+20140913	GoSL_MoHS_sitRep_109	SLE	3	Tonkolili	33			2	0
+20140913	GoSL_MoHS_sitRep_109	SLE	3	PortLoko	148			18	0
+20140913	GoSL_MoHS_sitRep_109	SLE	3	Pujehun	11			1	0
+20140913	GoSL_MoHS_sitRep_109	SLE	3	Bo	88			16	0
+20140913	GoSL_MoHS_sitRep_109	SLE	3	Moyamba	19			6	0
+20140913	GoSL_MoHS_sitRep_109	SLE	3	Bonthe	1			1	0
+20140913	GoSL_MoHS_sitRep_109	SLE	3	WesternAreaUrban	118			5	0
+20140913	GoSL_MoHS_sitRep_109	SLE	3	WesternAreaRural	55			2	0
+20140914	GoSL_MoHS_sitRep_110	SLE	1	SierraLeone	1655	104	324	516	0
+20140914	GoSL_MoHS_sitRep_110	SLE	3	Kailahun	561			228	0
+20140914	GoSL_MoHS_sitRep_110	SLE	3	Kenema	437			227	0
+20140914	GoSL_MoHS_sitRep_110	SLE	3	Kono	55			3	0
+20140914	GoSL_MoHS_sitRep_110	SLE	3	Kambia	3			1	0
+20140914	GoSL_MoHS_sitRep_110	SLE	3	Koinadugu	0			0	0
+20140914	GoSL_MoHS_sitRep_110	SLE	3	Bombali	118			6	0
+20140914	GoSL_MoHS_sitRep_110	SLE	3	Tonkolili	34			2	0
+20140914	GoSL_MoHS_sitRep_110	SLE	3	PortLoko	148			18	0
+20140914	GoSL_MoHS_sitRep_110	SLE	3	Pujehun	11			1	0
+20140914	GoSL_MoHS_sitRep_110	SLE	3	Bo	88			16	0
+20140914	GoSL_MoHS_sitRep_110	SLE	3	Moyamba	19			6	0
+20140914	GoSL_MoHS_sitRep_110	SLE	3	Bonthe	1			1	0
+20140914	GoSL_MoHS_sitRep_110	SLE	3	WesternAreaUrban	123			5	0
+20140914	GoSL_MoHS_sitRep_110	SLE	3	WesternAreaRural	59			2	0
