@@ -1,4 +1,5 @@
-This data has extracted from various sources to facilitate compartmental modeling efforts. This is a dataset designed for simplicity of access. 
+This data has been extracted from various sources to facilitate compartmental modeling efforts. The dataset is designed for simplicity of access. 
+
 
 ## Field Definitions
 
