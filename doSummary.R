@@ -6,8 +6,6 @@ require("xts")
 		GIN <- loadZEBOVxts(0,"Guinea",0)
 		all <- GIN+SLE+LBR
 
-
-
 		region<-NULL
 		region<- all
 		region$house <- NULL
@@ -28,6 +26,8 @@ require("xts")
 		return(region)
 
 	}
+
+
 	#
 	# regularize an irregular xts
 	#
