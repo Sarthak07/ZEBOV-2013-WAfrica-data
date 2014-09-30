@@ -26,7 +26,9 @@ require("xts")
 		t <- as.numeric(index(SLE.AA))
 		t0 <- as.numeric(first(index(SLE.AA)))-1
 		SLE.AA$day <- t-t0
-
+		
+		#drop NAs
+		SLE.AA <- SLE.AA[!is.na(SLE.AA$Total),]
 		return(SLE.AA)
 
 	}
@@ -119,4 +121,4 @@ s <- summarize()
 write.csv(s,"summary.csv",row.names=as.Date(index(s)))
 
 sle <- summarizeSLE()
-write.csv(sle,"summary.SLE.csv",row.names=as.Date(index(sle)))
+write.csv(sle,"summary.SLE.csv",row.names=as.Date(index(sle)),na = "NA")
