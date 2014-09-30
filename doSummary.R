@@ -1,5 +1,37 @@
 require("xts")
 
+	# a function to make an array of Sierra Leone cases
+	summarizeSLE <- function(){
+
+		i <- read.delim("SEIRDh_data_flat.txt",sep = "\t",fill=TRUE,header=TRUE,stringsAsFactors=FALSE)
+		i <- i[i$level==2&i$country=='SLE',]
+
+		# Make a list of Administrative Areas
+		aa <- unique(i$area)
+
+		SLE.AA <- NULL
+
+		SLE.AA <- loadZEBOVxts(0,"SierraLeone",0)$tot_case
+
+		#iterator for on a for AAs  
+		for(a in seq_along(aa)){
+			SLE.AA  <- merge.xts(SLE.AA,loadZEBOVxts(2,aa[a],0)$tot_case)
+		}
+
+		# Throw the list to column headers
+		# will this work?
+		colnames(SLE.AA) <- c('Total',aa)
+
+		# get day count
+		t <- as.numeric(index(SLE.AA))
+		t0 <- as.numeric(first(index(SLE.AA)))-1
+		SLE.AA$day <- t-t0
+
+		return(SLE.AA)
+
+	}
+
+
 	summarize <- function(){
 		SLE <- loadZEBOVxts(0,"SierraLeone",0)
 		LBR <- loadZEBOVxts(0,"Liberia",0)
@@ -85,3 +117,6 @@ require("xts")
 
 s <- summarize()
 write.csv(s,"summary.csv",row.names=as.Date(index(s)))
+
+sle <- summarizeSLE()
+write.csv(sle,"summary.SLE.csv",row.names=as.Date(index(sle)))
