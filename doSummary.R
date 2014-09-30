@@ -121,4 +121,4 @@ s <- summarize()
 write.csv(s,"summary.csv",row.names=as.Date(index(s)))
 
 sle <- summarizeSLE()
-write.csv(sle,"summary.SLE.csv",row.names=as.Date(index(sle)),na = "NA")
+write.csv(sle,"summary.SLE.csv",row.names=as.Date(index(sle)),na = "")
