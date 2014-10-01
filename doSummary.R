@@ -63,7 +63,7 @@ require("xts")
 		t0 <- as.numeric(first(index(region)))-1
 
 		region$day <- t-t0
-
+		region <- region[!(is.na(region$GINc)&is.na(region$SLEc)&is.na(region$LBRc)),]
 		return(region)
 
 	}
@@ -126,7 +126,7 @@ require("xts")
 	}
 
 s <- summarize()
-write.csv(s,"summary.csv",row.names=as.Date(index(s)))
+write.csv(s,"summary.csv",row.names=as.Date(index(s)),na = "")
 
 gin <- summarizeAA(2,'GIN',"Guinea")
 write.csv(gin,"summary.GIN.csv",row.names=as.Date(index(gin)),na = "")
