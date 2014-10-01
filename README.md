@@ -1,5 +1,14 @@
 This data has been extracted from various sources to facilitate compartmental modeling efforts. The dataset is designed for simplicity of access. 
 
+## The Setup
+
+The main flatfile is kept in a large OpenOffice Spreadsheet. The summary and Sierra Leone country file are extracted with R. For sample R code to select a given region see the doSummary file.
+
+## Disclaimer
+
+Obvious errors are obvious. This data is prone to off-by-one errors on the date, because results for a given day are often from the day before. Data gleaned from the preliminary NEJM article were literally picked from charts.
+
+
 
 ## Field Definitions
 

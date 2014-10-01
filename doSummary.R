@@ -1,35 +1,41 @@
 require("xts")
 
-	# a function to make an array of Sierra Leone cases
-	summarizeSLE <- function(){
+	# a function to make an array of Administrative Area cases
+	summarizeAA <- function(level,ISO3,country){
+
+		cat(paste("summarizing",country,"with",ISO3,"at level",level),fill=TRUE)
 
 		i <- read.delim("SEIRDh_data_flat.txt",sep = "\t",fill=TRUE,header=TRUE,stringsAsFactors=FALSE)
-		i <- i[i$level==2&i$country=='SLE',]
+		i <- i[i$level==level&i$country==ISO3,]
 
-		# Make a list of Administrative Areas
+		# Make a list of Administrative Area Names
 		aa <- unique(i$area)
 
-		SLE.AA <- NULL
+		AA <- NULL
 
-		SLE.AA <- loadZEBOVxts(0,"SierraLeone",0)$tot_case
+		AA <- loadZEBOVxts(0,country,0)$tot_case
 
 		#iterator for on a for AAs  
 		for(a in seq_along(aa)){
-			SLE.AA  <- merge.xts(SLE.AA,loadZEBOVxts(2,aa[a],0)$tot_case)
+			cat(paste("adding ",aa[a],"at level",level),fill=TRUE)
+			AA  <- merge.xts(AA,loadZEBOVxts(level,aa[a],0)$tot_case)
 		}
 
 		# Throw the list to column headers
 		# will this work?
-		colnames(SLE.AA) <- c('Total',aa)
+		colnames(AA) <- c('Total',aa)
 
+		tdiff <- as.numeric(first(index(AA))-as.Date("2013-12-01"))
+
+		cat(tdiff,fill=TRUE)
 		# get day count
-		t <- as.numeric(index(SLE.AA))
-		t0 <- as.numeric(first(index(SLE.AA)))-1
-		SLE.AA$day <- t-t0
+		t <- as.numeric(index(AA))+tdiff
+		t0 <- as.numeric(first(index(AA)))
+		AA$day <- t-t0
 		
 		#drop NAs
-		SLE.AA <- SLE.AA[!is.na(SLE.AA$Total),]
-		return(SLE.AA)
+		AA <- AA[!is.na(AA$Total),]
+		return(AA)
 
 	}
 
@@ -55,6 +61,7 @@ require("xts")
 		# get day count
 		t <- as.numeric(index(region))
 		t0 <- as.numeric(first(index(region)))-1
+
 		region$day <- t-t0
 
 		return(region)
@@ -67,8 +74,10 @@ require("xts")
 	#
 	# takes an irregular xts
 	# returns a regular xts
+	# 
+	# This is probably not the most robust thing in the world, and might break if given real Z-ordered data
 	#
-	# x <- regular(x)
+	# usage x <- regular(x.zoo)
 	#
 
 	regular <- function(x,extend=365){
@@ -95,10 +104,9 @@ require("xts")
 	     return(reg.x)
 	}
 
+
 	# example, load Sierra Leone loadZEBOVxts(1,"SierraLeone")
-
 	# example, load Monrovia loadZEBOVxts(3,"Monteserrado")
-
 
 	loadZEBOVxts <- function(level=1,area,extend=365){
 
@@ -120,5 +128,11 @@ require("xts")
 s <- summarize()
 write.csv(s,"summary.csv",row.names=as.Date(index(s)))
 
-sle <- summarizeSLE()
+gin <- summarizeAA(2,'GIN',"Guinea")
+write.csv(gin,"summary.GIN.csv",row.names=as.Date(index(gin)),na = "")
+
+sle <- summarizeAA(2,'SLE',"SierraLeone")
 write.csv(sle,"summary.SLE.csv",row.names=as.Date(index(sle)),na = "")
+
+lbr <- summarizeAA(1,'LBR',"Liberia")
+write.csv(lbr,"summary.LBR.csv",row.names=as.Date(index(lbr)),na = "")
