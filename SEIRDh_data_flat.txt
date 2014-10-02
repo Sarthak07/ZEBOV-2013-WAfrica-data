@@ -79,11 +79,6 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140317	NEJMoa1404505	GIN	2	Kissidougou	8			5	0
 20140317	NEJMoa1404505	GIN	2	Macenta	23			12	0
 20140317	NEJMoa1404505	GIN	2	Gueckedou	80			55	0
-20140322	WHO_AFRO_20140322	GIN	0	Guinea	49			29	0
-20140324	WHO_AFRO_20140324	GIN	0	Guinea	86			59	0
-20140325	WHO_AFRO_20140325	GIN	0	Guinea	86			60	0
-20140326	WHO_AFRO_20140326	GIN	0	Guinea	86			62	0
-20140327	WHO_AFRO_20140327	GIN	0	Guinea	103			66	0
 20140410	WHO	LBR	0	Liberia	12			2	0
 20140410	WHO	LBR	1	Lofa	9				0
 20140410	WHO	LBR	1	Monteserrado	1			1	0
@@ -218,7 +213,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140616	Liberia_MoHSW_sitRep	LBR	1	RiverGee					0
 20140616	Liberia_MoHSW_sitRep	LBR	1	RiverCess					0
 20140616	Liberia_MoHSW_sitRep	LBR	1	Sinoe					0
-20140617	SUM	ECO	-1	Region	526			329	
+20140617	SUM	ECO	-1	Region	526			329	0
 20140617	WHO	GIN	0	Guinea	390			263	0
 20140617	WHO	GIN	2	Conakry	70			33	0
 20140617	WHO	GIN	2	Gueckedou	224			173	0
@@ -394,7 +389,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140707	Liberia_MoHSW_sitRep	LBR	1	RiverCess		0		0	0
 20140707	Liberia_MoHSW_sitRep	LBR	1	Sinoe		0		0	0
 20140707		SLE	0	SierraLeone		92	34		0
-20140708	SUM	ECO	-1	Region	876			529	
+20140708	SUM	ECO	-1	Region	876			529	0
 20140708	WHO	GIN	0	Guinea	409			309	0
 20140708	Liberia_MoHSW_sitRep	LBR	0	Liberia	130	14		78	0
 20140708	Liberia_MoHSW_sitRep	LBR	1	Bomi		0		0	0
@@ -443,7 +438,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140714	WHO	SLE	0	SierraLeone	397	82	60	197	0
 20140715		SLE	0	SierraLeone		85	60		0
 20140716		SLE	0	SierraLeone		71	85		0
-20140717	SUM	ECO	-1	Region	1016			610	
+20140717	SUM	ECO	-1	Region	1016			610	0
 20140717	WHO	GIN	0	Guinea	410			310	0
 20140717	Liberia_MoHSW_sitRep	LBR	0	Liberia	164	20		94	0
 20140717	Liberia_MoHSW_sitRep	LBR	1	Bomi	1	0		1	0
@@ -460,7 +455,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140717	WHO	SLE	0	SierraLeone	442	61	89	206	0
 20140718		SLE	0	SierraLeone		65	92		0
 20140719		SLE	0	SierraLeone		75	96		0
-20140720	SUM	ECO	-1	Region	1057			641	
+20140720	SUM	ECO	-1	Region	1057			641	0
 20140720	WHO	GIN	0	Guinea	415			314	0
 20140720	Liberia_MoHSW_sitRep	LBR	0	Liberia	188	24		108	0
 20140720	Liberia_MoHSW_sitRep	LBR	1	Bomi	2	0		2	0
@@ -545,7 +540,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140802	Liberia_MoHSW_sitRep	LBR	1	Monteserrado	116	15		105	0
 20140802	Liberia_MoHSW_sitRep	LBR	1	Nimba	9			3	0
 20140802	Liberia_MoHSW_sitRep	LBR	1	RiverCess				1	0
-20140804	SUM	ECO	-1	Region	1657			906	
+20140804	SUM	ECO	-1	Region	1657			906	0
 20140804	WHO	GIN	0	Guinea	495			363	0
 20140804	Liberia_MoHSW_sitRep	LBR	0	Liberia	471	40		257	0
 20140804	Liberia_MoHSW_sitRep	LBR	1	Bomi	23			8	0
@@ -576,7 +571,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140805	Guinea_Ebola_Sit_Rep_111	GIN	2	Nzerekore	4			1	0
 20140805	Guinea_Ebola_Sit_Rep_111	GIN	2	Yomou	0			0	0
 20140805	Guinea_Ebola_Sit_Rep_111	GIN	2	Dubreka	0			0	0
-20140806	SUM	ECO	-1	Region	1720			936	
+20140806	SUM	ECO	-1	Region	1720			936	0
 20140806	WHO	GIN	0	Guinea	495			367	0
 20140806	Liberia_MoHSW_sitRep	LBR	0	Liberia	508	49		271	0
 20140806	Liberia_MoHSW_sitRep	LBR	1	Bomi	29			10	0
@@ -587,9 +582,9 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140806	Liberia_MoHSW_sitRep	LBR	1	GrandGedeh					0
 20140806	Liberia_MoHSW_sitRep	LBR	1	Lofa	255	36		116	0
 20140806	Liberia_MoHSW_sitRep	LBR	1	Margibi	9			5	0
-20140806	Liberia_MoHSW_sitRep	LBR	1	Maryland	137	13			0
-20140806	Liberia_MoHSW_sitRep	LBR	1	Monteserrado	13			120	0
-20140806	Liberia_MoHSW_sitRep	LBR	1	Nimba				5	0
+20140806	Liberia_MoHSW_sitRep	LBR	1	Maryland		13			0
+20140806	Liberia_MoHSW_sitRep	LBR	1	Monteserrado	137			120	0
+20140806	Liberia_MoHSW_sitRep	LBR	1	Nimba	13			5	0
 20140806	Liberia_MoHSW_sitRep	LBR	1	RiverCess				1	0
 20140806	WHO	SLE	0	SierraLeone	717		161	298	0
 20140807	Liberia_MoHSW_sitRep	LBR	0	Liberia	546	61		283	0
@@ -612,7 +607,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140810		SLE	0	SierraLeone			181		0
 20140811	WHO	GIN	0	Guinea	510			377	0
 20140811	WHO	SLE	0	SierraLeone	783		181	334	0
-20140812	SUM	ECO	-1	Region	1894			976	
+20140812	SUM	ECO	-1	Region	1894			976	0
 20140812	Guinea_Ebola_Sit_Rep_119	GIN	0	Guinea	515	15		378	0
 20140812	Guinea_Ebola_Sit_Rep_119	GIN	2	Conakry	93	4		43	0
 20140812	Guinea_Ebola_Sit_Rep_119	GIN	2	Gueckedou	296	9		255	0
@@ -758,7 +753,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140817	GoSL_MoHS_sitRep_82	SLE	2	Bonthe	1			0	0
 20140817	GoSL_MoHS_sitRep_82	SLE	2	WesternAreaUrban	21			4	0
 20140817	GoSL_MoHS_sitRep_82	SLE	2	WesternAreaRural	4			0	0
-20140818	SUM	ECO	-1	Region	2348			1228	
+20140818	SUM	ECO	-1	Region	2348			1228	0
 20140818	WHO	GIN	0	Guinea	579			396	0
 20140818	Liberia_MoHSW_sitRep	LBR	0	Liberia	862	207		481	0
 20140818	Liberia_MoHSW_sitRep	LBR	1	Bomi	41			14	0
@@ -801,7 +796,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140819	GoSL_MoHS_sitRep_84	SLE	2	Bonthe	1			0	0
 20140819	GoSL_MoHS_sitRep_84	SLE	2	WesternAreaUrban	23			4	0
 20140819	GoSL_MoHS_sitRep_84	SLE	2	WesternAreaRural	5			0	0
-20140820	SUM	ECO	-1	Region	2469			1328	
+20140820	SUM	ECO	-1	Region	2469			1328	0
 20140820	Guinea_Ebola_Sit_Rep_127	GIN	0	Guinea	603	51		402	0
 20140820	Guinea_Ebola_Sit_Rep_127	GIN	2	Conakry	100	13		45	0
 20140820	Guinea_Ebola_Sit_Rep_127	GIN	2	Gueckedou	310	37		266	0
@@ -1096,7 +1091,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140831	GoSL_MoHS_sitRep_96	SLE	2	Bonthe	1			1	0
 20140831	GoSL_MoHS_sitRep_96	SLE	2	WesternAreaUrban	57			4	0
 20140831	GoSL_MoHS_sitRep_96	SLE	2	WesternAreaRural	30			2	0
-20140901	SUM	ECO	-1	Region	3598			1830	
+20140901	SUM	ECO	-1	Region	3598			1830	0
 20140901	Guinea_Ebola_Sit_Rep_139	GIN	0	Guinea	790	105		501	0
 20140901	Guinea_Ebola_Sit_Rep_139	GIN	2	Conakry	133	38		56	0
 20140901	Guinea_Ebola_Sit_Rep_139	GIN	2	Gueckedou	334	67		283	0
@@ -1173,7 +1168,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140902	GoSL_MoHS_sitRep_98	SLE	2	Bonthe	1			1	0
 20140902	GoSL_MoHS_sitRep_98	SLE	2	WesternAreaUrban	64			4	0
 20140902	GoSL_MoHS_sitRep_98	SLE	2	WesternAreaRural	35			2	0
-20140903	SUM	ECO	-1	Region	3954			2025	
+20140903	SUM	ECO	-1	Region	3954			2025	0
 20140903	Guinea_Ebola_Sit_Rep_141	GIN	0	Guinea	823	103		522	0
 20140903	Guinea_Ebola_Sit_Rep_141	GIN	2	Conakry	140	31		57	0
 20140903	Guinea_Ebola_Sit_Rep_141	GIN	2	Gueckedou	336	72		284	0
@@ -1264,7 +1259,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140905	GoSL_MoHS_sitRep_101	SLE	2	Bonthe	1			1	0
 20140905	GoSL_MoHS_sitRep_101	SLE	2	WesternAreaUrban	72			5	0
 20140905	GoSL_MoHS_sitRep_101	SLE	2	WesternAreaRural	41			2	0
-20140906	SUM	ECO	-1	Region	4239			2198	
+20140906	SUM	ECO	-1	Region	4239			2198	0
 20140906	Guinea_Ebola_Sit_Rep_144	GIN	0	Guinea	862	106		555	0
 20140906	Guinea_Ebola_Sit_Rep_144	GIN	2	Conakry	138	24		57	0
 20140906	Guinea_Ebola_Sit_Rep_144	GIN	2	Gueckedou	344	82		288	0
@@ -1312,7 +1307,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140906	GoSL_MoHS_sitRep_102	SLE	2	Bonthe	1			1	0
 20140906	GoSL_MoHS_sitRep_102	SLE	2	WesternAreaUrban	76			5	0
 20140906	GoSL_MoHS_sitRep_102	SLE	2	WesternAreaRural	42			2	0
-20140907	SUM	ECO	-1	Region	4323			2246	
+20140907	SUM	ECO	-1	Region	4323			2246	0
 20140907	Guinea_Ebola_Sit_Rep_145	GIN	0	Guinea	861	50		557	0
 20140907	Guinea_Ebola_Sit_Rep_145	GIN	2	Conakry	131	1		57	0
 20140907	Guinea_Ebola_Sit_Rep_145	GIN	2	Gueckedou	343	17		289	0
@@ -1360,7 +1355,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140907	GoSL_MoHS_sitRep_103	SLE	2	Bonthe	1			1	0
 20140907	GoSL_MoHS_sitRep_103	SLE	2	WesternAreaUrban	79			5	0
 20140907	GoSL_MoHS_sitRep_103	SLE	2	WesternAreaRural	42			2	0
-20140908	SUM	ECO	-1	Region	4494			2259	
+20140908	SUM	ECO	-1	Region	4494			2259	0
 20140908	Guinea_Ebola_Sit_Rep_146	GIN	0	Guinea	867	92		565	0
 20140908	Guinea_Ebola_Sit_Rep_146	GIN	2	Conakry	130	22		57	0
 20140908	Guinea_Ebola_Sit_Rep_146	GIN	2	Gueckedou	343	70		291	0
@@ -1530,7 +1525,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140912	GoSL_MoHS_sitRep_108	SLE	2	Bonthe	1			1	0
 20140912	GoSL_MoHS_sitRep_108	SLE	2	WesternAreaUrban	110			5	0
 20140912	GoSL_MoHS_sitRep_108	SLE	2	WesternAreaRural	54			2	0
-20140913	SUM	ECO	-1	Region	5202			2519	
+20140913	SUM	ECO	-1	Region	5202			2519	0
 20140913	Guinea_Ebola_Sit_Rep_151	GIN	0	Guinea	936	61		595	0
 20140913	Guinea_Ebola_Sit_Rep_151	GIN	2	Conakry	138	33		59	0
 20140913	Guinea_Ebola_Sit_Rep_151	GIN	2	Gueckedou	350	9		292	0
@@ -1610,7 +1605,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140914	GoSL_MoHS_sitRep_110	SLE	2	Bonthe	1			1	0
 20140914	GoSL_MoHS_sitRep_110	SLE	2	WesternAreaUrban	123			5	0
 20140914	GoSL_MoHS_sitRep_110	SLE	2	WesternAreaRural	59			2	0
-20140915	SUM	ECO	-1	Region	5467			2602	
+20140915	SUM	ECO	-1	Region	5467			2602	0
 20140915	Guinea_Ebola_Sit_Rep_153	GIN	0	Guinea	960	79		605	0
 20140915	Guinea_Ebola_Sit_Rep_153	GIN	2	Conakry	147	21		61	0
 20140915	Guinea_Ebola_Sit_Rep_153	GIN	2	Gueckedou	350	58		293	0
@@ -1660,7 +1655,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140915	GoSL_MoHS_sitRep_111	SLE	2	Bonthe	1			1	0
 20140915	GoSL_MoHS_sitRep_111	SLE	2	WesternAreaUrban	136			7	0
 20140915	GoSL_MoHS_sitRep_111	SLE	2	WesternAreaRural	61			2	0
-20140916	SUM	ECO	-1	Region	5622			2678	
+20140916	SUM	ECO	-1	Region	5622			2678	0
 20140916	Guinea_Ebola_Sit_Rep_154	GIN	0	Guinea	964	66		608	0
 20140916	Guinea_Ebola_Sit_Rep_154	GIN	2	Conakry	151	17		61	0
 20140916	Guinea_Ebola_Sit_Rep_154	GIN	2	Gueckedou	350	49		293	0
@@ -1741,7 +1736,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140917	GoSL_MoHS_sitRep_113	SLE	2	Bonthe	2			1	0
 20140917	GoSL_MoHS_sitRep_113	SLE	2	WesternAreaUrban	137			9	0
 20140917	GoSL_MoHS_sitRep_113	SLE	2	WesternAreaRural	65			3	0
-20140918	SUM	ECO	-1	Region	5904			2806	
+20140918	SUM	ECO	-1	Region	5904			2806	0
 20140918	Guinea_Ebola_Sit_Rep_156	GIN	0	Guinea	974	82		630	0
 20140918	Guinea_Ebola_Sit_Rep_156	GIN	2	Conakry	147	19		68	0
 20140918	Guinea_Ebola_Sit_Rep_156	GIN	2	Gueckedou	352	35		295	0
@@ -1842,7 +1837,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140919	GoSL_MoHS_sitRep_115	SLE	2	Bonthe	2			1	1
 20140919	GoSL_MoHS_sitRep_115	SLE	2	WesternAreaUrban	163			9	1
 20140919	GoSL_MoHS_sitRep_115	SLE	2	WesternAreaRural	71			3	1
-20140920	SUM	ECO	-1	Region	6155			2889	
+20140920	SUM	ECO	-1	Region	6155			2889	0
 20140920	Guinea_Ebola_Sit_Rep_158	GIN	0	Guinea	1007	69		631	0
 20140920	Guinea_Ebola_Sit_Rep_158	GIN	2	Conakry	151	21		68	0
 20140920	Guinea_Ebola_Sit_Rep_158	GIN	2	Gueckedou	354	48		295	0
@@ -2000,7 +1995,7 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140923	Guinea_Ebola_Sit_Rep_161	GIN	2	Kerouane	22			5	0
 20140923	Guinea_Ebola_Sit_Rep_161	GIN	2	Coyah	9			5	0
 20140923	Guinea_Ebola_Sit_Rep_161	GIN	2	Dalaba	3			0	0
-20140923	Guinea_Ebola_Sit_Rep_163	GIN	2	Beyla	0			0	0
+20140923	Guinea_Ebola_Sit_Rep_161	GIN	2	Beyla	0			0	0
 20140923	Guinea_Ebola_Sit_Rep_161	GIN	2	Kindia	1			0	0
 20140923	Liberia_MoHSW_sitRep_131	LBR	0	Liberia	3450	432		1819	0
 20140923	Liberia_MoHSW_sitRep_131	LBR	1	Bomi	85	0		60	0
@@ -2117,6 +2112,22 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140925	GoSL_MoHS_sitRep_121	SLE	2	Bonthe	3			1	0
 20140925	GoSL_MoHS_sitRep_121	SLE	2	WesternAreaUrban	210			11	0
 20140925	GoSL_MoHS_sitRep_121	SLE	2	WesternAreaRural	126			4	0
+20140926	Liberia_MoHSW_sitRep_135	LBR	0	Liberia	3664			1983	0
+20140926	Liberia_MoHSW_sitRep_135	LBR	1	Bomi	85			66	0
+20140926	Liberia_MoHSW_sitRep_135	LBR	1	Bong	318			107	0
+20140926	Liberia_MoHSW_sitRep_135	LBR	1	Gbarpolu	1			0	0
+20140926	Liberia_MoHSW_sitRep_135	LBR	1	GrandBassa	119			33	0
+20140926	Liberia_MoHSW_sitRep_135	LBR	1	GrandCapeMount	17			14	0
+20140926	Liberia_MoHSW_sitRep_135	LBR	1	GrandGedeh	3			2	0
+20140926	Liberia_MoHSW_sitRep_135	LBR	1	GrandKru	16			10	0
+20140926	Liberia_MoHSW_sitRep_135	LBR	1	Lofa	778			427	0
+20140926	Liberia_MoHSW_sitRep_135	LBR	1	Margibi	612			238	0
+20140926	Liberia_MoHSW_sitRep_135	LBR	1	Maryland	8			8	0
+20140926	Liberia_MoHSW_sitRep_135	LBR	1	Monteserrado	1418			927	0
+20140926	Liberia_MoHSW_sitRep_135	LBR	1	Nimba	243			134	0
+20140926	Liberia_MoHSW_sitRep_135	LBR	1	RiverGee	17			6	0
+20140926	Liberia_MoHSW_sitRep_135	LBR	1	RiverCess	10			8	0
+20140926	Liberia_MoHSW_sitRep_135	LBR	1	Sinoe	10			2	0
 20140926	GoSL_MoHS_sitRep_122	SLE	0	SierraLeone	2149	99	418	557	0
 20140926	GoSL_MoHS_sitRep_122	SLE	2	Kailahun	579	56		249	0
 20140926	GoSL_MoHS_sitRep_122	SLE	2	Kenema	459	43		234	0
@@ -2147,6 +2158,22 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140927	GoSL_MoHS_sitRep_123	SLE	2	Bonthe	3			1	0
 20140927	GoSL_MoHS_sitRep_123	SLE	2	WesternAreaUrban	222			11	0
 20140927	GoSL_MoHS_sitRep_123	SLE	2	WesternAreaRural	137			4	0
+20140928	Liberia_MoHSW_sitRep_136	LBR	0	Liberia	3688			1987	0
+20140928	Liberia_MoHSW_sitRep_136	LBR	1	Bomi	85			66	0
+20140928	Liberia_MoHSW_sitRep_136	LBR	1	Bong	318			107	0
+20140928	Liberia_MoHSW_sitRep_136	LBR	1	Gbarpolu	1			0	0
+20140928	Liberia_MoHSW_sitRep_136	LBR	1	GrandBassa	119			33	0
+20140928	Liberia_MoHSW_sitRep_136	LBR	1	GrandCapeMount	17			14	0
+20140928	Liberia_MoHSW_sitRep_136	LBR	1	GrandGedeh	3			2	0
+20140928	Liberia_MoHSW_sitRep_136	LBR	1	GrandKru	16			10	0
+20140928	Liberia_MoHSW_sitRep_136	LBR	1	Lofa	781			429	0
+20140928	Liberia_MoHSW_sitRep_136	LBR	1	Margibi	881			241	0
+20140928	Liberia_MoHSW_sitRep_136	LBR	1	Maryland	8			8	0
+20140928	Liberia_MoHSW_sitRep_136	LBR	1	Monteserrado	1438			927	0
+20140928	Liberia_MoHSW_sitRep_136	LBR	1	Nimba	243			134	0
+20140928	Liberia_MoHSW_sitRep_136	LBR	1	RiverGee	17			6	0
+20140928	Liberia_MoHSW_sitRep_136	LBR	1	RiverCess	10			8	0
+20140928	Liberia_MoHSW_sitRep_136	LBR	1	Sinoe	10			2	0
 20140928	GoSL_MoHS_sitRep_124	SLE	0	SierraLeone	2317	106	434	570	0
 20140928	GoSL_MoHS_sitRep_124	SLE	2	Kailahun	579	56		251	0
 20140928	GoSL_MoHS_sitRep_124	SLE	2	Kenema	461	29		236	0
@@ -2162,3 +2189,18 @@ date	source	country	level	area	tot_case	cur_admit	tot_recover	tot_death	house
 20140928	GoSL_MoHS_sitRep_124	SLE	2	Bonthe	3			1	0
 20140928	GoSL_MoHS_sitRep_124	SLE	2	WesternAreaUrban	237			11	0
 20140928	GoSL_MoHS_sitRep_124	SLE	2	WesternAreaRural	158			4	0
+20140929	GoSL_MoHS_sitRep_125	SLE	0	SierraLeone	2407	105	507	575	0
+20140929	GoSL_MoHS_sitRep_125	SLE	2	Kailahun	579	53		254	0
+20140929	GoSL_MoHS_sitRep_125	SLE	2	Kenema	463	33		236	0
+20140929	GoSL_MoHS_sitRep_125	SLE	2	Kono	62			3	0
+20140929	GoSL_MoHS_sitRep_125	SLE	2	Kambia	19			1	0
+20140929	GoSL_MoHS_sitRep_125	SLE	2	Koinadugu	0			0	0
+20140929	GoSL_MoHS_sitRep_125	SLE	2	Bombali	240			13	0
+20140929	GoSL_MoHS_sitRep_125	SLE	2	Tonkolili	89			5	0
+20140929	GoSL_MoHS_sitRep_125	SLE	2	PortLoko	312			19	0
+20140929	GoSL_MoHS_sitRep_125	SLE	2	Pujehun	20			4	0
+20140929	GoSL_MoHS_sitRep_125	SLE	2	Bo	111	19		17	0
+20140929	GoSL_MoHS_sitRep_125	SLE	2	Moyamba	67			7	0
+20140929	GoSL_MoHS_sitRep_125	SLE	2	Bonthe	3			1	0
+20140929	GoSL_MoHS_sitRep_125	SLE	2	WesternAreaUrban	264			11	0
+20140929	GoSL_MoHS_sitRep_125	SLE	2	WesternAreaRural	178			4	0
